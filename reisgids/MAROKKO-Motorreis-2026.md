@@ -2,7 +2,7 @@
 
 **10 rijdagen door Marokko + Spaanse transit — Rif, Midden-Atlas, Sahara, Todra & Dades, Aït Benhaddou, Marrakech en de Hoge Atlas**
 
-> Drie motoren · Ténéré 700 × 2 + BMW R1200GS · veerboot Almería ↔ Nador · ± 2.500 km in Marokko · asfalt met optioneel grind · mooie riads & kasbahs.
+> Drie motoren · 1× Ténéré 700 World Raid + 2× BMW R1200RS · veerboot Almería ↔ Nador · ± 2.500 km in Marokko · volledig op asfalt · mooie riads & kasbahs.
 
 | | |
 |---|---|
@@ -10,10 +10,10 @@
 | **Terugkomst** | woensdag 21 oktober 2026 — Moraira |
 | **Rijdagen Marokko** | 10 (9 nachten in Marokko) |
 | **Totaal deur-tot-deur** | ± 12 dagen |
-| **Gezelschap** | 3 motoren — 2× Yamaha Ténéré 700, 1× BMW R1200GS |
+| **Gezelschap** | 3 motoren — 1× Yamaha Ténéré 700 World Raid (23 L), 2× BMW R1200RS |
 | **Oversteek** | Almería ↔ Nador (nachtferry, ± 6–8 u) |
 | **Hoogste punt** | 🏔️ Tizi n'Tichka-pas — **2.260 m** |
-| **Wegen** | Landschappelijke asfaltwegen; optionele makkelijke grindstukken |
+| **Wegen** | Landschappelijke asfaltwegen (2× RS = sport-tourer); grind alleen optioneel voor de World Raid |
 
 ---
 
@@ -29,11 +29,11 @@ Een grote lus vanuit Moraira: kort de kust af naar Almería, met de nachtferry n
 
 ## 🏍️ Onze drie motoren — praktische groepsafspraken
 
-We rijden met **twee Yamaha Ténéré 700** en **één BMW R1200GS**. Alledrie prima geschikt voor deze route; elke etappe is volledig op asfalt te rijden, met hier en daar een optioneel grindstuk.
+We rijden met **één Yamaha Ténéré 700 World Raid** en **twee BMW R1200RS**. De route is bewust **op asfalt** uitgezet: de R1200RS is een sport-tourer voor de verharde weg, terwijl de World Raid met zijn grote tank juist gemaakt is voor lange afstanden. Elke etappe rijden we volledig op asfalt; een enkel grindstuk is optioneel en alleen voor de World Raid.
 
-- **⛽ Tankbereik bepaalt het tempo.** De T700 (± 16 L) haalt realistisch ± 300–330 km, de R1200GS (± 20 L) ruim meer. **Tank steeds vol bij ± 200 km** en sla geen tankstation over vóór een woestijn- of bergetappe (dag 4, 5 en 10). De kleinste tank bepaalt de groepsstops.
+- **⛽ Tankbereik & groepsstops.** De Ténéré 700 World Raid heeft met **23 L** juist het grootste bereik (± 400 km). De twee **R1200RS** (± 18 L) halen realistisch ± 300 km en **bepalen dus de groepsstops**: samen tanken bij ± 220–250 km, en nooit een station overslaan vóór een woestijn- of bergetappe (dag 4, 5 en 10).
 - **👥 Rijden in formatie.** Rijd verspringend (zigzag) op de weg, met de minst ervaren rijder als tweede zodat de kopman het tempo bepaalt en de laatste (sweep) niemand kwijtraakt. Spreek handsignalen en een vast hergroepeer-punt af (bijv. elke afslag/tankstation).
-- **🪨 Grind & bagage.** De volgeladen GS is zwaarder in los grind dan de T700's. Houd de optionele grindstukken écht optioneel: bij twijfel rijdt iedereen het asfaltalternatief.
+- **🪨 Asfalt & bagage.** De twee R1200RS zijn niet gemaakt voor los grind of pistes — daarom blijft de héle groep op de verharde weg. De optionele grindstukken (bijv. Cirque de Jaffar) zijn hooguit iets voor de World Raid-rijder, en ook dan alleen bij droog weer. Koffers/zijtassen zijn prima voor deze toerroute; geen dieptezand.
 - **📄 Documenten × 3.** Elke motor/rijder heeft een **eigen** set papieren nodig (zie grens-checklist). Groene kaart + tijdelijke Marokkaanse invoer per voertuig.
 - **🔧 Eén set gereedschap + reserveonderdelen** delen kan, maar neem per motor: bandenreparatie/pomp, remblokjes, kettingspray (T700), en een set zekeringen. Bandenmaten en olie verschillen per merk.
 
@@ -122,7 +122,7 @@ Een dag zónder bagage — we laten de tassen in Midelt en rijden een prachtige 
   📍 [Azrou](https://www.google.com/maps/search/?api=1&query=33.4342,-5.2214)
 - **🏨 Terug naar Kasbah Asmaa, Midelt** (nacht 2).
 
-> 💡 De lus is optioneel in te korten; wie liever rust, kan Midelt en omgeving verkennen (Cirque de Jaffar-piste voor de avontuurlijke rijders — grind, alleen droog weer).
+> 💡 De lus is optioneel in te korten; wie liever rust, kan Midelt en omgeving verkennen (Cirque de Jaffar-piste alleen iets voor de World Raid — grind, droog weer; de twee RS blijven op asfalt).
 
 ---
 

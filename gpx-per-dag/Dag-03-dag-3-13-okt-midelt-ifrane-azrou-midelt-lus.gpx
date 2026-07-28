@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Marokko Motorreis 2026" xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>Dag 3 (13 okt) Midelt - Ifrane - Azrou - Midelt (lus)</name></metadata>
+  <rte>
+    <name>Dag 3 (13 okt) Midelt - Ifrane - Azrou - Midelt (lus)</name>
+    <desc>285 km lus zonder bagage. Cederbos, apen, Ifrane. Terug naar Kasbah Asmaa.</desc>
+    <rtept lat="32.6800" lon="-4.7450"><name>Midelt</name></rtept>
+    <rtept lat="32.9350" lon="-5.6680"><name>Zeida/Timahdite-richting</name></rtept>
+    <rtept lat="33.4342" lon="-5.2214"><name>Azrou</name></rtept>
+    <rtept lat="33.4270" lon="-5.1720"><name>Cederbos (berbermakaken)</name></rtept>
+    <rtept lat="33.5228" lon="-5.1106"><name>Ifrane</name></rtept>
+    <rtept lat="33.4342" lon="-5.2214"><name>Azrou (lunch)</name></rtept>
+    <rtept lat="32.6800" lon="-4.7450"><name>Midelt - Kasbah Asmaa</name></rtept>
+  </rte>
+</gpx>

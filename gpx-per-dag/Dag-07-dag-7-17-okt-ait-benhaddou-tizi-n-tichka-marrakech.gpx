@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Marokko Motorreis 2026" xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>Dag 7 (17 okt) Ait Benhaddou - Tizi n'Tichka - Marrakech</name></metadata>
+  <rte>
+    <name>Dag 7 (17 okt) Ait Benhaddou - Tizi n'Tichka - Marrakech</name>
+    <desc>195 km. Hoogste pas van de reis (2260m). Warm aankleden. Defensief rijden in Marrakech.</desc>
+    <rtept lat="31.0472" lon="-7.1290"><name>Ait Benhaddou</name></rtept>
+    <rtept lat="31.2870" lon="-7.2400"><name>Kasbah Telouet (optioneel)</name></rtept>
+    <rtept lat="31.2960" lon="-7.3810"><name>Tizi n'Tichka pas 2260m</name></rtept>
+    <rtept lat="31.4670" lon="-7.6580"><name>Taddert</name></rtept>
+    <rtept lat="31.6258" lon="-7.9891"><name>Marrakech - medina</name></rtept>
+  </rte>
+</gpx>

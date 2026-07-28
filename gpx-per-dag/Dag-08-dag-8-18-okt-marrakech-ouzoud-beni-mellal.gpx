@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Marokko Motorreis 2026" xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>Dag 8 (18 okt) Marrakech - Ouzoud - Beni Mellal</name></metadata>
+  <rte>
+    <name>Dag 8 (18 okt) Marrakech - Ouzoud - Beni Mellal</name>
+    <desc>205 km. Hoogste watervallen van Marokko, dan naar Beni Mellal.</desc>
+    <rtept lat="31.6258" lon="-7.9891"><name>Marrakech</name></rtept>
+    <rtept lat="31.9010" lon="-7.2200"><name>Demnate-richting</name></rtept>
+    <rtept lat="32.0155" lon="-6.7197"><name>Ouzoud-watervallen</name></rtept>
+    <rtept lat="32.2340" lon="-6.4900"><name>Afourer</name></rtept>
+    <rtept lat="32.3373" lon="-6.3498"><name>Beni Mellal</name></rtept>
+  </rte>
+</gpx>
