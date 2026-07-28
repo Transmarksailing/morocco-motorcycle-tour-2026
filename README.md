@@ -1,8 +1,8 @@
 # 🏍️🇲🇦 Marokko Motorreis 2026 — Van Moraira naar de Sahara
 
-Een uitgewerkte **10-daagse motorrondreis door Marokko** (+ Spaanse transit), vanuit **Moraira** via de veerboot **Almería ↔ Nador**. Voor **3 motoren — 1× Yamaha Ténéré 700 World Raid + 2× BMW R1200RS**, in **oktober 2026**. Lekker rijden, mooi slapen (riads & kasbahs), en het beste van Marokko in ± 12 dagen deur-tot-deur — over landschappelijke wegen, met een **GPX-bestand voor de Garmin Zümo XT**.
+Een uitgewerkte **10-daagse motorrondreis door Marokko** (+ Spaanse transit), vanuit **Moraira** via de veerboot **Almería ↔ Nador**. Voor **4 motoren — 2× BMW R1200RS + 1× Honda GB350 + 1× Yamaha Ténéré 700 World Raid**, in **oktober 2026**. Lekker rijden, mooi slapen (riads & kasbahs), en het beste van Marokko in ± 12 dagen deur-tot-deur — over landschappelijke wegen, met een **GPX-bestand voor de Garmin Zümo XT**.
 
-> Gebaseerd op het ChatGPT-tourvoorstel (Almería→Nador, ± 2.500 km), aangepast naar **start/eind Moraira** en **3 motoren**, in het Cabrio-Tour-formaat.
+> Gebaseerd op het ChatGPT-tourvoorstel (Almería→Nador, ± 2.500 km), aangepast naar **start/eind Moraira** en **4 motoren**, in het Cabrio-Tour-formaat.
 
 ---
 
@@ -17,7 +17,7 @@ Een uitgewerkte **10-daagse motorrondreis door Marokko** (+ Spaanse transit), va
 | **Rijdagen Marokko** | 10 (9 nachten in Marokko) |
 | **Afstand Marokko** | ± 2.520 km |
 | **Oversteek** | Almería ↔ Nador (nachtferry) |
-| **Motoren** | 1× Yamaha Ténéré 700 World Raid (23 L), 2× BMW R1200RS |
+| **Motoren** | 2× BMW R1200RS, 1× Honda GB350, 1× Yamaha Ténéré 700 World Raid (23 L) |
 | **Hoogste punt** | 🏔️ Tizi n'Tichka-pas — 2.260 m |
 
 ---
@@ -64,10 +64,11 @@ De deelnemersdocumenten zijn bedoeld om **direct naar de andere twee rijders te 
 
 ---
 
-## 🏍️ Voor onze drie motoren
+## 🏍️ Voor onze vier motoren
 
-- **1× Ténéré 700 World Raid + 2× BMW R1200RS** — de twee RS zijn asfalt-sporttoerders, dus we rijden de héle route **op asfalt**; optionele grindstukken zijn alleen iets voor de World Raid (en ook dan optioneel).
-- **Tankbereik:** de World Raid heeft met **23 L** het grootste bereik (± 400 km); de twee **R1200RS** (± 18 L, ± 300 km) bepalen de groepsstops → samen tanken bij ± 220–250 km. Voltanken vóór dag 4, 5 en 10.
+- **2× BMW R1200RS + 1× Honda GB350 + 1× Ténéré 700 World Raid** — allemaal asfaltmachines (de RS'en zijn sport-tourers, de GB350 een lichte classic), dus we rijden de héle route **op asfalt**; optionele grindstukken zijn alleen iets voor de World Raid (en ook dan optioneel).
+- **Tempo:** de **Honda GB350** (± 21 pk) is de rustigste van het stel en bepaalt op de lange dagen en hoge passen (Tizi n'Tichka) het groepstempo → plan wat ruimer met tijd en stops; niet wegrijden van de langzaamste.
+- **Tankbereik:** de World Raid (23 L) en de zuinige GB350 (± 15 L) halen ruim ± 350–400 km; de twee **R1200RS** (± 18 L, ± 300 km) bepalen de tankstops → samen tanken bij ± 220–250 km. Voltanken vóór dag 4, 5 en 10.
 - **Grens:** elke motor heeft een **eigen** set documenten + tijdelijke voertuiginvoer (zie checklist in het reisgids-document).
 
 ---

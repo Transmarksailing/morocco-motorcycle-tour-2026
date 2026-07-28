@@ -2,7 +2,7 @@
 
 **10 rijdagen door Marokko + Spaanse transit — Rif, Midden-Atlas, Sahara, Todra & Dades, Aït Benhaddou, Marrakech en de Hoge Atlas**
 
-> Drie motoren · 1× Ténéré 700 World Raid + 2× BMW R1200RS · veerboot Almería ↔ Nador · ± 2.500 km in Marokko · volledig op asfalt · mooie riads & kasbahs.
+> Vier motoren · 2× BMW R1200RS + 1× Honda GB350 + 1× Ténéré 700 World Raid · veerboot Almería ↔ Nador · ± 2.500 km in Marokko · volledig op asfalt · mooie riads & kasbahs.
 
 | | |
 |---|---|
@@ -10,7 +10,7 @@
 | **Terugkomst** | woensdag 21 oktober 2026 — Moraira |
 | **Rijdagen Marokko** | 10 (9 nachten in Marokko) |
 | **Totaal deur-tot-deur** | ± 12 dagen |
-| **Gezelschap** | 3 motoren — 1× Yamaha Ténéré 700 World Raid (23 L), 2× BMW R1200RS |
+| **Gezelschap** | 4 motoren — 2× BMW R1200RS, 1× Honda GB350, 1× Yamaha Ténéré 700 World Raid (23 L) |
 | **Oversteek** | Almería ↔ Nador (nachtferry, ± 6–8 u) |
 | **Hoogste punt** | 🏔️ Tizi n'Tichka-pas — **2.260 m** |
 | **Wegen** | Landschappelijke asfaltwegen (2× RS = sport-tourer); grind alleen optioneel voor de World Raid |
@@ -27,14 +27,15 @@ Een grote lus vanuit Moraira: kort de kust af naar Almería, met de nachtferry n
 
 ---
 
-## 🏍️ Onze drie motoren — praktische groepsafspraken
+## 🏍️ Onze vier motoren — praktische groepsafspraken
 
-We rijden met **één Yamaha Ténéré 700 World Raid** en **twee BMW R1200RS**. De route is bewust **op asfalt** uitgezet: de R1200RS is een sport-tourer voor de verharde weg, terwijl de World Raid met zijn grote tank juist gemaakt is voor lange afstanden. Elke etappe rijden we volledig op asfalt; een enkel grindstuk is optioneel en alleen voor de World Raid.
+We rijden met **twee BMW R1200RS**, **één Honda GB350** en **één Yamaha Ténéré 700 World Raid**. De route is bewust **op asfalt** uitgezet: de R1200RS is een sport-tourer voor de verharde weg, de GB350 een lichte, ontspannen classic, en de World Raid met zijn grote tank juist gemaakt voor lange afstanden. Elke etappe rijden we volledig op asfalt; een enkel grindstuk is optioneel en alleen voor de World Raid.
 
-- **⛽ Tankbereik & groepsstops.** De Ténéré 700 World Raid heeft met **23 L** juist het grootste bereik (± 400 km). De twee **R1200RS** (± 18 L) halen realistisch ± 300 km en **bepalen dus de groepsstops**: samen tanken bij ± 220–250 km, en nooit een station overslaan vóór een woestijn- of bergetappe (dag 4, 5 en 10).
-- **👥 Rijden in formatie.** Rijd verspringend (zigzag) op de weg, met de minst ervaren rijder als tweede zodat de kopman het tempo bepaalt en de laatste (sweep) niemand kwijtraakt. Spreek handsignalen en een vast hergroepeer-punt af (bijv. elke afslag/tankstation).
-- **🪨 Asfalt & bagage.** De twee R1200RS zijn niet gemaakt voor los grind of pistes — daarom blijft de héle groep op de verharde weg. De optionele grindstukken (bijv. Cirque de Jaffar) zijn hooguit iets voor de World Raid-rijder, en ook dan alleen bij droog weer. Koffers/zijtassen zijn prima voor deze toerroute; geen dieptezand.
-- **📄 Documenten × 3.** Elke motor/rijder heeft een **eigen** set papieren nodig (zie grens-checklist). Groene kaart + tijdelijke Marokkaanse invoer per voertuig.
+- **🐢 Tempo — de GB350 bepaalt het ritme.** De Honda GB350 (± 21 pk) is de rustigste van het stel. Op de lange dagen (dag 10: 335 km) en de hoge passen (Tizi n'Tichka, 2.260 m) rijdt zij het traagst → **plan wat ruimer met tijd en stops en rijd niet weg van de langzaamste**. Het is een genietroute, geen race.
+- **⛽ Tankbereik & groepsstops.** De Ténéré 700 World Raid (**23 L**, ± 400 km) en de zuinige GB350 (± 15 L, ± 350 km) hebben ruim bereik. De twee **R1200RS** (± 18 L) halen realistisch ± 300 km en **bepalen dus de tankstops**: samen tanken bij ± 220–250 km, en nooit een station overslaan vóór een woestijn- of bergetappe (dag 4, 5 en 10).
+- **👥 Rijden in formatie.** Rijd verspringend (zigzag) op de weg, met de langzaamste/minst ervaren rijder vooraan of tweede zodat niemand hoeft te jagen en de laatste (sweep) niemand kwijtraakt. Spreek handsignalen en een vast hergroepeer-punt af (bijv. elke afslag/tankstation).
+- **🪨 Asfalt & bagage.** De twee R1200RS én de Honda GB350 zijn niet gemaakt voor los grind of pistes — daarom blijft de héle groep op de verharde weg. De optionele grindstukken (bijv. Cirque de Jaffar) zijn hooguit iets voor de World Raid-rijder, en ook dan alleen bij droog weer. Koffers/zijtassen zijn prima voor deze toerroute; geen dieptezand.
+- **📄 Documenten × 4.** Elke motor/rijder heeft een **eigen** set papieren nodig (zie grens-checklist). Groene kaart + tijdelijke Marokkaanse invoer per voertuig.
 - **🔧 Eén set gereedschap + reserveonderdelen** delen kan, maar neem per motor: bandenreparatie/pomp, remblokjes, kettingspray (T700), en een set zekeringen. Bandenmaten en olie verschillen per merk.
 
 ---
@@ -267,7 +268,7 @@ Ontspannen laatste etappe langs de kust terug naar huis. Thuis in Moraira.
 
 ---
 
-## 🛃 Grens & documenten-checklist (per motor × 3)
+## 🛃 Grens & documenten-checklist (per motor × 4)
 
 Zorg dat **elke rijder** deze papieren compleet en in kopie bij zich heeft:
 

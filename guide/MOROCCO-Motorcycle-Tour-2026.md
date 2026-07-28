@@ -2,7 +2,7 @@
 
 **10 riding days through Morocco + Spanish transit — Rif, Middle Atlas, Sahara, Todra & Dades gorges, Aït Benhaddou, Marrakech and the High Atlas**
 
-> Three bikes · 1× Ténéré 700 World Raid + 2× BMW R1200RS · ferry Almería ↔ Nador · ± 2,500 km in Morocco · fully on tarmac · characterful riads & kasbahs.
+> Four bikes · 2× BMW R1200RS + 1× Honda GB350 + 1× Ténéré 700 World Raid · ferry Almería ↔ Nador · ± 2,500 km in Morocco · fully on tarmac · characterful riads & kasbahs.
 
 | | |
 |---|---|
@@ -10,7 +10,7 @@
 | **Return** | Wednesday 21 October 2026 — Moraira |
 | **Riding days in Morocco** | 10 (9 nights in Morocco) |
 | **Total door-to-door** | ± 12 days |
-| **Group** | 3 bikes — 1× Yamaha Ténéré 700 World Raid, 2× BMW R1200RS |
+| **Group** | 4 bikes — 2× BMW R1200RS, 1× Honda GB350, 1× Yamaha Ténéré 700 World Raid (23 L) |
 | **Crossing** | Almería ↔ Nador (night ferry, ± 6–8 h) |
 | **Highest point** | 🏔️ Tizi n'Tichka pass — **2,260 m** |
 | **Roads** | Scenic tarmac roads; optional easy gravel for the World Raid only |
@@ -27,14 +27,15 @@ A grand loop from Moraira: a short run down the coast to Almería, the night fer
 
 ---
 
-## 🏍️ Our three bikes — group notes
+## 🏍️ Our four bikes — group notes
 
-We're riding **one Yamaha Ténéré 700 World Raid** and **two BMW R1200RS**. The route is deliberately planned **on tarmac**: the R1200RS is a road-focused sports-tourer, while the World Raid, with its large tank, is built for long distances. Every stage is ridden entirely on tarmac; the odd gravel section is optional and only for the World Raid.
+We're riding **two BMW R1200RS**, **one Honda GB350** and **one Yamaha Ténéré 700 World Raid**. The route is deliberately planned **on tarmac**: the R1200RS is a road-focused sports-tourer, the GB350 a light, relaxed classic, and the World Raid, with its large tank, is built for long distances. Every stage is ridden entirely on tarmac; the odd gravel section is optional and only for the World Raid.
 
-- **⛽ Fuel range & group stops.** The Ténéré 700 World Raid actually has the greatest range with its **23 L** tank (± 400 km). The two **R1200RS** (± 18 L) realistically manage ± 300 km and therefore **set the group's fuel stops**: refuel together at ± 220–250 km, and never skip a station before a desert or mountain stage (days 4, 5 and 10).
-- **👥 Riding in formation.** Ride in a staggered formation, with the least experienced rider second so the leader sets the pace and the last rider (sweep) keeps everyone together. Agree hand signals and a fixed regroup point (e.g. every junction/fuel stop).
-- **🛣️ Tarmac & luggage.** The two R1200RS are not made for loose gravel or pistes — so the whole group stays on the sealed road. The optional gravel sections (e.g. Cirque de Jaffar) are at most for the World Raid rider, and only in dry weather. Panniers/side cases are perfectly fine for this touring route; no soft sand.
-- **📄 Documents × 3.** Each bike/rider needs their **own** set of papers (see border checklist). Green card + temporary Moroccan vehicle import per vehicle.
+- **🐢 Pace — the GB350 sets the rhythm.** The Honda GB350 (± 21 bhp) is the most relaxed of the group. On the long days (day 10: 335 km) and the high passes (Tizi n'Tichka, 2,260 m) it's the slowest → **allow a little extra time and stops, and don't ride away from the slowest bike**. This is a savour-it route, not a race.
+- **⛽ Fuel range & group stops.** The Ténéré 700 World Raid (**23 L**, ± 400 km) and the economical GB350 (± 15 L, ± 350 km) have ample range. The two **R1200RS** (± 18 L) realistically manage ± 300 km and therefore **set the fuel stops**: refuel together at ± 220–250 km, and never skip a station before a desert or mountain stage (days 4, 5 and 10).
+- **👥 Riding in formation.** Ride in a staggered formation, with the slowest/least experienced rider at or near the front so nobody has to chase, and the last rider (sweep) keeps everyone together. Agree hand signals and a fixed regroup point (e.g. every junction/fuel stop).
+- **🛣️ Tarmac & luggage.** The two R1200RS and the Honda GB350 are not made for loose gravel or pistes — so the whole group stays on the sealed road. The optional gravel sections (e.g. Cirque de Jaffar) are at most for the World Raid rider, and only in dry weather. Panniers/side cases are perfectly fine for this touring route; no soft sand.
+- **📄 Documents × 4.** Each bike/rider needs their **own** set of papers (see border checklist). Green card + temporary Moroccan vehicle import per vehicle.
 - **🔧 One shared set of tools + spares** is fine, but per bike carry: puncture-repair kit/pump, brake pads, chain lube (World Raid), and a set of fuses. Tyre sizes and oil differ per make.
 
 ---
@@ -233,41 +234,41 @@ A relaxed final stage along the coast back home. Home in Moraira.
 
 | Night | Place | Suggestion | Type | Indicative/night (2 pers) |
 |---|---|---|---|---|
-| Ferry | Almería→Nador | Ferry outside cabin | Cabin | £80–140 pp incl. bike |
-| 1 | Guercif | Tidy town hotel | Simple | £25–50 |
-| 2 | Midelt | **Kasbah Asmaa** | Kasbah | £40–70 |
-| 3 | Midelt | **Kasbah Asmaa** | Kasbah | £40–70 |
-| 4 | Merzouga | Dune lodge / desert camp | Kasbah/camp | £45–120 |
-| 5 | Dades Gorge | **Chez Pierre** / Xaluca | Boutique | £50–95 |
-| 6 | Aït Benhaddou | **Kasbah Ellouze** etc. | Kasbah | £48–85 |
-| 7 | Marrakech | Riad in the medina | Riad | £60–140 |
-| 8 | Beni Mellal | Tidy town hotel | Simple | £30–60 |
-| 9 | Midelt | **Kasbah Asmaa** | Kasbah | £40–70 |
-| Ferry | Nador→Almería | Ferry outside cabin | Cabin | £80–140 pp incl. bike |
+| Ferry | Almería→Nador | Ferry outside cabin | Cabin | € 90–160 pp incl. bike |
+| 1 | Guercif | Tidy town hotel | Simple | € 30–60 |
+| 2 | Midelt | **Kasbah Asmaa** | Kasbah | € 45–80 |
+| 3 | Midelt | **Kasbah Asmaa** | Kasbah | € 45–80 |
+| 4 | Merzouga | Dune lodge / desert camp | Kasbah/camp | € 50–140 |
+| 5 | Dades Gorge | **Chez Pierre** / Xaluca | Boutique | € 60–110 |
+| 6 | Aït Benhaddou | **Kasbah Ellouze** etc. | Kasbah | € 55–100 |
+| 7 | Marrakech | Riad in the medina | Riad | € 70–160 |
+| 8 | Beni Mellal | Tidy town hotel | Simple | € 35–70 |
+| 9 | Midelt | **Kasbah Asmaa** | Kasbah | € 45–80 |
+| Ferry | Nador→Almería | Ferry outside cabin | Cabin | € 90–160 pp incl. bike |
 
-> 💷 Prices are indicative (October 2026) and **not checked in real time**. In high season and around public holidays they can be higher — **book early** for Merzouga, Dades and Marrakech.
+> 💶 Prices are indicative (October 2026) and **not checked in real time**. In high season and around public holidays they can be higher — **book early** for Merzouga, Dades and Marrakech.
 
 ---
 
-## 💷 Indicative cost per bike/rider
+## 💶 Indicative cost per bike/rider
 
 | Item | Indicative |
 |---|---|
-| Return ferry Almería↔Nador (bike + rider, cabin) | £230–370 |
-| 9 nights Morocco (twin room shared → pp) | £220–440 |
-| Dinners + lunches + coffee (10 days) | £175–310 |
-| Fuel in Morocco (± 2,520 km) | £80–130 |
-| Fuel in Spain transit (± 800 km) | £55–80 |
-| Temporary vehicle import + border (free, plus copies) | £0–12 |
-| Motorcycle green-card cover for Morocco | £25–80 |
-| Entries, guides, tea, souvenirs | £70–175 |
-| **Total per rider (indicative)** | **± £850–1,600** |
+| Return ferry Almería↔Nador (bike + rider, cabin) | € 260–420 |
+| 9 nights Morocco (twin room shared → pp) | € 250–500 |
+| Dinners + lunches + coffee (10 days) | € 200–350 |
+| Fuel in Morocco (± 2,520 km) | € 90–150 |
+| Fuel in Spain transit (± 800 km) | € 60–90 |
+| Temporary vehicle import + border (free, plus copies) | € 0–15 |
+| Motorcycle green-card cover for Morocco | € 30–90 |
+| Entries, guides, tea, souvenirs | € 80–200 |
+| **Total per rider (indicative)** | **± € 1,000–1,800** |
 
 *Morocco is inexpensive on the ground; the biggest items are the ferry and fuel/travel.*
 
 ---
 
-## 🛃 Border & documents checklist (per bike × 3)
+## 🛃 Border & documents checklist (per bike × 4)
 
 Make sure **each rider** carries these papers, complete and with copies:
 
