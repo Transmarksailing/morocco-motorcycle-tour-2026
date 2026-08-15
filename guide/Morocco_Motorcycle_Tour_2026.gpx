@@ -17,7 +17,7 @@
   <wpt lat="33.4270" lon="-5.1720"><name>Cedar forest Azrou (Barbary macaques)</name><sym>Forest</sym><desc>Cedar and pine forest, chance of wild monkeys. Day 3.</desc></wpt>
   <wpt lat="33.4342" lon="-5.2214"><name>Azrou - lunch</name><sym>Restaurant</sym><desc>Market town, lunch stop day 3.</desc></wpt>
   <wpt lat="31.9314" lon="-4.4244"><name>Errachidia</name><sym>City (Small)</sym><desc>Gateway to the Ziz Valley.</desc></wpt>
-  <wpt lat="31.7000" lon="-4.2800"><name>Ziz Valley viewpoint</name><sym>Scenic Area</sym><desc>Palm ribbon between red cliffs. Transition mountains to desert. Day 4.</desc></wpt>
+  <wpt lat="31.6870" lon="-4.2570"><name>Ziz Valley - Aoufous (N13)</name><sym>Scenic Area</sym><desc>Palm ribbon between red cliffs, on the N13. Transition mountains to desert. Day 4.</desc></wpt>
   <wpt lat="31.0990" lon="-4.0130"><name>Merzouga - Erg Chebbi (NIGHT 4)</name><sym>Summit</sym><desc>Sand dunes up to 150m. Kasbah Mohayut: parking inside the kasbah. Sunset on the dunes. Do NOT ride laden bikes into soft sand.</desc></wpt>
   <wpt lat="31.2810" lon="-4.2600"><name>Rissani - souk</name><sym>Shopping Center</sym><desc>Old caravan town, market Sun/Tue/Thu. Day 5.</desc></wpt>
   <wpt lat="31.5900" lon="-5.6000"><name>Todra Gorge</name><sym>Scenic Area</sym><desc>Gorge walls up to 300m sheer. Ride through + photo stop. Day 5.</desc></wpt>
@@ -84,9 +84,9 @@
     <name>Day 4 (15 Oct) Midelt - Ziz Valley - Merzouga</name>
     <desc>285 km. N13 through the Ziz Valley into the Sahara. Arrive Erg Chebbi before sunset. Fill up!</desc>
     <rtept lat="32.6800" lon="-4.7450"><name>Midelt</name></rtept>
-    <rtept lat="32.2200" lon="-4.4300"><name>Tunnel du Legionnaire (N13)</name></rtept>
+    <rtept lat="32.2578" lon="-4.5060"><name>Rich (N13, Tunnel du Legionnaire)</name></rtept>
     <rtept lat="31.9314" lon="-4.4244"><name>Errachidia</name></rtept>
-    <rtept lat="31.7000" lon="-4.2800"><name>Ziz Valley viewpoint</name></rtept>
+    <rtept lat="31.6870" lon="-4.2570"><name>Ziz Valley - Aoufous (N13)</name></rtept>
     <rtept lat="31.4370" lon="-4.2380"><name>Erfoud</name></rtept>
     <rtept lat="31.0990" lon="-4.0130"><name>Merzouga - Erg Chebbi</name></rtept>
   </rte>

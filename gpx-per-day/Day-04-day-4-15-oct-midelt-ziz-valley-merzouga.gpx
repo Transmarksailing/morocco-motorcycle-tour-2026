@@ -7,9 +7,9 @@
     <name>Day 4 (15 Oct) Midelt - Ziz Valley - Merzouga</name>
     <desc>285 km. N13 through the Ziz Valley into the Sahara. Arrive Erg Chebbi before sunset. Fill up!</desc>
     <rtept lat="32.6800" lon="-4.7450"><name>Midelt</name></rtept>
-    <rtept lat="32.2200" lon="-4.4300"><name>Tunnel du Legionnaire (N13)</name></rtept>
+    <rtept lat="32.2578" lon="-4.5060"><name>Rich (N13, Tunnel du Legionnaire)</name></rtept>
     <rtept lat="31.9314" lon="-4.4244"><name>Errachidia</name></rtept>
-    <rtept lat="31.7000" lon="-4.2800"><name>Ziz Valley viewpoint</name></rtept>
+    <rtept lat="31.6870" lon="-4.2570"><name>Ziz Valley - Aoufous (N13)</name></rtept>
     <rtept lat="31.4370" lon="-4.2380"><name>Erfoud</name></rtept>
     <rtept lat="31.0990" lon="-4.0130"><name>Merzouga - Erg Chebbi</name></rtept>
   </rte>

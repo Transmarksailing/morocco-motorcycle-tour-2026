@@ -130,7 +130,7 @@ A day *without luggage* — we leave the bags in Midelt and ride a beautiful loo
 **Route:** Midelt → Errachidia → Ziz Valley (N13) → Erfoud → Merzouga · **Riding time:** ± 4.5 h · **Distance:** 285 km · **Scenery:** ★★★★★
 
 - 🏞️ **Ziz Valley (N13)** · The great transition from mountains to desert: a green ribbon of tens of thousands of date palms between red-brown rock walls. Stop at the **Ziz viewpoint**.
-  📍 [Ziz Valley viewpoint](https://www.google.com/maps/search/?api=1&query=31.7000,-4.2800) · 📷 [Photos](https://www.google.com/search?tbm=isch&q=Ziz+Valley+Morocco)
+  📍 [Ziz Valley viewpoint](https://www.google.com/maps/search/?api=1&query=31.6870,-4.2570) · 📷 [Photos](https://www.google.com/search?tbm=isch&q=Ziz+Valley+Morocco)
 - 🐪 **Arrival Erg Chebbi / Merzouga** · The first real sand dunes (up to ± 150 m high). Ride the final stretch towards the foot of the dunes.
   📍 [Merzouga / Erg Chebbi](https://www.google.com/maps/search/?api=1&query=31.0990,-4.0130) · 📷 [Photos](https://www.google.com/search?tbm=isch&q=Erg+Chebbi+Merzouga+dunes)
 - 🏨 **Overnight — Kasbah Mohayut (Hassi Labied)** · A kasbah right by the Erg Chebbi dunes with sunset views; **parking inside the walled kasbah** — secure for the 3 bikes. Alternatives: **Riad Madu** or **Kasbah Erg Chebbi** (both walled, by the dunes).
