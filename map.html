@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Morocco Motorcycle Tour 2026 — Route Map</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<style>
+  html,body{margin:0;height:100%;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+  #map{height:100%}
+  .legend{background:rgba(255,255,255,.95);padding:10px 12px;line-height:1.5;border-radius:8px;box-shadow:0 1px 6px rgba(0,0,0,.3);font-size:13px;max-height:80vh;overflow:auto}
+  .legend h4{margin:0 0 6px;font-size:14px}
+  .legend .row{display:flex;align-items:center;gap:6px}
+  .legend .swatch{width:22px;height:0;border-top:4px solid #000;display:inline-block}
+  .legend .muted{color:#666;font-size:12px;margin-top:6px}
+  .daymark{border-radius:50%;color:#fff;font-weight:700;text-align:center;line-height:22px;width:22px;height:22px;box-shadow:0 0 0 2px #fff}
+  .title{background:rgba(255,255,255,.95);padding:6px 10px;border-radius:8px;box-shadow:0 1px 6px rgba(0,0,0,.3);font-weight:700}
+</style>
+</head>
+<body>
+<div id="map"></div>
+<script>
+// ---- Route data (from the GPX): each day = colour + list of [lat,lon] ----
+const DAYS = [
+ {n:"T", label:"Transit 11 Oct · Moraira → Almería + ferry", color:"#808080", dash:"6,6",
+  pts:[[38.6873,0.1440],[38.3452,-0.4810],[37.9922,-1.1307],[37.1773,-1.8210],[36.8300,-2.4640]]},
+ {n:"1", label:"Day 1 (12 Oct) · Nador → Guercif — 202 km", color:"#e6194B",
+  pts:[[35.2680,-2.9330],[34.9130,-2.9420],[34.6180,-3.0630],[34.4127,-2.8942],[34.2270,-3.3530]]},
+ {n:"2", label:"Day 2 (13 Oct) · Guercif → Midelt (N15) — 238 km", color:"#f58231",
+  pts:[[34.2270,-3.3530],[33.6870,-3.9880],[33.0470,-3.9890],[32.8300,-4.3000],[32.6800,-4.7450]]},
+ {n:"3", label:"Day 3 (14 Oct) · Midelt → Ifrane → Azrou → Midelt (loop) — 285 km", color:"#bfa100",
+  pts:[[32.6800,-4.7450],[32.9350,-5.6680],[33.4342,-5.2214],[33.4270,-5.1720],[33.5228,-5.1106],[33.4342,-5.2214],[32.6800,-4.7450]]},
+ {n:"4", label:"Day 4 (15 Oct) · Midelt → Ziz Valley → Merzouga — 285 km", color:"#3cb44b",
+  pts:[[32.6800,-4.7450],[32.2200,-4.4300],[31.9314,-4.4244],[31.7000,-4.2800],[31.4370,-4.2380],[31.0990,-4.0130]]},
+ {n:"5", label:"Day 5 (16 Oct) · Merzouga → Todra → Dades — 275 km", color:"#42d4f4",
+  pts:[[31.0990,-4.0130],[31.2810,-4.2600],[31.5147,-5.5326],[31.5900,-5.6000],[31.5147,-5.5326],[31.3690,-5.9910]]},
+ {n:"6", label:"Day 6 (17 Oct) · Dades hairpins → Ouarzazate → Aït Benhaddou — 215 km", color:"#4363d8",
+  pts:[[31.3690,-5.9910],[31.5560,-5.9700],[31.3690,-5.9910],[31.2160,-6.4180],[30.9200,-6.8930],[31.0472,-7.1290]]},
+ {n:"7", label:"Day 7 (18 Oct) · Aït Benhaddou → Tizi n'Tichka → Marrakech — 195 km", color:"#911eb4",
+  pts:[[31.0472,-7.1290],[31.2870,-7.2400],[31.2960,-7.3810],[31.4670,-7.6580],[31.6258,-7.9891]]},
+ {n:"8", label:"Day 8 (19 Oct) · Marrakech → Ouzoud → Beni Mellal — 205 km", color:"#f032e6",
+  pts:[[31.6258,-7.9891],[31.9010,-7.2200],[32.0155,-6.7197],[32.2340,-6.4900],[32.3373,-6.3498]]},
+ {n:"9", label:"Day 9 (20 Oct) · Beni Mellal → Khenifra → Midelt — 285 km", color:"#9A6324",
+  pts:[[32.3373,-6.3498],[32.5980,-6.2680],[32.9350,-5.6680],[32.7860,-5.1050],[32.6800,-4.7450]]},
+ {n:"10", label:"Day 10 (21 Oct) · Midelt → Missour → Guercif → Nador + ferry — 335 km", color:"#000075",
+  pts:[[32.6800,-4.7450],[33.0470,-3.9890],[34.2270,-3.3530],[34.4127,-2.8942],[34.9130,-2.9420],[35.2680,-2.9330]]},
+ {n:"T", label:"Transit 22 Oct · Almería → Moraira", color:"#808080", dash:"6,6",
+  pts:[[36.8300,-2.4640],[37.1773,-1.8210],[37.9922,-1.1307],[38.3452,-0.4810],[38.6873,0.1440]]},
+];
+
+// ---- Overnight hotels / key points ----
+const HOTELS = [
+ {ll:[38.6873,0.1440], t:"START/END — Moraira"},
+ {ll:[36.8300,-2.4640], t:"Ferry port — Almería"},
+ {ll:[35.2680,-2.9330], t:"Ferry port — Nador (Beni Ansar)"},
+ {ll:[34.2270,-3.3530], t:"NIGHT 1 — Guercif · Hotel Atlas Guercif (underground parking)"},
+ {ll:[32.6800,-4.7450], t:"NIGHTS 2,3,9 — Midelt · Riad Villa Midelt (internal parking)"},
+ {ll:[31.0990,-4.0130], t:"NIGHT 4 — Merzouga · Kasbah Mohayut (parking inside kasbah)"},
+ {ll:[31.3690,-5.9910], t:"NIGHT 5 — Dades · Hotel Xaluca Dades (enclosed guarded parking)"},
+ {ll:[31.0472,-7.1290], t:"NIGHT 6 — Aït Benhaddou · La Fibule d'Or / Kasbah Ellouze"},
+ {ll:[31.6258,-7.9891], t:"NIGHT 7 — Marrakech · Kenzi Rose Garden (enclosed garage)"},
+ {ll:[32.3373,-6.3498], t:"NIGHT 8 — Beni Mellal · Hotel Chems (guarded parking)"},
+];
+
+const map = L.map('map');
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+  {maxZoom:18, attribution:'© OpenStreetMap'}).addTo(map);
+
+const all = [];
+DAYS.forEach(d=>{
+  const line = L.polyline(d.pts,{color:d.color,weight:4,opacity:.85,dashArray:d.dash||null}).addTo(map);
+  line.bindPopup("<b>"+d.label+"</b>");
+  d.pts.forEach(p=>all.push(p));
+  // numbered marker at the day's destination (last point) for real riding days
+  if(d.n!=="T"){
+    const end=d.pts[d.pts.length-1];
+    L.marker(end,{icon:L.divIcon({className:'',html:'<div class="daymark" style="background:'+d.color+'">'+d.n+'</div>',iconSize:[22,22],iconAnchor:[11,11]})}).addTo(map)
+      .bindPopup("<b>"+d.label+"</b>");
+  }
+});
+
+// hotel markers
+HOTELS.forEach(h=>{
+  L.marker(h.ll).addTo(map).bindPopup("🏨 "+h.t);
+});
+
+map.fitBounds(L.latLngBounds(all).pad(0.08));
+
+// title
+const title=L.control({position:'topleft'});
+title.onAdd=function(){const d=L.DomUtil.create('div','title');d.innerHTML='🏍️🇲🇦 Morocco Motorcycle Tour 2026 — route map';return d;};
+title.addTo(map);
+
+// legend
+const legend=L.control({position:'bottomright'});
+legend.onAdd=function(){
+  const d=L.DomUtil.create('div','legend');
+  let h='<h4>Days (colour-coded)</h4>';
+  DAYS.filter(x=>x.n!=="T").forEach(x=>{
+    h+='<div class="row"><span class="swatch" style="border-top-color:'+x.color+'"></span> '+x.label+'</div>';
+  });
+  h+='<div class="row"><span class="swatch" style="border-top-color:#808080;border-top-style:dashed"></span> Spanish transit (Moraira ↔ Almería)</div>';
+  h+='<div class="muted">🏨 markers = overnight hotels (secure parking) · numbered circles = end of each riding day.<br>Indicative routing — use the GPX in Kurviger/Zümo for turn-by-turn.</div>';
+  return d;
+};
+legend.addTo(map);
+</script>
+</body>
+</html>

@@ -41,6 +41,8 @@ A fully planned **10-day motorcycle tour of Morocco** (+ Spanish transit), from 
 
 📄 **Full rider's guide (to send):** [`guide/MOROCCO-Motorcycle-Tour-2026.md`](guide/MOROCCO-Motorcycle-Tour-2026.md) · [web](guide/MOROCCO-Motorcycle-Tour-2026.html) · [print PDF](guide/MOROCCO-Motorcycle-Tour-2026.pdf)
 
+🗺️ **Interactive route map:** [`map.html`](map.html) — all 10 days colour-coded & numbered, with the overnight hotels marked (built from the GPX; open on the live site).
+
 ---
 
 ## 📂 Contents of this folder
@@ -49,6 +51,7 @@ A fully planned **10-day motorcycle tour of Morocco** (+ Spanish transit), from 
 morocco-2026/
 ├── README.md                                 ← this overview
 ├── index.html                                ← overview (web version)
+├── map.html                                  ← interactive route map (colour-coded + hotels)
 ├── guide/
 │   ├── MOROCCO-Motorcycle-Tour-2026.md/.html ← full rider's guide
 │   ├── MOROCCO-Motorcycle-Tour-2026.pdf      ← print version (A4)
