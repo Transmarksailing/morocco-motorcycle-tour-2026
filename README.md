@@ -43,6 +43,8 @@ A fully planned **10-day motorcycle tour of Morocco** (+ Spanish transit), from 
 
 🗺️ **Interactive route map:** [`map.html`](map.html) — all 10 days colour-coded & numbered, with the overnight hotels marked (built from the GPX; open on the live site).
 
+🏨 **Hotel & ferry booking sheet:** [`guide/HOTELS-Booking-Sheet.md`](guide/HOTELS-Booking-Sheet.md) · [web](guide/HOTELS-Booking-Sheet.html) · [PDF](guide/HOTELS-Booking-Sheet.pdf) — per night: address, phone/WhatsApp/email, price, booking link, secure-parking note + a ready-to-send enquiry (EN/FR).
+
 ---
 
 ## 📂 Contents of this folder
