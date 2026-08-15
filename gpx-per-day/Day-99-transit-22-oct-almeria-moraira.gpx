@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx version="1.1" creator="Marokko Motorreis 2026" xmlns="http://www.topografix.com/GPX/1/1"
+<gpx version="1.1" creator="Morocco Motorcycle Tour 2026" xmlns="http://www.topografix.com/GPX/1/1"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <metadata><name>Transit (22 okt) Almeria - Moraira</name></metadata>
+  <metadata><name>Transit (22 Oct) Almeria - Moraira</name></metadata>
   <rte>
-    <name>Transit (22 okt) Almeria - Moraira</name>
-    <desc>Ca. 400 km, 4,5u. Ontspannen laatste etappe langs de kust naar huis.</desc>
-    <rtept lat="36.8300" lon="-2.4640"><name>Haven Almeria</name></rtept>
+    <name>Transit (22 Oct) Almeria - Moraira</name>
+    <desc>Approx 400 km, 4.5h. Relaxed final leg along the coast back home.</desc>
+    <rtept lat="36.8300" lon="-2.4640"><name>Almeria port</name></rtept>
     <rtept lat="37.1773" lon="-1.8210"><name>Aguilas</name></rtept>
     <rtept lat="37.9922" lon="-1.1307"><name>Murcia</name></rtept>
     <rtept lat="38.3452" lon="-0.4810"><name>Alicante</name></rtept>

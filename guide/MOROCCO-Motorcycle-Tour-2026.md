@@ -328,7 +328,7 @@ Make sure **each rider** carries these papers, complete and with copies:
 
 ## 📲 Loading the GPX file into your Garmin Zümo XT
 
-**File:** `Marokko_Motorreis_2026.gpx` (in the `reisgids/` folder of this pack — the routes/waypoints are language-neutral)
+**Files:** per-day routes in `gpx-per-day/` (best for Kurviger) · combined `Morocco_Motorcycle_Tour_2026.gpx` in this `guide/` folder (best for the Zümo XT)
 
 1. Connect the Zümo XT via USB to your computer (or use the **Garmin Tread / Drive** app).
 2. Copy the `.gpx` file to the **`Garmin/GPX`** folder on the device.

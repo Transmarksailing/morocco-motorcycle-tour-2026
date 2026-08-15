@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Morocco Motorcycle Tour 2026" xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>Day 8 (19 Oct) Marrakech - Ouzoud - Beni Mellal</name></metadata>
+  <rte>
+    <name>Day 8 (19 Oct) Marrakech - Ouzoud - Beni Mellal</name>
+    <desc>205 km. Highest waterfalls in Morocco, then on to Beni Mellal.</desc>
+    <rtept lat="31.6258" lon="-7.9891"><name>Marrakech</name></rtept>
+    <rtept lat="31.9010" lon="-7.2200"><name>Demnate direction</name></rtept>
+    <rtept lat="32.0155" lon="-6.7197"><name>Ouzoud waterfalls</name></rtept>
+    <rtept lat="32.2340" lon="-6.4900"><name>Afourer</name></rtept>
+    <rtept lat="32.3373" lon="-6.3498"><name>Beni Mellal</name></rtept>
+  </rte>
+</gpx>

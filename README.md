@@ -1,97 +1,92 @@
-# 🏍️🇲🇦 Marokko Motorreis 2026 — Van Moraira naar de Sahara
+# 🏍️🇲🇦 Morocco Motorcycle Tour 2026 — From Moraira to the Sahara
 
-Een uitgewerkte **10-daagse motorrondreis door Marokko** (+ Spaanse transit), vanuit **Moraira** via de veerboot **Almería ↔ Nador**. Voor **3 motoren — 2× BMW R1200RS + 1× Yamaha Ténéré 700 World Raid**, in **oktober 2026**. Lekker rijden, mooi slapen (riads & kasbahs), en het beste van Marokko in ± 12 dagen deur-tot-deur — over landschappelijke wegen, met een **GPX-bestand voor de Garmin Zümo XT**.
+A fully planned **10-day motorcycle tour of Morocco** (+ Spanish transit), from **Moraira** via the **Almería ↔ Nador** ferry. For **3 bikes — 2× BMW R1200RS + 1× Yamaha Ténéré 700 World Raid**, in **October 2026**. Great riding, characterful riads & kasbahs (all chosen for **secure motorcycle parking**), and the best of Morocco in ± 12 days door-to-door — with a **GPX file for the Garmin Zümo XT**.
 
-> Gebaseerd op het ChatGPT-tourvoorstel (Almería→Nador, ± 2.500 km), aangepast naar **start/eind Moraira** en **3 motoren**, in het Cabrio-Tour-formaat.
+> Based on a ChatGPT tour proposal (Almería→Nador, ± 2,500 km), adapted to **start/finish in Moraira** and **3 bikes**, in the Cabrio-Tour format.
 
 ---
 
-## 🗺️ De route in het kort
+## 🗺️ The route at a glance
 
 **Moraira → Almería (ferry) → Nador → Guercif → Midelt → Ifrane/Azrou → Merzouga (Sahara) → Todra & Dades → Aït Benhaddou → Marrakech → Ouzoud → Beni Mellal → Midelt → Nador (ferry) → Almería → Moraira**
 
 | | |
 |---|---|
-| **Vertrek** | zondag 11 oktober 2026 — Moraira |
-| **Terugkomst** | donderdag 22 oktober 2026 — Moraira |
-| **Rijdagen Marokko** | 10 (9 nachten in Marokko) |
-| **Afstand Marokko** | ± 2.520 km |
-| **Oversteek** | Almería ↔ Nador (nachtferry) |
-| **Motoren** | 2× BMW R1200RS, 1× Yamaha Ténéré 700 World Raid (23 L) |
-| **Hoogste punt** | 🏔️ Tizi n'Tichka-pas — 2.260 m |
+| **Departure** | Sunday 11 October 2026 — Moraira |
+| **Return** | Thursday 22 October 2026 — Moraira |
+| **Riding days in Morocco** | 10 (9 nights in Morocco) |
+| **Distance in Morocco** | ± 2,520 km |
+| **Crossing** | Almería ↔ Nador (night ferry) |
+| **Bikes** | 2× BMW R1200RS, 1× Yamaha Ténéré 700 World Raid (23 L) |
+| **Highest point** | 🏔️ Tizi n'Tichka pass — 2,260 m |
 
 ---
 
-## 📅 Etappe-overzicht
+## 📅 Stage overview
 
-| Dag | Datum | Route | Afstand |
+| Day | Date | Route | Distance |
 |---|---|---|---|
-| — | zo 11 okt | Moraira → Almería + nachtferry | ± 400 km |
-| 1 | ma 12 okt | Nador → Guercif | 202 km |
-| 2 | di 13 okt | Guercif → Midelt (N15) | 238 km |
-| 3 | wo 14 okt | Midelt → Ifrane → Azrou → Midelt | 285 km |
-| 4 | do 15 okt | Midelt → Merzouga (Ziz, Sahara) | 285 km |
-| 5 | vr 16 okt | Merzouga → Todra → Dades | 275 km |
-| 6 | za 17 okt | Dades (R704) → Aït Benhaddou | 215 km |
-| 7 | zo 18 okt | Aït Benhaddou → Marrakech (Tizi n'Tichka) | 195 km |
-| 8 | ma 19 okt | Marrakech → Ouzoud → Beni Mellal | 205 km |
-| 9 | di 20 okt | Beni Mellal → Midelt | 285 km |
-| 10 | wo 21 okt | Midelt → Nador + nachtferry | 335 km |
-| — | do 22 okt | Almería → Moraira | ± 400 km |
+| — | Sun 11 Oct | Moraira → Almería + night ferry | ± 400 km |
+| 1 | Mon 12 Oct | Nador → Guercif | 202 km |
+| 2 | Tue 13 Oct | Guercif → Midelt (N15) | 238 km |
+| 3 | Wed 14 Oct | Midelt → Ifrane → Azrou → Midelt | 285 km |
+| 4 | Thu 15 Oct | Midelt → Merzouga (Ziz, Sahara) | 285 km |
+| 5 | Fri 16 Oct | Merzouga → Todra → Dades | 275 km |
+| 6 | Sat 17 Oct | Dades (R704) → Aït Benhaddou | 215 km |
+| 7 | Sun 18 Oct | Aït Benhaddou → Marrakech (Tizi n'Tichka) | 195 km |
+| 8 | Mon 19 Oct | Marrakech → Ouzoud → Beni Mellal | 205 km |
+| 9 | Tue 20 Oct | Beni Mellal → Midelt | 285 km |
+| 10 | Wed 21 Oct | Midelt → Nador + night ferry | 335 km |
+| — | Thu 22 Oct | Almería → Moraira | ± 400 km |
 
-📄 **Volledig deelnemersdocument (versturen):**
-- 🇳🇱 Nederlands: [`reisgids/MAROKKO-Motorreis-2026.md`](reisgids/MAROKKO-Motorreis-2026.md)
-- 🇬🇧 English (UK): [`guide/MOROCCO-Motorcycle-Tour-2026.md`](guide/MOROCCO-Motorcycle-Tour-2026.md)
+📄 **Full rider's guide (to send):** [`guide/MOROCCO-Motorcycle-Tour-2026.md`](guide/MOROCCO-Motorcycle-Tour-2026.md) · [web](guide/MOROCCO-Motorcycle-Tour-2026.html) · [print PDF](guide/MOROCCO-Motorcycle-Tour-2026.pdf)
 
 ---
 
-## 📂 Inhoud van deze map
+## 📂 Contents of this folder
 
 ```
 morocco-2026/
-├── README.md                                 ← dit overzicht
-├── index.html                                ← overzicht (webversie, NL+EN)
-├── reisgids/                                 ← 🇳🇱 Nederlands
-│   ├── MAROKKO-Motorreis-2026.md/.html       ← deelnemersdocument
-│   └── Marokko_Motorreis_2026.gpx            ← combi-GPX (alle dagen + POI's) — beste voor Zümo XT
-├── guide/                                    ← 🇬🇧 English (UK)
-│   └── MOROCCO-Motorcycle-Tour-2026.md/.html ← rider's guide
-└── gpx-per-dag/                              ← 1 GPX per dag — beste voor Kurviger/Calimoto/TomTom
-    └── Dag-00 … Dag-10 + Dag-99 (transit)
+├── README.md                                 ← this overview
+├── index.html                                ← overview (web version)
+├── guide/
+│   ├── MOROCCO-Motorcycle-Tour-2026.md/.html ← full rider's guide
+│   ├── MOROCCO-Motorcycle-Tour-2026.pdf      ← print version (A4)
+│   └── Morocco_Motorcycle_Tour_2026.gpx      ← combined GPX (all days + POIs) — best for Zümo XT
+└── gpx-per-day/                              ← 1 GPX per day — best for Kurviger/Calimoto/TomTom
+    └── Day-00 … Day-10 + Day-99 (transit)
 ```
 
-De deelnemersdocumenten zijn bedoeld om **direct naar de andere twee rijders te sturen** — compleet met foto-links, hotels, restaurants, tank-/koffiestops, grens-checklist en paklijst. NL én Engelse (UK) versie beschikbaar.
+The rider's guide is meant to be **sent straight to the other two riders** — complete with photo links, hotels (with secure parking), restaurants, fuel/coffee stops, border checklist and packing list.
 
 ---
 
-## 🏍️ Voor onze drie motoren
+## 🏍️ Our three bikes
 
-- **2× BMW R1200RS + 1× Ténéré 700 World Raid** — asfaltmachines (de RS'en zijn sport-tourers), dus we rijden de héle route **op asfalt**; optionele grindstukken zijn alleen iets voor de World Raid (en ook dan optioneel).
-- **Tankbereik:** de World Raid (23 L) haalt ± 400 km; de twee **R1200RS** (± 18 L, ± 300 km) bepalen de tankstops → samen tanken bij ± 220–250 km. Voltanken vóór dag 4, 5 en 10.
-- **Grens:** elke motor heeft een **eigen** set documenten + tijdelijke voertuiginvoer (zie checklist in het reisgids-document).
-
----
-
-## 📲 GPX — Zümo XT én Kurviger
-
-**Twee soorten bestanden, kies wat bij je app past:**
-- 🗺️ **Kurviger / Calimoto / TomTom:** gebruik de **losse dagbestanden** in [`gpx-per-dag/`](gpx-per-dag/) — één schone route per dag (5–8 via-punten). Importeer telkens één dag → géén "te veel markers"-melding.
-- 🧭 **Garmin Zümo XT:** gebruik het **combi-bestand** [`reisgids/Marokko_Motorreis_2026.gpx`](reisgids/Marokko_Motorreis_2026.gpx) (alle dagen als aparte routes + alle POI-waypoints).
-
-1. Verbind de Zümo XT via USB en kopieer het gewenste `.gpx`-bestand naar de map **`Garmin/GPX`**.
-2. **Apps → Trip Planner / Routes** → importeer.
-3. Werkt ook in **Komoot, OsmAnd, BaseCamp, Tread, Apple Kaarten en Google My Maps**. Laad **offline kaarten** als back-up voor afgelegen gebieden.
-
-> ⚠️ **Kurviger-importfout ("te veel markers/via-punten")?** Dat komt door het combi-bestand (alle 12 dagen + POI-markers ineen). Importeer in Kurviger de **losse dagbestanden** uit `gpx-per-dag/` — dat lost het op.
+- **2× BMW R1200RS + 1× Ténéré 700 World Raid** — road machines (the RS are sports-tourers), so the whole route is **on tarmac**; optional gravel is only for the World Raid.
+- **Fuel range:** the World Raid (23 L) does ± 400 km; the two R1200RS (± 18 L, ± 300 km) set the fuel stops → refuel together at ± 220–250 km. Fill up before days 4, 5 and 10.
+- **Border:** each bike needs its **own** set of documents + temporary vehicle import (see the checklist in the rider's guide).
 
 ---
 
-## ⚠️ Belangrijk om te weten
+## 📲 GPX — Zümo XT and Kurviger
 
-- **Boek vroeg:** Merzouga (duinlodges), Dades (Xaluca) en Marrakech (riads) lopen in oktober snel vol. Boek ook de **ferry** (heen + terug) vroeg.
-- **Prijzen zijn indicatief** (okt 2026) en **niet realtime gecontroleerd** — controleer bij het boeken.
-- **Grensdocument (tijdelijke voertuiginvoer) niet kwijtraken** — per motor inleveren bij vertrek.
-- **Woestijn:** geen dieptezand met beladen toermotoren; blijf op vaste ondergrond.
-- **Rijtijden** gelden exclusief stops.
+**Two kinds of file, pick what suits your app:**
+- 🗺️ **Kurviger / Calimoto / TomTom:** use the **per-day files** in [`gpx-per-day/`](gpx-per-day/) — one clean route per day (5–8 via points). Import one day at a time → no "too many markers" warning.
+- 🧭 **Garmin Zümo XT:** use the **combined file** [`guide/Morocco_Motorcycle_Tour_2026.gpx`](guide/Morocco_Motorcycle_Tour_2026.gpx) (all days as separate routes + all POI waypoints).
 
-*Goede reis en veel rijplezier. 🏍️☀️🏜️*
+1. Connect the Zümo XT via USB and copy the desired `.gpx` file to the **`Garmin/GPX`** folder.
+2. **Apps → Trip Planner / Routes** → import.
+3. Also works in **Komoot, OsmAnd, BaseCamp, Tread, Apple Maps and Google My Maps**. Load **offline maps** as a backup for remote areas.
+
+---
+
+## ⚠️ Good to know
+
+- **Secure parking:** every recommended hotel was chosen for enclosed/guarded parking for the 3 bikes. When booking, confirm 3 bikes can be parked inside the grounds/garage overnight.
+- **Book early:** Merzouga (dune lodges), Dades (Xaluca) and Marrakech fill up quickly in October. Book the **ferry** (outbound + return) early too.
+- **Prices are indicative** (Oct 2026) and **not checked in real time** — confirm when booking.
+- **Don't lose the border document** (temporary vehicle import, per bike).
+- **Riding times** exclude stops.
+
+*Safe travels and enjoy the ride. 🏍️☀️🏜️*

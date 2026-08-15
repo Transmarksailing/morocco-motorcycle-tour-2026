@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Morocco Motorcycle Tour 2026" xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>Day 6 (17 Oct) Dades hairpins - Ouarzazate - Ait Benhaddou</name></metadata>
+  <rte>
+    <name>Day 6 (17 Oct) Dades hairpins - Ouarzazate - Ait Benhaddou</name>
+    <desc>215 km. R704 hairpins in and back, then via Ouarzazate to the UNESCO ksar.</desc>
+    <rtept lat="31.3690" lon="-5.9910"><name>Boumalne Dades</name></rtept>
+    <rtept lat="31.5560" lon="-5.9700"><name>Dades hairpins (R704)</name></rtept>
+    <rtept lat="31.3690" lon="-5.9910"><name>Boumalne (back)</name></rtept>
+    <rtept lat="31.2160" lon="-6.4180"><name>Skoura (palm oasis)</name></rtept>
+    <rtept lat="30.9200" lon="-6.8930"><name>Ouarzazate - fuel + lunch</name></rtept>
+    <rtept lat="31.0472" lon="-7.1290"><name>Ait Benhaddou</name></rtept>
+  </rte>
+</gpx>

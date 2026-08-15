@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Morocco Motorcycle Tour 2026" xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>Day 10 (21 Oct) Midelt - Missour - Guercif - Nador + ferry</name></metadata>
+  <rte>
+    <name>Day 10 (21 Oct) Midelt - Missour - Guercif - Nador + ferry</name>
+    <desc>335 km, N15/N2. Early start 07:30. Fill up in Guercif. Be at terminal min. 3h before departure.</desc>
+    <rtept lat="32.6800" lon="-4.7450"><name>Midelt</name></rtept>
+    <rtept lat="33.0470" lon="-3.9890"><name>Missour - coffee</name></rtept>
+    <rtept lat="34.2270" lon="-3.3530"><name>Guercif - lunch + fuel</name></rtept>
+    <rtept lat="34.4127" lon="-2.8942"><name>Taourirt</name></rtept>
+    <rtept lat="34.9130" lon="-2.9420"><name>Selouane</name></rtept>
+    <rtept lat="35.2680" lon="-2.9330"><name>Nador port (Beni Ansar) - FERRY</name></rtept>
+  </rte>
+</gpx>

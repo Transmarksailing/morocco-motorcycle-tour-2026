@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<gpx version="1.1" creator="Marokko Motorreis 2026" xmlns="http://www.topografix.com/GPX/1/1"
+<gpx version="1.1" creator="Morocco Motorcycle Tour 2026" xmlns="http://www.topografix.com/GPX/1/1"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <metadata><name>Dag 4 (15 okt) Midelt - Ziz-vallei - Merzouga</name></metadata>
+  <metadata><name>Day 4 (15 Oct) Midelt - Ziz Valley - Merzouga</name></metadata>
   <rte>
-    <name>Dag 4 (15 okt) Midelt - Ziz-vallei - Merzouga</name>
-    <desc>285 km. N13 door de Ziz-vallei de Sahara in. Aankomst Erg Chebbi voor zonsondergang. Voltanken!</desc>
+    <name>Day 4 (15 Oct) Midelt - Ziz Valley - Merzouga</name>
+    <desc>285 km. N13 through the Ziz Valley into the Sahara. Arrive Erg Chebbi before sunset. Fill up!</desc>
     <rtept lat="32.6800" lon="-4.7450"><name>Midelt</name></rtept>
     <rtept lat="32.2200" lon="-4.4300"><name>Tunnel du Legionnaire (N13)</name></rtept>
     <rtept lat="31.9314" lon="-4.4244"><name>Errachidia</name></rtept>
-    <rtept lat="31.7000" lon="-4.2800"><name>Ziz-vallei uitzichtpunt</name></rtept>
+    <rtept lat="31.7000" lon="-4.2800"><name>Ziz Valley viewpoint</name></rtept>
     <rtept lat="31.4370" lon="-4.2380"><name>Erfoud</name></rtept>
     <rtept lat="31.0990" lon="-4.0130"><name>Merzouga - Erg Chebbi</name></rtept>
   </rte>

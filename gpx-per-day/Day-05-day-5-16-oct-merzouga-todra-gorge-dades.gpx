@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Morocco Motorcycle Tour 2026" xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>Day 5 (16 Oct) Merzouga - Todra Gorge - Dades</name></metadata>
+  <rte>
+    <name>Day 5 (16 Oct) Merzouga - Todra Gorge - Dades</name>
+    <desc>275 km. Rissani souk, Todra Gorge, overnight in the Dades Gorge.</desc>
+    <rtept lat="31.0990" lon="-4.0130"><name>Merzouga</name></rtept>
+    <rtept lat="31.2810" lon="-4.2600"><name>Rissani - souk</name></rtept>
+    <rtept lat="31.5147" lon="-5.5326"><name>Tinghir</name></rtept>
+    <rtept lat="31.5900" lon="-5.6000"><name>Todra Gorge</name></rtept>
+    <rtept lat="31.5147" lon="-5.5326"><name>Tinghir (back)</name></rtept>
+    <rtept lat="31.3690" lon="-5.9910"><name>Boumalne Dades - Xaluca</name></rtept>
+  </rte>
+</gpx>
