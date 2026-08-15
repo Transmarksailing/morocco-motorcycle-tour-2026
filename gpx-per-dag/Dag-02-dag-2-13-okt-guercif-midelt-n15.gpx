@@ -2,14 +2,14 @@
 <gpx version="1.1" creator="Marokko Motorreis 2026" xmlns="http://www.topografix.com/GPX/1/1"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <metadata><name>Dag 2 (12 okt) Guercif - Midelt (N15)</name></metadata>
+  <metadata><name>Dag 2 (13 okt) Guercif - Midelt (N15)</name></metadata>
   <rte>
-    <name>Dag 2 (12 okt) Guercif - Midelt (N15)</name>
+    <name>Dag 2 (13 okt) Guercif - Midelt (N15)</name>
     <desc>238 km. Favoriete rijweg N15: vloeiend, rustig, klimmend berglandschap.</desc>
     <rtept lat="34.2270" lon="-3.3530"><name>Guercif</name></rtept>
     <rtept lat="33.6870" lon="-3.9880"><name>N15 hoogvlakte</name></rtept>
     <rtept lat="33.0470" lon="-3.9890"><name>Missour</name></rtept>
     <rtept lat="32.8300" lon="-4.3000"><name>N15 richting Midelt</name></rtept>
-    <rtept lat="32.6800" lon="-4.7450"><name>Midelt - Kasbah Asmaa</name></rtept>
+    <rtept lat="32.6800" lon="-4.7450"><name>Midelt - Riad Villa Midelt</name></rtept>
   </rte>
 </gpx>

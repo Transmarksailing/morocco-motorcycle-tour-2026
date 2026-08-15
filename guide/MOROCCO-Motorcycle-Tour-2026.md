@@ -2,15 +2,15 @@
 
 **10 riding days through Morocco + Spanish transit — Rif, Middle Atlas, Sahara, Todra & Dades gorges, Aït Benhaddou, Marrakech and the High Atlas**
 
-> Four bikes · 2× BMW R1200RS + 1× Honda GB350 + 1× Ténéré 700 World Raid · ferry Almería ↔ Nador · ± 2,500 km in Morocco · fully on tarmac · characterful riads & kasbahs.
+> Three bikes · 2× BMW R1200RS + 1× Ténéré 700 World Raid · ferry Almería ↔ Nador · ± 2,500 km in Morocco · fully on tarmac · characterful riads & kasbahs.
 
 | | |
 |---|---|
-| **Departure** | Saturday 10 October 2026 — Moraira |
-| **Return** | Wednesday 21 October 2026 — Moraira |
+| **Departure** | Sunday 11 October 2026 — Moraira |
+| **Return** | Thursday 22 October 2026 — Moraira |
 | **Riding days in Morocco** | 10 (9 nights in Morocco) |
 | **Total door-to-door** | ± 12 days |
-| **Group** | 4 bikes — 2× BMW R1200RS, 1× Honda GB350, 1× Yamaha Ténéré 700 World Raid (23 L) |
+| **Group** | 3 bikes — 2× BMW R1200RS, 1× Yamaha Ténéré 700 World Raid (23 L) |
 | **Crossing** | Almería ↔ Nador (night ferry, ± 6–8 h) |
 | **Highest point** | 🏔️ Tizi n'Tichka pass — **2,260 m** |
 | **Roads** | Scenic tarmac roads; optional easy gravel for the World Raid only |
@@ -27,15 +27,14 @@ A grand loop from Moraira: a short run down the coast to Almería, the night fer
 
 ---
 
-## 🏍️ Our four bikes — group notes
+## 🏍️ Our three bikes — group notes
 
-We're riding **two BMW R1200RS**, **one Honda GB350** and **one Yamaha Ténéré 700 World Raid**. The route is deliberately planned **on tarmac**: the R1200RS is a road-focused sports-tourer, the GB350 a light, relaxed classic, and the World Raid, with its large tank, is built for long distances. Every stage is ridden entirely on tarmac; the odd gravel section is optional and only for the World Raid.
+We're riding **two BMW R1200RS** and **one Yamaha Ténéré 700 World Raid** — three bikes, three riders. The route is deliberately planned **on tarmac**: the R1200RS is a road-focused sports-tourer, and the World Raid, with its large tank, is built for long distances. Every stage is ridden entirely on tarmac; the odd gravel section is optional and only for the World Raid.
 
-- **🐢 Pace — the GB350 sets the rhythm.** The Honda GB350 (± 21 bhp) is the most relaxed of the group. On the long days (day 10: 335 km) and the high passes (Tizi n'Tichka, 2,260 m) it's the slowest → **allow a little extra time and stops, and don't ride away from the slowest bike**. This is a savour-it route, not a race.
-- **⛽ Fuel range & group stops.** The Ténéré 700 World Raid (**23 L**, ± 400 km) and the economical GB350 (± 15 L, ± 350 km) have ample range. The two **R1200RS** (± 18 L) realistically manage ± 300 km and therefore **set the fuel stops**: refuel together at ± 220–250 km, and never skip a station before a desert or mountain stage (days 4, 5 and 10).
-- **👥 Riding in formation.** Ride in a staggered formation, with the slowest/least experienced rider at or near the front so nobody has to chase, and the last rider (sweep) keeps everyone together. Agree hand signals and a fixed regroup point (e.g. every junction/fuel stop).
-- **🛣️ Tarmac & luggage.** The two R1200RS and the Honda GB350 are not made for loose gravel or pistes — so the whole group stays on the sealed road. The optional gravel sections (e.g. Cirque de Jaffar) are at most for the World Raid rider, and only in dry weather. Panniers/side cases are perfectly fine for this touring route; no soft sand.
-- **📄 Documents × 4.** Each bike/rider needs their **own** set of papers (see border checklist). Green card + temporary Moroccan vehicle import per vehicle.
+- **⛽ Fuel range & group stops.** The Ténéré 700 World Raid has the greatest range with its **23 L** tank (± 400 km). The two **R1200RS** (± 18 L) realistically manage ± 300 km and therefore **set the fuel stops**: refuel together at ± 220–250 km, and never skip a station before a desert or mountain stage (days 4, 5 and 10).
+- **👥 Riding in formation.** Ride in a staggered formation, with the least experienced rider second so the leader sets the pace and the last rider (sweep) keeps everyone together. Agree hand signals and a fixed regroup point (e.g. every junction/fuel stop).
+- **🛣️ Tarmac & luggage.** The two R1200RS are not made for loose gravel or pistes — so the whole group stays on the sealed road. The optional gravel sections (e.g. Cirque de Jaffar) are at most for the World Raid rider, and only in dry weather. Panniers/side cases are perfectly fine for this touring route; no soft sand.
+- **📄 Documents × 3.** Each bike/rider needs their **own** set of papers (see border checklist). Green card + temporary Moroccan vehicle import per vehicle.
 - **🔧 One shared set of tools + spares** is fine, but per bike carry: puncture-repair kit/pump, brake pads, chain lube (World Raid), and a set of fuses. Tyre sizes and oil differ per make.
 
 ---
@@ -44,18 +43,18 @@ We're riding **two BMW R1200RS**, **one Honda GB350** and **one Yamaha Ténéré
 
 | Day | Date | Route | Distance |
 |---|---|---|---|
-| — | Sat 10 Oct | **Moraira → Almería** (transit) + night ferry | ± 400 km |
-| **1** | Sun 11 Oct | **Nador → Guercif** | 202 km |
-| **2** | Mon 12 Oct | **Guercif → Midelt** (N15) | 238 km |
-| **3** | Tue 13 Oct | **Midelt → Ifrane → Azrou → Midelt** (loop) | 285 km |
-| **4** | Wed 14 Oct | **Midelt → Merzouga** (Ziz Valley, Sahara) | 285 km |
-| **5** | Thu 15 Oct | **Merzouga → Todra → Dades** | 275 km |
-| **6** | Fri 16 Oct | **Dades → Aït Benhaddou** (R704) | 215 km |
-| **7** | Sat 17 Oct | **Aït Benhaddou → Marrakech** (Tizi n'Tichka) | 195 km |
-| **8** | Sun 18 Oct | **Marrakech → Ouzoud → Beni Mellal** | 205 km |
-| **9** | Mon 19 Oct | **Beni Mellal → Midelt** | 285 km |
-| **10** | Tue 20 Oct | **Midelt → Nador** + night ferry | 335 km |
-| — | Wed 21 Oct | **Almería → Moraira** (transit) | ± 400 km |
+| — | Sun 11 Oct | **Moraira → Almería** (transit) + night ferry | ± 400 km |
+| **1** | Mon 12 Oct | **Nador → Guercif** | 202 km |
+| **2** | Tue 13 Oct | **Guercif → Midelt** (N15) | 238 km |
+| **3** | Wed 14 Oct | **Midelt → Ifrane → Azrou → Midelt** (loop) | 285 km |
+| **4** | Thu 15 Oct | **Midelt → Merzouga** (Ziz Valley, Sahara) | 285 km |
+| **5** | Fri 16 Oct | **Merzouga → Todra → Dades** | 275 km |
+| **6** | Sat 17 Oct | **Dades → Aït Benhaddou** (R704) | 215 km |
+| **7** | Sun 18 Oct | **Aït Benhaddou → Marrakech** (Tizi n'Tichka) | 195 km |
+| **8** | Mon 19 Oct | **Marrakech → Ouzoud → Beni Mellal** | 205 km |
+| **9** | Tue 20 Oct | **Beni Mellal → Midelt** | 285 km |
+| **10** | Wed 21 Oct | **Midelt → Nador** + night ferry | 335 km |
+| — | Thu 22 Oct | **Almería → Moraira** (transit) | ± 400 km |
 
 *Dates are a proposal — adjust to the ferry times you book. Total in Morocco ± 2,520 km.*
 
@@ -76,7 +75,7 @@ The ferry takes ± 6–8 hours across the Mediterranean. Ideally take a **night 
 
 ## 📅 Day-by-day itinerary
 
-### 🚗 Transit — Saturday 10 October: Moraira → Almería + night ferry
+### 🚗 Transit — Sunday 11 October: Moraira → Almería + night ferry
 **Route:** Moraira → Almería (coast/inland) · **Riding time:** ± 4.5 h · **Distance:** ± 400 km
 
 - A relaxed transit day along the Costa Blanca and Costa de Almería to the port. If you fancy it, take the last stretch inland (foothills of the Sierra Nevada) for some riding fun.
@@ -85,32 +84,32 @@ The ferry takes ± 6–8 hours across the Mediterranean. Ideally take a **night 
 
 ---
 
-### 🏍️ Day 1 — Sunday 11 October: Arrival Nador → Guercif
+### 🏍️ Day 1 — Monday 12 October: Arrival Nador → Guercif
 **Route:** Nador → towards Taza → Guercif · **Riding time:** ± 3.5 h (excl. border) · **Distance:** 202 km · **Road surface:** ★★★★★ · **Difficulty:** ★★☆☆☆
 
 - 🛃 **Morning — border & Beni Ansar port.** Take your time over the formalities. Change some money (dirham) or use a card, buy a local SIM (Maroc Telecom/Orange) and fill up.
   📍 [Nador](https://www.google.com/maps/search/?api=1&query=35.1740,-2.9330)
 - 🏔️ **Rif foothills towards Guercif.** Ease into the Moroccan rhythm: first mountain panoramas, olive groves and the slowly drying landscape heading south.
-- 🏨 **Overnight — Guercif.** Guercif is a practical staging town (not a tourist spot). Choose a tidy, simple hotel with parking for the bikes.
-  🛏️ [Hotels Guercif](https://www.google.com/maps/search/?api=1&query=Hotel+Guercif) · 📍 [Guercif](https://www.google.com/maps/search/?api=1&query=34.2270,-3.3530)
+- 🏨 **Overnight — Hotel Atlas Guercif** · A practical staging town. This hotel has **confirmed underground parking** (a rider actually parked his motorcycle there) — secure for the 3 bikes. Alternative: **Hotel Chark** (newer/cleaner; confirm parking in advance).
+  🛏️ [Hotel Atlas Guercif](https://hotel-atlas-guercif-taza.vivehotels.com/en/) · 📍 [Guercif](https://www.google.com/maps/search/?api=1&query=34.2270,-3.3530)
 - 🍽️ **Dinner** · Simple local tagine or grilled specialities in the centre.
 
 > ℹ️ A short, relaxed first day — deliberately so, as the border and getting used to the riding style and checkpoints take some energy.
 
 ---
 
-### 🏍️ Day 2 — Monday 12 October: Guercif → Midelt (N15)
+### 🏍️ Day 2 — Tuesday 13 October: Guercif → Midelt (N15)
 **Route:** Guercif → N15 → Midelt · **Riding time:** ± 4 h · **Distance:** 238 km · **Road surface:** ★★★★★ · **Scenery:** ★★★★☆
 
 - 🛣️ **The N15 — "quiet, flowing roads, perfect for a GS".** One of the favourite riding roads of the whole trip: little traffic, long flowing bends and a gradually climbing mountain landscape towards the High Plateaus.
 - ☕ **Coffee stop en route** in a village café — a first taste of Moroccan road culture.
-- 🏨 **Overnight — Kasbah Asmaa, Midelt.** Characterful kasbah style with a palm garden and pool; an ideal base (we sleep here 3 nights in total: days 2, 3 and 9).
-  🛏️ [Kasbah Asmaa Midelt](https://www.google.com/maps/search/?api=1&query=Kasbah+Asmaa+Midelt) · 📍 [Midelt](https://www.google.com/maps/search/?api=1&query=32.6800,-4.7450)
+- 🏨 **Overnight — Riad Villa Midelt.** Our base (3 nights: days 2, 3 and 9). Chosen for its **confirmed private/internal motorcycle parking** (riders specifically mention parking on the property) and strong recent reviews. Alternative: **Kasbah Asmaa** (cheaper, palm garden/pool, but mixed reviews + cold nights).
+  🛏️ [Riad Villa Midelt](https://www.booking.com/hotel/ma/riad-villa-midelt.html) · 🛏️ [Kasbah Asmaa](https://kasbaasmaa.com/) · 📍 [Midelt](https://www.google.com/maps/search/?api=1&query=32.6800,-4.7450)
 - 🍽️ **Dinner** · At the kasbah — tagine, couscous or Berber specialities.
 
 ---
 
-### 🏍️ Day 3 — Tuesday 13 October: Middle Atlas loop (Midelt → Ifrane → Azrou → Midelt)
+### 🏍️ Day 3 — Wednesday 14 October: Middle Atlas loop (Midelt → Ifrane → Azrou → Midelt)
 **Route:** Midelt → Ifrane → Azrou (cedar forest) → Midelt · **Riding time:** ± 4.5 h · **Distance:** 285 km (loop) · **Scenery:** ★★★★★
 
 A day *without luggage* — we leave the bags in Midelt and ride a beautiful loop through the greenest part of Morocco.
@@ -121,41 +120,42 @@ A day *without luggage* — we leave the bags in Midelt and ride a beautiful loo
   📍 [Ifrane](https://www.google.com/maps/search/?api=1&query=33.5228,-5.1106) · 📷 [Photos](https://www.google.com/search?tbm=isch&q=Ifrane+Morocco)
 - 🐒 **Azrou** · Lively market town; a good lunch stop.
   📍 [Azrou](https://www.google.com/maps/search/?api=1&query=33.4342,-5.2214)
-- 🏨 **Back to Kasbah Asmaa, Midelt** (night 2).
+- 🏨 **Back to Riad Villa Midelt** (night 2).
 
 > 💡 The loop can be shortened; anyone who prefers a rest can explore Midelt and its surroundings (the Cirque de Jaffar piste is for the World Raid only — gravel, dry weather; the two RS stay on tarmac).
 
 ---
 
-### 🏍️ Day 4 — Wednesday 14 October: Midelt → Merzouga (Ziz Valley & the Sahara)
+### 🏍️ Day 4 — Thursday 15 October: Midelt → Merzouga (Ziz Valley & the Sahara)
 **Route:** Midelt → Errachidia → Ziz Valley (N13) → Erfoud → Merzouga · **Riding time:** ± 4.5 h · **Distance:** 285 km · **Scenery:** ★★★★★
 
 - 🏞️ **Ziz Valley (N13)** · The great transition from mountains to desert: a green ribbon of tens of thousands of date palms between red-brown rock walls. Stop at the **Ziz viewpoint**.
   📍 [Ziz Valley viewpoint](https://www.google.com/maps/search/?api=1&query=31.7000,-4.2800) · 📷 [Photos](https://www.google.com/search?tbm=isch&q=Ziz+Valley+Morocco)
 - 🐪 **Arrival Erg Chebbi / Merzouga** · The first real sand dunes (up to ± 150 m high). Ride the final stretch towards the foot of the dunes.
   📍 [Merzouga / Erg Chebbi](https://www.google.com/maps/search/?api=1&query=31.0990,-4.0130) · 📷 [Photos](https://www.google.com/search?tbm=isch&q=Erg+Chebbi+Merzouga+dunes)
-- 🏨 **Overnight — kasbah/lodge by the dunes** · E.g. Riad Madu, Kasbah Tomboctou or a luxury **desert camp** in the dunes.
-  🛏️ [Lodges Merzouga](https://www.google.com/maps/search/?api=1&query=hotel+Merzouga+Erg+Chebbi)
+- 🏨 **Overnight — Kasbah Mohayut (Hassi Labied)** · A kasbah right by the Erg Chebbi dunes with sunset views; **parking inside the walled kasbah** — secure for the 3 bikes. Alternatives: **Riad Madu** or **Kasbah Erg Chebbi** (both walled, by the dunes).
+  🛏️ [Kasbah Mohayut](https://www.hotelmohayut.com/) · 🛏️ [Riad Madu](https://www.riadmadu.com/en/) · 📍 [Merzouga / Erg Chebbi](https://www.google.com/maps/search/?api=1&query=31.0990,-4.0130)
 - 🌅 **Sunset over the dunes** · Optional camel ride or quad; either way, climb a dune for sunset. The silence as the sun sets over the dunes is one of the highlights of the trip.
 
 > ⚠️ **Sand!** Don't ride into the dunes on laden touring bikes. Park on firm ground at the lodge; the soft sand is for local guides/quads.
 
 ---
 
-### 🏍️ Day 5 — Thursday 15 October: Merzouga → Todra Gorge → Dades Gorge
+### 🏍️ Day 5 — Friday 16 October: Merzouga → Todra Gorge → Dades Gorge
 **Route:** Merzouga → Rissani → Tinghir → Todra → Boumalne Dades · **Riding time:** ± 4.5 h · **Distance:** 275 km · **Scenery:** ★★★★★
 
 - 🕌 **Rissani** · Old caravan town with a bustling souk (fine morning market on Sun/Tue/Thu).
   📍 [Rissani](https://www.google.com/maps/search/?api=1&query=31.2810,-4.2600)
 - 🏜️ **Todra Gorge** · A breathtaking gorge with walls up to 300 m sheer above a narrow river. Ride through it and stop for photos and mint tea.
   📍 [Todra Gorge](https://www.google.com/maps/search/?api=1&query=31.5900,-5.6000) · 📷 [Photos](https://www.google.com/search?tbm=isch&q=Todra+Gorge)
-- 🏨 **Overnight — Dades Gorge** · E.g. **Chez Pierre** (small, gastronomic, a lovely setting) or Hotel Xaluca Dades.
-  🛏️ [Chez Pierre Dades](https://www.google.com/maps/search/?api=1&query=Chez+Pierre+Dades) · 📍 [Boumalne Dades](https://www.google.com/maps/search/?api=1&query=31.3690,-5.9910)
-- 🍽️ **Dinner** · Gastronomic at Chez Pierre or a tagine overlooking the gorge.
+- 🏨 **Overnight — Hotel Xaluca Dades (Boumalne Dades)** · Large kasbah-style hotel with **enclosed, guarded private parking** (used to groups) — the safest option for the 3 bikes. Character/value alternative: **La Kasbah de Dades** (Berber kasbah, ± €65, on-site parking).
+  🛏️ [Hotel Xaluca Dades](https://www.booking.com/hotel/ma/xaluca-dades.html) · 🛏️ [La Kasbah de Dades](https://kasbahdades.com/) · 📍 [Boumalne Dades](https://www.google.com/maps/search/?api=1&query=31.3690,-5.9910)
+- 🍽️ **Dinner** · At the hotel, or the famous 5-course dinner at **Auberge Chez Pierre** further up the gorge (still a hotel and restaurant; its parking can't be confirmed as enclosed, so for us mainly a dinner recommendation).
+  🍽️ [Auberge Chez Pierre](https://www.booking.com/hotel/ma/auberge-chez-pierre.html)
 
 ---
 
-### 🏍️ Day 6 — Friday 16 October: Dades Gorge (R704) → Aït Benhaddou
+### 🏍️ Day 6 — Saturday 17 October: Dades Gorge (R704) → Aït Benhaddou
 **Route:** Dades hairpins (R704) → Boumalne → Ouarzazate → Aït Benhaddou · **Riding time:** ± 3.5 h · **Distance:** 215 km · **Scenery:** ★★★★★
 
 - 🥇 **Dades hairpins (R704)** · The ride leader's favourite road: a series of unforgettable hairpin bends snaking up the red rock wall. Ride a stretch up the gorge and back down the same road — these bends are worth riding twice.
@@ -164,12 +164,12 @@ A day *without luggage* — we leave the bags in Midelt and ride a beautiful loo
   📍 [Ouarzazate](https://www.google.com/maps/search/?api=1&query=30.9200,-6.8930)
 - 🏰 **Aït Benhaddou (UNESCO)** · The famous mud-brick ksar — a backdrop for countless films (Gladiator, Game of Thrones). Arrive in the late afternoon for golden evening light.
   📍 [Aït Benhaddou](https://www.google.com/maps/search/?api=1&query=31.0472,-7.1290) · 📷 [Photos](https://www.google.com/search?tbm=isch&q=Ait+Benhaddou)
-- 🏨 **Overnight — kasbah overlooking the ksar** · E.g. **Kasbah Ellouze**, Riad Caravane or La Fibule d'Or.
-  🛏️ [Hotels Aït Benhaddou](https://www.google.com/maps/search/?api=1&query=hotel+Ait+Benhaddou)
+- 🏨 **Overnight — La Fibule d'Or** · At the foot of the ksar (walking distance); **its own private on-site parking** (self + valet, confirmed by recent guests). Most enclosed option: **Kasbah Ellouze** (walled kasbah in Tamdaght, ± 5 km, new owners 2025, acclaimed dinner). *(Riad Caravane is lovely but only has public parking → not ideal for 3 unattended bikes.)*
+  🛏️ [La Fibule d'Or](https://www.booking.com/hotel/ma/la-fibule-dor.html) · 🛏️ [Kasbah Ellouze](https://www.kasbahellouze.com/) · 📍 [Aït Benhaddou](https://www.google.com/maps/search/?api=1&query=31.0472,-7.1290)
 
 ---
 
-### 🏍️ Day 7 — Saturday 17 October: Aït Benhaddou → Marrakech (Tizi n'Tichka)
+### 🏍️ Day 7 — Sunday 18 October: Aït Benhaddou → Marrakech (Tizi n'Tichka)
 **Route:** Aït Benhaddou → Tizi n'Tichka (N9) → Marrakech · **Riding time:** ± 4 h · **Distance:** 195 km · **Highest point:** 2,260 m · **Scenery:** ★★★★★
 
 - 🏔️ **Tizi n'Tichka pass (N9) — 2,260 m** · Classic High Atlas riding: endless bends over the highest tarmac pass of the trip. Recently widened and resurfaced — a joy to ride. Dress warmly; it's chilly at the top.
@@ -178,37 +178,37 @@ A day *without luggage* — we leave the bags in Midelt and ride a beautiful loo
   📍 [Kasbah Telouet](https://www.google.com/maps/search/?api=1&query=31.2870,-7.2400)
 - 🕌 **Arrival Marrakech** · Dive into the red city. **Note: busy traffic** on the medina's edge — ride defensively.
   📍 [Marrakech — Jemaa el-Fna](https://www.google.com/maps/search/?api=1&query=31.6258,-7.9891) · 📷 [Photos](https://www.google.com/search?tbm=isch&q=Marrakech+Jemaa+el+Fna)
-- 🏨 **Overnight — riad in the medina** · Choose a riad that arranges **secure parking** for the bikes (usually a car park just outside the medina).
-  🛏️ [Riads Marrakech](https://www.booking.com/city/ma/marrakech.html)
+- 🏨 **Overnight — Kenzi Rose Garden (Hivernage)** · A hotel just outside the medina with its **own enclosed parking garage** — by far the most reliable option for 3 bikes in Marrakech. Closer to the medina with private **basement motorcycle parking**: **Riad Marrakech By Hivernage**.
+  🛏️ [Kenzi Rose Garden](https://www.kenzi-hotels.com/en/kenzi-rose-garden) · 🛏️ [Riad Marrakech By Hivernage](https://www.booking.com/hotel/ma/batoule.html) · 📍 [Marrakech](https://www.google.com/maps/search/?api=1&query=31.6258,-7.9891)
 - 🌃 **Evening — Jemaa el-Fna** · The famous square with food stalls, musicians and snake charmers.
 
-> 🅿️ **Bike tip Marrakech:** don't ride into the narrow medina alleys. Park in a guarded car park (*gardien*) and continue on foot/by taxi. Ask the riad in advance for the best parking option.
+> 🅿️ **Bike tip Marrakech:** at Kenzi Rose Garden/Hivernage you simply park safely at the hotel. If you do choose a riad deep in the medina, don't ride into the narrow alleys — use **parking gardienné** (a guarded lot at the medina edge) and continue on foot/by taxi.
 
 ---
 
-### 🏍️ Day 8 — Sunday 18 October: Marrakech → Ouzoud waterfalls → Beni Mellal
+### 🏍️ Day 8 — Monday 19 October: Marrakech → Ouzoud waterfalls → Beni Mellal
 **Route:** Marrakech → Ouzoud → Beni Mellal · **Riding time:** ± 4 h · **Distance:** 205 km · **Scenery:** ★★★★☆
 
 - 💧 **Ouzoud waterfalls** · At 110 m, the highest waterfalls in Morocco; a green oasis with (again) Barbary macaques. A short walk to the foot, lunch with a view.
   📍 [Ouzoud waterfalls](https://www.google.com/maps/search/?api=1&query=32.0155,-6.7197) · 📷 [Photos](https://www.google.com/search?tbm=isch&q=Ouzoud+waterfalls)
 - 🛣️ **On to Beni Mellal** · Fertile landscape at the foot of the Middle Atlas.
-- 🏨 **Overnight — Beni Mellal** · A practical staging town; choose a tidy hotel with parking.
-  🛏️ [Hotels Beni Mellal](https://www.google.com/maps/search/?api=1&query=hotel+Beni+Mellal) · 📍 [Beni Mellal](https://www.google.com/maps/search/?api=1&query=32.3373,-6.3498)
+- 🏨 **Overnight — Hotel Chems (Beni Mellal)** · On the edge of town (easy in/out), with **private guarded parking** — fine for the 3 bikes. Alternative with an enclosed garage: **Hotel Velsatis** (underground parking, central).
+  🛏️ [Hotel Chems](http://hotelchems.com/?lang=en) · 📍 [Beni Mellal](https://www.google.com/maps/search/?api=1&query=32.3373,-6.3498)
 
 ---
 
-### 🏍️ Day 9 — Monday 19 October: Beni Mellal → Midelt
+### 🏍️ Day 9 — Tuesday 20 October: Beni Mellal → Midelt
 **Route:** Beni Mellal → Khenifra → Middle Atlas → Midelt · **Riding time:** ± 4.5 h · **Distance:** 285 km · **Scenery:** ★★★★☆
 
 - 🌲 **Back into the Middle Atlas** · Wooded mountain roads and high plateaus; a calm, flowing ride towards Midelt.
 - ☕ **Coffee/lunch** in Khenifra or en route.
   📍 [Khenifra](https://www.google.com/maps/search/?api=1&query=32.9350,-5.6680)
-- 🏨 **Overnight — Kasbah Asmaa, Midelt** (night 3) · A familiar base before the long final day.
-  🛏️ [Kasbah Asmaa Midelt](https://www.google.com/maps/search/?api=1&query=Kasbah+Asmaa+Midelt)
+- 🏨 **Overnight — Riad Villa Midelt** (night 3) · A familiar base with secure parking before the long final day.
+  🛏️ [Riad Villa Midelt](https://www.booking.com/hotel/ma/riad-villa-midelt.html)
 
 ---
 
-### 🏍️ Day 10 — Tuesday 20 October: Midelt → Nador + night ferry
+### 🏍️ Day 10 — Wednesday 21 October: Midelt → Nador + night ferry
 **Route:** Midelt → Missour → Guercif → Taourirt → Nador · **Riding time:** ± 5.5–6 h · **Distance:** 335 km · **Roads:** N15 • N2 · **Difficulty:** ★★☆☆☆
 
 The only day with an **early start** (± 07:30) — quiet roads, a cool morning and plenty of time to reach the ferry.
@@ -223,7 +223,7 @@ The only day with an **early start** (± 07:30) — quiet roads, a cool morning 
 
 ---
 
-### 🚗 Transit — Wednesday 21 October: Almería → Moraira
+### 🚗 Transit — Thursday 22 October: Almería → Moraira
 **Route:** Almería → Moraira · **Riding time:** ± 4.5 h · **Distance:** ± 400 km
 
 A relaxed final stage along the coast back home. Home in Moraira.
@@ -232,21 +232,25 @@ A relaxed final stage along the coast back home. Home in Moraira.
 
 ## 🏨 Accommodation at a glance
 
-| Night | Place | Suggestion | Type | Indicative/night (2 pers) |
-|---|---|---|---|---|
-| Ferry | Almería→Nador | Ferry outside cabin | Cabin | € 90–160 pp incl. bike |
-| 1 | Guercif | Tidy town hotel | Simple | € 30–60 |
-| 2 | Midelt | **Kasbah Asmaa** | Kasbah | € 45–80 |
-| 3 | Midelt | **Kasbah Asmaa** | Kasbah | € 45–80 |
-| 4 | Merzouga | Dune lodge / desert camp | Kasbah/camp | € 50–140 |
-| 5 | Dades Gorge | **Chez Pierre** / Xaluca | Boutique | € 60–110 |
-| 6 | Aït Benhaddou | **Kasbah Ellouze** etc. | Kasbah | € 55–100 |
-| 7 | Marrakech | Riad in the medina | Riad | € 70–160 |
-| 8 | Beni Mellal | Tidy town hotel | Simple | € 35–70 |
-| 9 | Midelt | **Kasbah Asmaa** | Kasbah | € 45–80 |
-| Ferry | Nador→Almería | Ferry outside cabin | Cabin | € 90–160 pp incl. bike |
+> 🅿️ Every hotel below is chosen for **secure parking for the 3 bikes** (enclosed/walled grounds, garage or guarded lot) and is currently operating (2025–2026). **When booking, confirm** that 3 large motorcycles can go inside the walls/garage — email/WhatsApp: *"We arrive on 3 motorcycles — can they be parked inside your grounds/garage overnight?"* Mid-October is shoulder season → good availability.
 
-> 💶 Prices are indicative (October 2026) and **not checked in real time**. In high season and around public holidays they can be higher — **book early** for Merzouga, Dades and Marrakech.
+| Night | Place | Recommended hotel — secure parking | Indicative/night (2 pers) | Book |
+|---|---|---|---|---|
+| Ferry | Almería→Nador | Ferry outside cabin (bike on car deck) | € 90–160 pp incl. bike | [Baleària](https://www.balearia.com/en) / [Armas](https://www.navieraarmas.com/en) |
+| 1 | Guercif | **Hotel Atlas Guercif** — underground parking (confirmed) | € 38–45 | [book](https://hotel-atlas-guercif-taza.vivehotels.com/en/) |
+| 2 | Midelt | **Riad Villa Midelt** — private internal motorcycle parking | € 65–85 | [book](https://www.booking.com/hotel/ma/riad-villa-midelt.html) |
+| 3 | Midelt | **Riad Villa Midelt** (same base) | € 65–85 | idem |
+| 4 | Merzouga | **Kasbah Mohayut** — parking inside the kasbah, by the dunes | € 70–100 | [book](https://www.hotelmohayut.com/) |
+| 5 | Dades | **Hotel Xaluca Dades** — enclosed guarded parking | € 150–175 | [book](https://www.booking.com/hotel/ma/xaluca-dades.html) |
+| 6 | Aït Benhaddou | **La Fibule d'Or** — own parking, walk to ksar | € 55–90 | [book](https://www.booking.com/hotel/ma/la-fibule-dor.html) |
+| 7 | Marrakech | **Kenzi Rose Garden** (Hivernage) — own enclosed garage | € 120–190 | [book](https://www.kenzi-hotels.com/en/kenzi-rose-garden) |
+| 8 | Beni Mellal | **Hotel Chems** — private guarded parking | € 30–50 | [book](http://hotelchems.com/?lang=en) |
+| 9 | Midelt | **Riad Villa Midelt** (same base) | € 65–85 | idem |
+| Ferry | Nador→Almería | Ferry outside cabin | € 90–160 pp incl. bike | [Baleària](https://www.balearia.com/en) / [Armas](https://www.navieraarmas.com/en) |
+
+**Alternatives per night:** Guercif → Hotel Chark · Midelt → Kasbah Asmaa · Merzouga → Riad Madu / Kasbah Erg Chebbi · Dades → La Kasbah de Dades (or Chez Pierre for dinner) · Aït Benhaddou → Kasbah Ellouze · Marrakech → Riad Marrakech By Hivernage · Beni Mellal → Hotel Velsatis.
+
+> 💶 Prices are indicative (Oct 2026) and **not checked in real time** — confirm when booking. **Note:** with **3 riders** you can't split one double room evenly; reckon on a twin + a single (or 3 rooms) → per-person price a bit higher than the double indication above.
 
 ---
 
@@ -255,20 +259,20 @@ A relaxed final stage along the coast back home. Home in Moraira.
 | Item | Indicative |
 |---|---|
 | Return ferry Almería↔Nador (bike + rider, cabin) | € 260–420 |
-| 9 nights Morocco (twin room shared → pp) | € 250–500 |
+| 9 nights Morocco (3 riders, twin + single → pp) | € 400–700 |
 | Dinners + lunches + coffee (10 days) | € 200–350 |
 | Fuel in Morocco (± 2,520 km) | € 90–150 |
 | Fuel in Spain transit (± 800 km) | € 60–90 |
 | Temporary vehicle import + border (free, plus copies) | € 0–15 |
 | Motorcycle green-card cover for Morocco | € 30–90 |
 | Entries, guides, tea, souvenirs | € 80–200 |
-| **Total per rider (indicative)** | **± € 1,000–1,800** |
+| **Total per rider (indicative)** | **± € 1,150–2,050** |
 
 *Morocco is inexpensive on the ground; the biggest items are the ferry and fuel/travel.*
 
 ---
 
-## 🛃 Border & documents checklist (per bike × 4)
+## 🛃 Border & documents checklist (per bike × 3)
 
 Make sure **each rider** carries these papers, complete and with copies:
 
@@ -338,7 +342,7 @@ Make sure **each rider** carries these papers, complete and with copies:
 
 ## ⚠️ Good to know
 
-- **Book early:** Merzouga (dune lodges), Dades (Chez Pierre) and Marrakech (riads) fill up quickly in October. Book the **ferry** (outbound + return) early too.
+- **Book early:** Merzouga (dune lodges), Dades (Xaluca) and Marrakech (riads) fill up quickly in October. Book the **ferry** (outbound + return) early too.
 - **Prices are indicative** (Oct 2026) and **not checked in real time** — always confirm when booking.
 - **Riding times** exclude stops and assume scenic roads.
 - **Don't lose the border document** (temporary vehicle import, per bike).

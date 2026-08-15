@@ -1,8 +1,8 @@
 # 🏍️🇲🇦 Marokko Motorreis 2026 — Van Moraira naar de Sahara
 
-Een uitgewerkte **10-daagse motorrondreis door Marokko** (+ Spaanse transit), vanuit **Moraira** via de veerboot **Almería ↔ Nador**. Voor **4 motoren — 2× BMW R1200RS + 1× Honda GB350 + 1× Yamaha Ténéré 700 World Raid**, in **oktober 2026**. Lekker rijden, mooi slapen (riads & kasbahs), en het beste van Marokko in ± 12 dagen deur-tot-deur — over landschappelijke wegen, met een **GPX-bestand voor de Garmin Zümo XT**.
+Een uitgewerkte **10-daagse motorrondreis door Marokko** (+ Spaanse transit), vanuit **Moraira** via de veerboot **Almería ↔ Nador**. Voor **3 motoren — 2× BMW R1200RS + 1× Yamaha Ténéré 700 World Raid**, in **oktober 2026**. Lekker rijden, mooi slapen (riads & kasbahs), en het beste van Marokko in ± 12 dagen deur-tot-deur — over landschappelijke wegen, met een **GPX-bestand voor de Garmin Zümo XT**.
 
-> Gebaseerd op het ChatGPT-tourvoorstel (Almería→Nador, ± 2.500 km), aangepast naar **start/eind Moraira** en **4 motoren**, in het Cabrio-Tour-formaat.
+> Gebaseerd op het ChatGPT-tourvoorstel (Almería→Nador, ± 2.500 km), aangepast naar **start/eind Moraira** en **3 motoren**, in het Cabrio-Tour-formaat.
 
 ---
 
@@ -12,12 +12,12 @@ Een uitgewerkte **10-daagse motorrondreis door Marokko** (+ Spaanse transit), va
 
 | | |
 |---|---|
-| **Vertrek** | zaterdag 10 oktober 2026 — Moraira |
-| **Terugkomst** | woensdag 21 oktober 2026 — Moraira |
+| **Vertrek** | zondag 11 oktober 2026 — Moraira |
+| **Terugkomst** | donderdag 22 oktober 2026 — Moraira |
 | **Rijdagen Marokko** | 10 (9 nachten in Marokko) |
 | **Afstand Marokko** | ± 2.520 km |
 | **Oversteek** | Almería ↔ Nador (nachtferry) |
-| **Motoren** | 2× BMW R1200RS, 1× Honda GB350, 1× Yamaha Ténéré 700 World Raid (23 L) |
+| **Motoren** | 2× BMW R1200RS, 1× Yamaha Ténéré 700 World Raid (23 L) |
 | **Hoogste punt** | 🏔️ Tizi n'Tichka-pas — 2.260 m |
 
 ---
@@ -26,18 +26,18 @@ Een uitgewerkte **10-daagse motorrondreis door Marokko** (+ Spaanse transit), va
 
 | Dag | Datum | Route | Afstand |
 |---|---|---|---|
-| — | za 10 okt | Moraira → Almería + nachtferry | ± 400 km |
-| 1 | zo 11 okt | Nador → Guercif | 202 km |
-| 2 | ma 12 okt | Guercif → Midelt (N15) | 238 km |
-| 3 | di 13 okt | Midelt → Ifrane → Azrou → Midelt | 285 km |
-| 4 | wo 14 okt | Midelt → Merzouga (Ziz, Sahara) | 285 km |
-| 5 | do 15 okt | Merzouga → Todra → Dades | 275 km |
-| 6 | vr 16 okt | Dades (R704) → Aït Benhaddou | 215 km |
-| 7 | za 17 okt | Aït Benhaddou → Marrakech (Tizi n'Tichka) | 195 km |
-| 8 | zo 18 okt | Marrakech → Ouzoud → Beni Mellal | 205 km |
-| 9 | ma 19 okt | Beni Mellal → Midelt | 285 km |
-| 10 | di 20 okt | Midelt → Nador + nachtferry | 335 km |
-| — | wo 21 okt | Almería → Moraira | ± 400 km |
+| — | zo 11 okt | Moraira → Almería + nachtferry | ± 400 km |
+| 1 | ma 12 okt | Nador → Guercif | 202 km |
+| 2 | di 13 okt | Guercif → Midelt (N15) | 238 km |
+| 3 | wo 14 okt | Midelt → Ifrane → Azrou → Midelt | 285 km |
+| 4 | do 15 okt | Midelt → Merzouga (Ziz, Sahara) | 285 km |
+| 5 | vr 16 okt | Merzouga → Todra → Dades | 275 km |
+| 6 | za 17 okt | Dades (R704) → Aït Benhaddou | 215 km |
+| 7 | zo 18 okt | Aït Benhaddou → Marrakech (Tizi n'Tichka) | 195 km |
+| 8 | ma 19 okt | Marrakech → Ouzoud → Beni Mellal | 205 km |
+| 9 | di 20 okt | Beni Mellal → Midelt | 285 km |
+| 10 | wo 21 okt | Midelt → Nador + nachtferry | 335 km |
+| — | do 22 okt | Almería → Moraira | ± 400 km |
 
 📄 **Volledig deelnemersdocument (versturen):**
 - 🇳🇱 Nederlands: [`reisgids/MAROKKO-Motorreis-2026.md`](reisgids/MAROKKO-Motorreis-2026.md)
@@ -64,11 +64,10 @@ De deelnemersdocumenten zijn bedoeld om **direct naar de andere twee rijders te 
 
 ---
 
-## 🏍️ Voor onze vier motoren
+## 🏍️ Voor onze drie motoren
 
-- **2× BMW R1200RS + 1× Honda GB350 + 1× Ténéré 700 World Raid** — allemaal asfaltmachines (de RS'en zijn sport-tourers, de GB350 een lichte classic), dus we rijden de héle route **op asfalt**; optionele grindstukken zijn alleen iets voor de World Raid (en ook dan optioneel).
-- **Tempo:** de **Honda GB350** (± 21 pk) is de rustigste van het stel en bepaalt op de lange dagen en hoge passen (Tizi n'Tichka) het groepstempo → plan wat ruimer met tijd en stops; niet wegrijden van de langzaamste.
-- **Tankbereik:** de World Raid (23 L) en de zuinige GB350 (± 15 L) halen ruim ± 350–400 km; de twee **R1200RS** (± 18 L, ± 300 km) bepalen de tankstops → samen tanken bij ± 220–250 km. Voltanken vóór dag 4, 5 en 10.
+- **2× BMW R1200RS + 1× Ténéré 700 World Raid** — asfaltmachines (de RS'en zijn sport-tourers), dus we rijden de héle route **op asfalt**; optionele grindstukken zijn alleen iets voor de World Raid (en ook dan optioneel).
+- **Tankbereik:** de World Raid (23 L) haalt ± 400 km; de twee **R1200RS** (± 18 L, ± 300 km) bepalen de tankstops → samen tanken bij ± 220–250 km. Voltanken vóór dag 4, 5 en 10.
 - **Grens:** elke motor heeft een **eigen** set documenten + tijdelijke voertuiginvoer (zie checklist in het reisgids-document).
 
 ---
@@ -89,7 +88,7 @@ De deelnemersdocumenten zijn bedoeld om **direct naar de andere twee rijders te 
 
 ## ⚠️ Belangrijk om te weten
 
-- **Boek vroeg:** Merzouga (duinlodges), Dades (Chez Pierre) en Marrakech (riads) lopen in oktober snel vol. Boek ook de **ferry** (heen + terug) vroeg.
+- **Boek vroeg:** Merzouga (duinlodges), Dades (Xaluca) en Marrakech (riads) lopen in oktober snel vol. Boek ook de **ferry** (heen + terug) vroeg.
 - **Prijzen zijn indicatief** (okt 2026) en **niet realtime gecontroleerd** — controleer bij het boeken.
 - **Grensdocument (tijdelijke voertuiginvoer) niet kwijtraken** — per motor inleveren bij vertrek.
 - **Woestijn:** geen dieptezand met beladen toermotoren; blijf op vaste ondergrond.

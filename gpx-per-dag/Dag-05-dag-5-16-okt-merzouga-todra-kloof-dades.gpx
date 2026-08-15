@@ -2,15 +2,15 @@
 <gpx version="1.1" creator="Marokko Motorreis 2026" xmlns="http://www.topografix.com/GPX/1/1"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <metadata><name>Dag 5 (15 okt) Merzouga - Todra-kloof - Dades</name></metadata>
+  <metadata><name>Dag 5 (16 okt) Merzouga - Todra-kloof - Dades</name></metadata>
   <rte>
-    <name>Dag 5 (15 okt) Merzouga - Todra-kloof - Dades</name>
+    <name>Dag 5 (16 okt) Merzouga - Todra-kloof - Dades</name>
     <desc>275 km. Rissani-soek, Todra-kloof, overnachten in de Dades-kloof.</desc>
     <rtept lat="31.0990" lon="-4.0130"><name>Merzouga</name></rtept>
     <rtept lat="31.2810" lon="-4.2600"><name>Rissani - soek</name></rtept>
     <rtept lat="31.5147" lon="-5.5326"><name>Tinghir</name></rtept>
     <rtept lat="31.5900" lon="-5.6000"><name>Todra-kloof</name></rtept>
     <rtept lat="31.5147" lon="-5.5326"><name>Tinghir (terug)</name></rtept>
-    <rtept lat="31.3690" lon="-5.9910"><name>Boumalne Dades / Chez Pierre</name></rtept>
+    <rtept lat="31.3690" lon="-5.9910"><name>Boumalne Dades - Xaluca</name></rtept>
   </rte>
 </gpx>

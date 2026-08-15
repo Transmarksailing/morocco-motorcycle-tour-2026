@@ -2,15 +2,15 @@
 
 **10 rijdagen door Marokko + Spaanse transit — Rif, Midden-Atlas, Sahara, Todra & Dades, Aït Benhaddou, Marrakech en de Hoge Atlas**
 
-> Vier motoren · 2× BMW R1200RS + 1× Honda GB350 + 1× Ténéré 700 World Raid · veerboot Almería ↔ Nador · ± 2.500 km in Marokko · volledig op asfalt · mooie riads & kasbahs.
+> Drie motoren · 2× BMW R1200RS + 1× Ténéré 700 World Raid · veerboot Almería ↔ Nador · ± 2.500 km in Marokko · volledig op asfalt · mooie riads & kasbahs.
 
 | | |
 |---|---|
-| **Vertrek** | zaterdag 10 oktober 2026 — Moraira |
-| **Terugkomst** | woensdag 21 oktober 2026 — Moraira |
+| **Vertrek** | zondag 11 oktober 2026 — Moraira |
+| **Terugkomst** | donderdag 22 oktober 2026 — Moraira |
 | **Rijdagen Marokko** | 10 (9 nachten in Marokko) |
 | **Totaal deur-tot-deur** | ± 12 dagen |
-| **Gezelschap** | 4 motoren — 2× BMW R1200RS, 1× Honda GB350, 1× Yamaha Ténéré 700 World Raid (23 L) |
+| **Gezelschap** | 3 motoren — 2× BMW R1200RS, 1× Yamaha Ténéré 700 World Raid (23 L) |
 | **Oversteek** | Almería ↔ Nador (nachtferry, ± 6–8 u) |
 | **Hoogste punt** | 🏔️ Tizi n'Tichka-pas — **2.260 m** |
 | **Wegen** | Landschappelijke asfaltwegen (2× RS = sport-tourer); grind alleen optioneel voor de World Raid |
@@ -27,15 +27,14 @@ Een grote lus vanuit Moraira: kort de kust af naar Almería, met de nachtferry n
 
 ---
 
-## 🏍️ Onze vier motoren — praktische groepsafspraken
+## 🏍️ Onze drie motoren — praktische groepsafspraken
 
-We rijden met **twee BMW R1200RS**, **één Honda GB350** en **één Yamaha Ténéré 700 World Raid**. De route is bewust **op asfalt** uitgezet: de R1200RS is een sport-tourer voor de verharde weg, de GB350 een lichte, ontspannen classic, en de World Raid met zijn grote tank juist gemaakt voor lange afstanden. Elke etappe rijden we volledig op asfalt; een enkel grindstuk is optioneel en alleen voor de World Raid.
+We rijden met **twee BMW R1200RS** en **één Yamaha Ténéré 700 World Raid** — drie motoren, drie rijders. De route is bewust **op asfalt** uitgezet: de R1200RS is een sport-tourer voor de verharde weg en de World Raid met zijn grote tank juist gemaakt voor lange afstanden. Elke etappe rijden we volledig op asfalt; een enkel grindstuk is optioneel en alleen voor de World Raid.
 
-- **🐢 Tempo — de GB350 bepaalt het ritme.** De Honda GB350 (± 21 pk) is de rustigste van het stel. Op de lange dagen (dag 10: 335 km) en de hoge passen (Tizi n'Tichka, 2.260 m) rijdt zij het traagst → **plan wat ruimer met tijd en stops en rijd niet weg van de langzaamste**. Het is een genietroute, geen race.
-- **⛽ Tankbereik & groepsstops.** De Ténéré 700 World Raid (**23 L**, ± 400 km) en de zuinige GB350 (± 15 L, ± 350 km) hebben ruim bereik. De twee **R1200RS** (± 18 L) halen realistisch ± 300 km en **bepalen dus de tankstops**: samen tanken bij ± 220–250 km, en nooit een station overslaan vóór een woestijn- of bergetappe (dag 4, 5 en 10).
-- **👥 Rijden in formatie.** Rijd verspringend (zigzag) op de weg, met de langzaamste/minst ervaren rijder vooraan of tweede zodat niemand hoeft te jagen en de laatste (sweep) niemand kwijtraakt. Spreek handsignalen en een vast hergroepeer-punt af (bijv. elke afslag/tankstation).
-- **🪨 Asfalt & bagage.** De twee R1200RS én de Honda GB350 zijn niet gemaakt voor los grind of pistes — daarom blijft de héle groep op de verharde weg. De optionele grindstukken (bijv. Cirque de Jaffar) zijn hooguit iets voor de World Raid-rijder, en ook dan alleen bij droog weer. Koffers/zijtassen zijn prima voor deze toerroute; geen dieptezand.
-- **📄 Documenten × 4.** Elke motor/rijder heeft een **eigen** set papieren nodig (zie grens-checklist). Groene kaart + tijdelijke Marokkaanse invoer per voertuig.
+- **⛽ Tankbereik & groepsstops.** De Ténéré 700 World Raid heeft met **23 L** juist het grootste bereik (± 400 km). De twee **R1200RS** (± 18 L) halen realistisch ± 300 km en **bepalen dus de tankstops**: samen tanken bij ± 220–250 km, en nooit een station overslaan vóór een woestijn- of bergetappe (dag 4, 5 en 10).
+- **👥 Rijden in formatie.** Rijd verspringend (zigzag) op de weg, met de minst ervaren rijder als tweede zodat de kopman het tempo bepaalt en de laatste (sweep) niemand kwijtraakt. Spreek handsignalen en een vast hergroepeer-punt af (bijv. elke afslag/tankstation).
+- **🪨 Asfalt & bagage.** De twee R1200RS zijn niet gemaakt voor los grind of pistes — daarom blijft de héle groep op de verharde weg. De optionele grindstukken (bijv. Cirque de Jaffar) zijn hooguit iets voor de World Raid-rijder, en ook dan alleen bij droog weer. Koffers/zijtassen zijn prima voor deze toerroute; geen dieptezand.
+- **📄 Documenten × 3.** Elke motor/rijder heeft een **eigen** set papieren nodig (zie grens-checklist). Groene kaart + tijdelijke Marokkaanse invoer per voertuig.
 - **🔧 Eén set gereedschap + reserveonderdelen** delen kan, maar neem per motor: bandenreparatie/pomp, remblokjes, kettingspray (T700), en een set zekeringen. Bandenmaten en olie verschillen per merk.
 
 ---
@@ -44,18 +43,18 @@ We rijden met **twee BMW R1200RS**, **één Honda GB350** en **één Yamaha Tén
 
 | Dag | Datum | Route | Afstand |
 |---|---|---|---|
-| — | za 10 okt | **Moraira → Almería** (transit) + nachtferry | ± 400 km |
-| **1** | zo 11 okt | **Nador → Guercif** | 202 km |
-| **2** | ma 12 okt | **Guercif → Midelt** (N15) | 238 km |
-| **3** | di 13 okt | **Midelt → Ifrane → Azrou → Midelt** (lus) | 285 km |
-| **4** | wo 14 okt | **Midelt → Merzouga** (Ziz-vallei, Sahara) | 285 km |
-| **5** | do 15 okt | **Merzouga → Todra → Dades** | 275 km |
-| **6** | vr 16 okt | **Dades → Aït Benhaddou** (R704) | 215 km |
-| **7** | za 17 okt | **Aït Benhaddou → Marrakech** (Tizi n'Tichka) | 195 km |
-| **8** | zo 18 okt | **Marrakech → Ouzoud → Beni Mellal** | 205 km |
-| **9** | ma 19 okt | **Beni Mellal → Midelt** | 285 km |
-| **10** | di 20 okt | **Midelt → Nador** + nachtferry | 335 km |
-| — | wo 21 okt | **Almería → Moraira** (transit) | ± 400 km |
+| — | zo 11 okt | **Moraira → Almería** (transit) + nachtferry | ± 400 km |
+| **1** | ma 12 okt | **Nador → Guercif** | 202 km |
+| **2** | di 13 okt | **Guercif → Midelt** (N15) | 238 km |
+| **3** | wo 14 okt | **Midelt → Ifrane → Azrou → Midelt** (lus) | 285 km |
+| **4** | do 15 okt | **Midelt → Merzouga** (Ziz-vallei, Sahara) | 285 km |
+| **5** | vr 16 okt | **Merzouga → Todra → Dades** | 275 km |
+| **6** | za 17 okt | **Dades → Aït Benhaddou** (R704) | 215 km |
+| **7** | zo 18 okt | **Aït Benhaddou → Marrakech** (Tizi n'Tichka) | 195 km |
+| **8** | ma 19 okt | **Marrakech → Ouzoud → Beni Mellal** | 205 km |
+| **9** | di 20 okt | **Beni Mellal → Midelt** | 285 km |
+| **10** | wo 21 okt | **Midelt → Nador** + nachtferry | 335 km |
+| — | do 22 okt | **Almería → Moraira** (transit) | ± 400 km |
 
 *Datums zijn een voorstel — pas aan op de ferrytijden die je boekt. Totaal in Marokko ± 2.520 km.*
 
@@ -76,7 +75,7 @@ De ferry vaart in ± 6–8 uur over de Middellandse Zee. Neem heen én terug bij
 
 ## 📅 Dag-tot-dag programma
 
-### 🚗 Transit — zaterdag 10 oktober: Moraira → Almería + nachtferry
+### 🚗 Transit — zondag 11 oktober: Moraira → Almería + nachtferry
 **Route:** Moraira → Almería (kust/binnenland) · **Rijtijd:** ± 4,5 u · **Afstand:** ± 400 km
 
 - Ontspannen transitdag langs de Costa Blanca en Costa de Almería naar de haven. Wie wil, pakt het laatste stuk via het binnenland (Sierra Nevada-uitlopers) voor wat stuurplezier.
@@ -85,32 +84,32 @@ De ferry vaart in ± 6–8 uur over de Middellandse Zee. Neem heen én terug bij
 
 ---
 
-### 🏍️ Dag 1 — zondag 11 oktober: Aankomst Nador → Guercif
+### 🏍️ Dag 1 — maandag 12 oktober: Aankomst Nador → Guercif
 **Route:** Nador → Taza-richting → Guercif · **Rijtijd:** ± 3,5 u (excl. grens) · **Afstand:** 202 km · **Ondergrond:** ★★★★★ · **Moeilijkheid:** ★★☆☆☆
 
 - **🛃 Ochtend — grens & haven Beni Ansar.** Neem rustig de tijd voor de formaliteiten. Wissel wat geld (dirham) of pin, koop een lokale simkaart (Maroc Telecom/Orange) en tank vol.
   📍 [Nador](https://www.google.com/maps/search/?api=1&query=35.1740,-2.9330)
 - **🏔️ Rif-uitlopers richting Guercif.** Rustig inrijden in het Marokkaanse ritme: eerste bergpanorama's, olijfgaarden en het langzaam opdrogende landschap richting het zuiden.
-- **🏨 Overnachting — Guercif.** Guercif is een praktische etappeplaats (geen toeristenstad). Kies een net, eenvoudig hotel met parkeerplek voor de motoren.
-  🛏️ [Hotels Guercif](https://www.google.com/maps/search/?api=1&query=Hotel+Guercif) · 📍 [Guercif](https://www.google.com/maps/search/?api=1&query=34.2270,-3.3530)
+- **🏨 Overnachting — Hotel Atlas Guercif** · Praktische etappeplaats. Dit hotel heeft **bevestigde ondergrondse parking** (een motorrijder parkeerde er daadwerkelijk zijn motor) — veilig voor de 3 motoren. Alternatief: **Hotel Chark** (nieuwer/schoner; parking vooraf bevestigen).
+  🛏️ [Hotel Atlas Guercif](https://hotel-atlas-guercif-taza.vivehotels.com/en/) · 📍 [Guercif](https://www.google.com/maps/search/?api=1&query=34.2270,-3.3530)
 - **🍽️ Diner** · Eenvoudige lokale tajine of grillspecialiteiten in het centrum.
 
 > ℹ️ Korte, ontspannen eerste dag — bewust, want de grens en het wennen aan links/rechts, rijstijl en checkpoints kosten energie.
 
 ---
 
-### 🏍️ Dag 2 — maandag 12 oktober: Guercif → Midelt (N15)
+### 🏍️ Dag 2 — dinsdag 13 oktober: Guercif → Midelt (N15)
 **Route:** Guercif → N15 → Midelt · **Rijtijd:** ± 4 u · **Afstand:** 238 km · **Ondergrond:** ★★★★★ · **Scenery:** ★★★★☆
 
 - **🛣️ De N15 — "vloeiende, rustige wegen, perfect voor een GS".** Een van de favoriete rijwegen van de hele reis: weinig verkeer, lange vloeiende bochten en een geleidelijk klimmend berglandschap richting de Hoge Plateaus.
 - **☕ Koffiestop onderweg** in een dorpscafé — kennismaken met de Marokkaanse wegcultuur.
-- **🏨 Overnachting — Kasbah Asmaa, Midelt.** Karakteristieke kasbah-stijl met palmtuin en zwembad; ideale uitvalsbasis (we slapen hier 3 nachten totaal: dag 2, 3 en 9).
-  🛏️ [Kasbah Asmaa Midelt](https://www.google.com/maps/search/?api=1&query=Kasbah+Asmaa+Midelt) · 📍 [Midelt](https://www.google.com/maps/search/?api=1&query=32.6800,-4.7450)
+- **🏨 Overnachting — Riad Villa Midelt.** Onze uitvalsbasis (3 nachten: dag 2, 3 en 9). Gekozen om de **bevestigde privé/interne motorparking** (rijders noemen expliciet stallen op eigen terrein) en de goede recente beoordelingen. Alternatief: **Kasbah Asmaa** (goedkoper, palmtuin/zwembad, maar wisselende reviews + koude nachten).
+  🛏️ [Riad Villa Midelt](https://www.booking.com/hotel/ma/riad-villa-midelt.html) · 🛏️ [Kasbah Asmaa](https://kasbaasmaa.com/) · 📍 [Midelt](https://www.google.com/maps/search/?api=1&query=32.6800,-4.7450)
 - **🍽️ Diner** · Bij de kasbah — tajine, couscous of berberspecialiteiten.
 
 ---
 
-### 🏍️ Dag 3 — dinsdag 13 oktober: Midden-Atlas-lus (Midelt → Ifrane → Azrou → Midelt)
+### 🏍️ Dag 3 — woensdag 14 oktober: Midden-Atlas-lus (Midelt → Ifrane → Azrou → Midelt)
 **Route:** Midelt → Ifrane → Azrou (cederbos) → Midelt · **Rijtijd:** ± 4,5 u · **Afstand:** 285 km (lus) · **Scenery:** ★★★★★
 
 Een dag zónder bagage — we laten de tassen in Midelt en rijden een prachtige lus door het groenste deel van Marokko.
@@ -121,41 +120,42 @@ Een dag zónder bagage — we laten de tassen in Midelt en rijden een prachtige 
   📍 [Ifrane](https://www.google.com/maps/search/?api=1&query=33.5228,-5.1106) · 📷 [Foto's](https://www.google.com/search?tbm=isch&q=Ifrane+Morocco)
 - **🐒 Azrou** · Levendig marktstadje; lekkere lunchstop.
   📍 [Azrou](https://www.google.com/maps/search/?api=1&query=33.4342,-5.2214)
-- **🏨 Terug naar Kasbah Asmaa, Midelt** (nacht 2).
+- **🏨 Terug naar Riad Villa Midelt** (nacht 2).
 
 > 💡 De lus is optioneel in te korten; wie liever rust, kan Midelt en omgeving verkennen (Cirque de Jaffar-piste alleen iets voor de World Raid — grind, droog weer; de twee RS blijven op asfalt).
 
 ---
 
-### 🏍️ Dag 4 — woensdag 14 oktober: Midelt → Merzouga (Ziz-vallei & de Sahara)
+### 🏍️ Dag 4 — donderdag 15 oktober: Midelt → Merzouga (Ziz-vallei & de Sahara)
 **Route:** Midelt → Errachidia → Ziz-vallei (N13) → Erfoud → Merzouga · **Rijtijd:** ± 4,5 u · **Afstand:** 285 km · **Scenery:** ★★★★★
 
 - **🏞️ Ziz-vallei (N13)** · Dé overgang van de bergen naar de woestijn: een groene palmenslinger van tienduizenden dadelpalmen tussen roodbruine rotswanden. Stop bij het **Ziz-uitzichtpunt**.
   📍 [Ziz-vallei uitzichtpunt](https://www.google.com/maps/search/?api=1&query=31.7000,-4.2800) · 📷 [Foto's](https://www.google.com/search?tbm=isch&q=Ziz+Valley+Morocco)
 - **🐪 Aankomst Erg Chebbi / Merzouga** · De eerste echte zandduinen (tot ± 150 m hoog). Rijd het laatste stuk richting de duinvoet.
   📍 [Merzouga / Erg Chebbi](https://www.google.com/maps/search/?api=1&query=31.0990,-4.0130) · 📷 [Foto's](https://www.google.com/search?tbm=isch&q=Erg+Chebbi+Merzouga+dunes)
-- **🏨 Overnachting — kasbah/lodge aan de duinen** · Bijv. Riad Madu, Kasbah Tomboctou of een luxe **woestijnkamp** in de duinen.
-  🛏️ [Lodges Merzouga](https://www.google.com/maps/search/?api=1&query=hotel+Merzouga+Erg+Chebbi)
+- **🏨 Overnachting — Kasbah Mohayut (Hassi Labied)** · Kasbah pal aan de Erg Chebbi-duinen met zonsondergangzicht; **parking binnen de ommuurde kasbah** — veilig voor de 3 motoren. Alternatieven: **Riad Madu** of **Kasbah Erg Chebbi** (beide ommuurd, aan de duinen).
+  🛏️ [Kasbah Mohayut](https://www.hotelmohayut.com/) · 🛏️ [Riad Madu](https://www.riadmadu.com/en/) · 📍 [Merzouga / Erg Chebbi](https://www.google.com/maps/search/?api=1&query=31.0990,-4.0130)
 - **🌅 Sunset over de duinen** · Optioneel kamelentocht of quad; sowieso: klim een duin op voor zonsondergang. De stilte bij zonsondergang boven de duinen is een van de hoogtepunten van de reis.
 
 > ⚠️ **Zand!** Rijd niet ongepland de duinen in met beladen toermotoren. Parkeer op vaste grond bij de lodge; het diepe zand is voor lokale gidsen/quads.
 
 ---
 
-### 🏍️ Dag 5 — donderdag 15 oktober: Merzouga → Todra-kloof → Dades-kloof
+### 🏍️ Dag 5 — vrijdag 16 oktober: Merzouga → Todra-kloof → Dades-kloof
 **Route:** Merzouga → Rissani → Tinghir → Todra → Boumalne Dades · **Rijtijd:** ± 4,5 u · **Afstand:** 275 km · **Scenery:** ★★★★★
 
 - **🕌 Rissani** · Oude karavaanstad en bruisende soek (mooie ochtendmarkt op zon/di/do).
   📍 [Rissani](https://www.google.com/maps/search/?api=1&query=31.2810,-4.2600)
 - **🏜️ Todra-kloof** · Adembenemende kloof met wanden tot 300 m loodrecht boven een smalle rivier. Rijd erdoorheen en stop voor foto's en muntthee.
   📍 [Todra-kloof](https://www.google.com/maps/search/?api=1&query=31.5900,-5.6000) · 📷 [Foto's](https://www.google.com/search?tbm=isch&q=Todra+Gorge)
-- **🏨 Overnachting — Dades-kloof** · Bijv. **Chez Pierre** (klein, gastronomisch, prachtige ligging) of Hotel Xaluca Dades.
-  🛏️ [Chez Pierre Dades](https://www.google.com/maps/search/?api=1&query=Chez+Pierre+Dades) · 📍 [Boumalne Dades](https://www.google.com/maps/search/?api=1&query=31.3690,-5.9910)
-- **🍽️ Diner** · Gastronomisch bij Chez Pierre of tajine met uitzicht op de kloof.
+- **🏨 Overnachting — Hotel Xaluca Dades (Boumalne Dades)** · Grote kasbah-stijl met **afgesloten, bewaakte privéparking** (gewend aan groepen) — de veiligste optie voor de 3 motoren. Karakter/waarde-alternatief: **La Kasbah de Dades** (berberkasbah, ± €65, parking op eigen terrein).
+  🛏️ [Hotel Xaluca Dades](https://www.booking.com/hotel/ma/xaluca-dades.html) · 🛏️ [La Kasbah de Dades](https://kasbahdades.com/) · 📍 [Boumalne Dades](https://www.google.com/maps/search/?api=1&query=31.3690,-5.9910)
+- **🍽️ Diner** · Bij het hotel, óf het beroemde 5-gangen diner bij **Auberge Chez Pierre** hogerop in de kloof (nog steeds hotel én restaurant; parking daar niet als afgesloten te bevestigen, dus voor ons vooral een diner-aanrader).
+  🍽️ [Auberge Chez Pierre](https://www.booking.com/hotel/ma/auberge-chez-pierre.html)
 
 ---
 
-### 🏍️ Dag 6 — vrijdag 16 oktober: Dades-kloof (R704) → Aït Benhaddou
+### 🏍️ Dag 6 — zaterdag 17 oktober: Dades-kloof (R704) → Aït Benhaddou
 **Route:** Dades-haarspelden (R704) → Boumalne → Ouarzazate → Aït Benhaddou · **Rijtijd:** ± 3,5 u · **Afstand:** 215 km · **Scenery:** ★★★★★
 
 - **🥇 Dades-haarspelden (R704)** · De favoriete rijweg van de gids: een reeks onvergetelijke haarspeldbochten die tegen de rode rotswand omhoog kronkelen. Rijd een stuk de kloof in en dezelfde weg terug — deze bochten wíl je twee keer rijden.
@@ -164,12 +164,12 @@ Een dag zónder bagage — we laten de tassen in Midelt en rijden een prachtige 
   📍 [Ouarzazate](https://www.google.com/maps/search/?api=1&query=30.9200,-6.8930)
 - **🏰 Aït Benhaddou (UNESCO)** · De beroemde lemen ksar — decor van talloze films (Gladiator, Game of Thrones). Aankomst in de late middag voor het gouden avondlicht.
   📍 [Aït Benhaddou](https://www.google.com/maps/search/?api=1&query=31.0472,-7.1290) · 📷 [Foto's](https://www.google.com/search?tbm=isch&q=Ait+Benhaddou)
-- **🏨 Overnachting — kasbah met uitzicht op de ksar** · Bijv. **Kasbah Ellouze**, Riad Caravane of La Fibule d'Or.
-  🛏️ [Hotels Aït Benhaddou](https://www.google.com/maps/search/?api=1&query=hotel+Ait+Benhaddou)
+- **🏨 Overnachting — La Fibule d'Or** · Aan de voet van de ksar (loopafstand); **eigen privéparking op het terrein** (self + valet, door recente gasten bevestigd). Meest afgesloten stalling: **Kasbah Ellouze** (ommuurde kasbah in Tamdaght, ± 5 km, nieuwe eigenaren 2025, geroemd diner). *(Riad Caravane is mooi maar heeft alleen openbare parking → niet ideaal voor 3 onbeheerde motoren.)*
+  🛏️ [La Fibule d'Or](https://www.booking.com/hotel/ma/la-fibule-dor.html) · 🛏️ [Kasbah Ellouze](https://www.kasbahellouze.com/) · 📍 [Aït Benhaddou](https://www.google.com/maps/search/?api=1&query=31.0472,-7.1290)
 
 ---
 
-### 🏍️ Dag 7 — zaterdag 17 oktober: Aït Benhaddou → Marrakech (Tizi n'Tichka)
+### 🏍️ Dag 7 — zondag 18 oktober: Aït Benhaddou → Marrakech (Tizi n'Tichka)
 **Route:** Aït Benhaddou → Tizi n'Tichka (N9) → Marrakech · **Rijtijd:** ± 4 u · **Afstand:** 195 km · **Hoogste punt:** 2.260 m · **Scenery:** ★★★★★
 
 - **🏔️ Tizi n'Tichka-pas (N9) — 2.260 m** · Klassieke Hoge Atlas-rit: eindeloze bochten over de hoogste asfaltpas van de reis. Recent verbreed en verbeterd — heerlijk sturen. Kleed warm aan; het is fris bovenop.
@@ -178,37 +178,37 @@ Een dag zónder bagage — we laten de tassen in Midelt en rijden een prachtige 
   📍 [Kasbah Telouet](https://www.google.com/maps/search/?api=1&query=31.2870,-7.2400)
 - **🕌 Aankomst Marrakech** · Duik de rode stad in. **Let op: druk verkeer** in de medina-rand — rijd defensief.
   📍 [Marrakech — Jemaa el-Fna](https://www.google.com/maps/search/?api=1&query=31.6258,-7.9891) · 📷 [Foto's](https://www.google.com/search?tbm=isch&q=Marrakech+Jemaa+el+Fna)
-- **🏨 Overnachting — riad in de medina** · Kies een riad die **bewaakte parkeerplek** voor de motoren regelt (vaak een parkeerterrein net buiten de medina).
-  🛏️ [Riads Marrakech](https://www.booking.com/city/ma/marrakech.html)
+- **🏨 Overnachting — Kenzi Rose Garden (Hivernage)** · Hotel net buiten de medina met **eigen afgesloten parkeergarage** — veruit de betrouwbaarste optie voor 3 motoren in Marrakech. Dichter bij de medina met privé **kelderparking voor motoren**: **Riad Marrakech By Hivernage**.
+  🛏️ [Kenzi Rose Garden](https://www.kenzi-hotels.com/en/kenzi-rose-garden) · 🛏️ [Riad Marrakech By Hivernage](https://www.booking.com/hotel/ma/batoule.html) · 📍 [Marrakech](https://www.google.com/maps/search/?api=1&query=31.6258,-7.9891)
 - **🌃 Avond — Jemaa el-Fna** · Het beroemde plein met eetstalletjes, muzikanten en slangenbezweerders.
 
-> 🅿️ **Motor-tip Marrakech:** rijd niet de smalle medina-steegjes in. Parkeer op een bewaakt terrein (*gardien*) en ga te voet/taxi verder. Vraag de riad vooraf om de beste parkeeroptie.
+> 🅿️ **Motor-tip Marrakech:** bij Kenzi Rose Garden/Hivernage parkeer je gewoon veilig bij het hotel. Kies je tóch een riad diep in de medina, rijd dan niet de smalle steegjes in maar gebruik **parking gardienné** (bewaakt terrein aan de medina-rand) en ga te voet/taxi verder.
 
 ---
 
-### 🏍️ Dag 8 — zondag 18 oktober: Marrakech → Ouzoud-watervallen → Beni Mellal
+### 🏍️ Dag 8 — maandag 19 oktober: Marrakech → Ouzoud-watervallen → Beni Mellal
 **Route:** Marrakech → Ouzoud → Beni Mellal · **Rijtijd:** ± 4 u · **Afstand:** 205 km · **Scenery:** ★★★★☆
 
 - **💧 Ouzoud-watervallen** · Met 110 m de hoogste watervallen van Marokko; groene oase met (opnieuw) berbermakaken. Korte wandeling naar de voet, lunch met uitzicht.
   📍 [Ouzoud-watervallen](https://www.google.com/maps/search/?api=1&query=32.0155,-6.7197) · 📷 [Foto's](https://www.google.com/search?tbm=isch&q=Ouzoud+waterfalls)
 - **🛣️ Naar Beni Mellal** · Vruchtbaar landschap aan de voet van de Midden-Atlas.
-- **🏨 Overnachting — Beni Mellal** · Praktische etappeplaats; kies een net hotel met parkeerplek.
-  🛏️ [Hotels Beni Mellal](https://www.google.com/maps/search/?api=1&query=hotel+Beni+Mellal) · 📍 [Beni Mellal](https://www.google.com/maps/search/?api=1&query=32.3373,-6.3498)
+- **🏨 Overnachting — Hotel Chems (Beni Mellal)** · Aan de rand van de stad (makkelijk in/uit), met **privé bewaakte parking** — prima voor de 3 motoren. Alternatief met afgesloten garage: **Hotel Velsatis** (ondergrondse parking, centrum).
+  🛏️ [Hotel Chems](http://hotelchems.com/?lang=en) · 📍 [Beni Mellal](https://www.google.com/maps/search/?api=1&query=32.3373,-6.3498)
 
 ---
 
-### 🏍️ Dag 9 — maandag 19 oktober: Beni Mellal → Midelt
+### 🏍️ Dag 9 — dinsdag 20 oktober: Beni Mellal → Midelt
 **Route:** Beni Mellal → Khenifra → Midden-Atlas → Midelt · **Rijtijd:** ± 4,5 u · **Afstand:** 285 km · **Scenery:** ★★★★☆
 
 - **🌲 Terug de Midden-Atlas in** · Bosrijke bergwegen en hoogvlakten; rustige, vloeiende rit richting Midelt.
 - **☕ Koffie/lunch** in Khenifra of onderweg.
   📍 [Khenifra](https://www.google.com/maps/search/?api=1&query=32.9350,-5.6680)
-- **🏨 Overnachting — Kasbah Asmaa, Midelt** (nacht 3) · Vertrouwd adres vóór de lange slotdag.
-  🛏️ [Kasbah Asmaa Midelt](https://www.google.com/maps/search/?api=1&query=Kasbah+Asmaa+Midelt)
+- **🏨 Overnachting — Riad Villa Midelt** (nacht 3) · Vertrouwd adres met veilige stalling vóór de lange slotdag.
+  🛏️ [Riad Villa Midelt](https://www.booking.com/hotel/ma/riad-villa-midelt.html)
 
 ---
 
-### 🏍️ Dag 10 — dinsdag 20 oktober: Midelt → Nador + nachtferry
+### 🏍️ Dag 10 — woensdag 21 oktober: Midelt → Nador + nachtferry
 **Route:** Midelt → Missour → Guercif → Taourirt → Nador · **Rijtijd:** ± 5,5–6 u · **Afstand:** 335 km · **Wegen:** N15 • N2 · **Moeilijkheid:** ★★☆☆☆
 
 De enige dag met een **vroege start** (± 07:30) — rustige wegen, koele ochtend en ruim op tijd bij de ferry.
@@ -223,7 +223,7 @@ De enige dag met een **vroege start** (± 07:30) — rustige wegen, koele ochten
 
 ---
 
-### 🚗 Transit — woensdag 21 oktober: Almería → Moraira
+### 🚗 Transit — donderdag 22 oktober: Almería → Moraira
 **Route:** Almería → Moraira · **Rijtijd:** ± 4,5 u · **Afstand:** ± 400 km
 
 Ontspannen laatste etappe langs de kust terug naar huis. Thuis in Moraira.
@@ -232,21 +232,25 @@ Ontspannen laatste etappe langs de kust terug naar huis. Thuis in Moraira.
 
 ## 🏨 Overnachtingen in één oogopslag
 
-| Nacht | Plaats | Suggestie | Type | Indicatie/nacht (2-pers) |
-|---|---|---|---|---|
-| Ferry | Almería→Nador | Buitenhut ferry | Hut | € 90–160 p.p. incl. motor |
-| 1 | Guercif | Net stadshotel | Eenvoudig | € 30–60 |
-| 2 | Midelt | **Kasbah Asmaa** | Kasbah | € 45–80 |
-| 3 | Midelt | **Kasbah Asmaa** | Kasbah | € 45–80 |
-| 4 | Merzouga | Duinlodge / woestijnkamp | Kasbah/kamp | € 50–140 |
-| 5 | Dades-kloof | **Chez Pierre** / Xaluca | Boutique | € 60–110 |
-| 6 | Aït Benhaddou | **Kasbah Ellouze** e.a. | Kasbah | € 55–100 |
-| 7 | Marrakech | Riad in de medina | Riad | € 70–160 |
-| 8 | Beni Mellal | Net stadshotel | Eenvoudig | € 35–70 |
-| 9 | Midelt | **Kasbah Asmaa** | Kasbah | € 45–80 |
-| Ferry | Nador→Almería | Buitenhut ferry | Hut | € 90–160 p.p. incl. motor |
+> 🅿️ Alle hotels hieronder zijn gekozen op **veilige stalling voor de 3 motoren** (afgesloten/ommuurd terrein, garage of bewaakte parking) én actueel operationeel (2025–2026). **Bevestig bij het boeken** even dat 3 grote motoren binnen de muren/garage kunnen — mail/WhatsApp: *"We komen met 3 motoren, kunnen die 's nachts binnen het terrein/de garage staan?"* Midden-oktober = laagseizoen → ruime beschikbaarheid.
 
-> 💶 Prijzen indicatief (oktober 2026) en **niet realtime gecontroleerd**. In het hoogseizoen en rond feestdagen kan het hoger zijn — **boek vroeg** voor Merzouga, Dades en Marrakech.
+| Nacht | Plaats | Aanbevolen hotel — veilige stalling | Indicatie/nacht (2-pers) | Boeken |
+|---|---|---|---|---|
+| Ferry | Almería→Nador | Buitenhut ferry (motor op autodek) | € 90–160 p.p. incl. motor | [Baleària](https://www.balearia.com/en) / [Armas](https://www.navieraarmas.com/en) |
+| 1 | Guercif | **Hotel Atlas Guercif** — ondergrondse parking (bevestigd) | € 38–45 | [boek](https://hotel-atlas-guercif-taza.vivehotels.com/en/) |
+| 2 | Midelt | **Riad Villa Midelt** — privé interne motorparking | € 65–85 | [boek](https://www.booking.com/hotel/ma/riad-villa-midelt.html) |
+| 3 | Midelt | **Riad Villa Midelt** (zelfde basis) | € 65–85 | idem |
+| 4 | Merzouga | **Kasbah Mohayut** — parking binnen de kasbah, aan de duinen | € 70–100 | [boek](https://www.hotelmohayut.com/) |
+| 5 | Dades | **Hotel Xaluca Dades** — afgesloten bewaakte parking | € 150–175 | [boek](https://www.booking.com/hotel/ma/xaluca-dades.html) |
+| 6 | Aït Benhaddou | **La Fibule d'Or** — eigen parking, loopafstand ksar | € 55–90 | [boek](https://www.booking.com/hotel/ma/la-fibule-dor.html) |
+| 7 | Marrakech | **Kenzi Rose Garden** (Hivernage) — eigen afgesloten garage | € 120–190 | [boek](https://www.kenzi-hotels.com/en/kenzi-rose-garden) |
+| 8 | Beni Mellal | **Hotel Chems** — privé bewaakte parking | € 30–50 | [boek](http://hotelchems.com/?lang=en) |
+| 9 | Midelt | **Riad Villa Midelt** (zelfde basis) | € 65–85 | idem |
+| Ferry | Nador→Almería | Buitenhut ferry | € 90–160 p.p. incl. motor | [Baleària](https://www.balearia.com/en) / [Armas](https://www.navieraarmas.com/en) |
+
+**Alternatieven per nacht:** Guercif → Hotel Chark · Midelt → Kasbah Asmaa · Merzouga → Riad Madu / Kasbah Erg Chebbi · Dades → La Kasbah de Dades (of Chez Pierre voor het diner) · Aït Benhaddou → Kasbah Ellouze · Marrakech → Riad Marrakech By Hivernage · Beni Mellal → Hotel Velsatis.
+
+> 💶 Prijzen indicatief (okt 2026) en **niet realtime gecontroleerd** — controleer bij het boeken. **Let op:** met **3 rijders** deel je geen 2-persoonskamer gelijk; reken op een twin + een eenpersoons (of 3 kamers) → prijs p.p. iets hoger dan de 2-persoons indicatie hierboven.
 
 ---
 
@@ -255,20 +259,20 @@ Ontspannen laatste etappe langs de kust terug naar huis. Thuis in Moraira.
 | Post | Indicatie |
 |---|---|
 | Retour ferry Almería↔Nador (motor + rijder, hut) | € 260 – 420 |
-| 9 nachten Marokko (2-pers kamer gedeeld → p.p.) | € 250 – 500 |
+| 9 nachten Marokko (3 rijders, twin + eenpersoons → p.p.) | € 400 – 700 |
 | Diners + lunches + koffie (10 dagen) | € 200 – 350 |
 | Brandstof Marokko (± 2.520 km, goedkope diesel/benzine) | € 90 – 150 |
 | Brandstof Spanje transit (± 800 km) | € 60 – 90 |
 | Tijdelijke voertuiginvoer + grens (gratis, evt. kopieën) | € 0 – 15 |
 | Motorverzekering groene kaart Marokko (uitbreiding) | € 30 – 90 |
 | Entrees, gidsen, thee, souvenirs | € 80 – 200 |
-| **Totaal per rijder (indicatief)** | **± € 1.000 – 1.800** |
+| **Totaal per rijder (indicatief)** | **± € 1.150 – 2.050** |
 
 *Marokko is voordelig ter plekke; het grootste deel zijn ferry en brandstof/onderweg.*
 
 ---
 
-## 🛃 Grens & documenten-checklist (per motor × 4)
+## 🛃 Grens & documenten-checklist (per motor × 3)
 
 Zorg dat **elke rijder** deze papieren compleet en in kopie bij zich heeft:
 
@@ -337,7 +341,7 @@ Zorg dat **elke rijder** deze papieren compleet en in kopie bij zich heeft:
 
 ## ⚠️ Belangrijk om te weten
 
-- **Boek vroeg:** Merzouga (duinlodges), Dades (Chez Pierre) en Marrakech (riads) lopen in oktober snel vol.
+- **Boek vroeg:** Merzouga (duinlodges), Dades (Xaluca) en Marrakech (riads) lopen in oktober snel vol.
 - **Prijzen zijn indicatief** (okt 2026) en **niet realtime gecontroleerd** — controleer bij het boeken.
 - **Rijtijden** gelden exclusief stops en zijn gebaseerd op landschappelijke wegen.
 - **Grensdocument niet kwijtraken** (tijdelijke voertuiginvoer per motor).

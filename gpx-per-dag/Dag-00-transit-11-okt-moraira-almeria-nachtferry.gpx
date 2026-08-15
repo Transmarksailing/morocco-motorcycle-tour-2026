@@ -2,9 +2,9 @@
 <gpx version="1.1" creator="Marokko Motorreis 2026" xmlns="http://www.topografix.com/GPX/1/1"
      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
      xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
-  <metadata><name>Transit (10 okt) Moraira - Almeria + nachtferry</name></metadata>
+  <metadata><name>Transit (11 okt) Moraira - Almeria + nachtferry</name></metadata>
   <rte>
-    <name>Transit (10 okt) Moraira - Almeria + nachtferry</name>
+    <name>Transit (11 okt) Moraira - Almeria + nachtferry</name>
     <desc>Ca. 400 km, 4,5u. Kust/binnenland naar de haven. Avond/nachtferry naar Nador.</desc>
     <rtept lat="38.6873" lon="0.1440"><name>Moraira</name></rtept>
     <rtept lat="38.3452" lon="-0.4810"><name>Alicante (kust)</name></rtept>

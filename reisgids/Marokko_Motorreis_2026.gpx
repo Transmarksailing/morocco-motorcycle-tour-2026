@@ -4,38 +4,38 @@
      xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
     <name>Marokko Motorreis 2026 - Moraira naar de Sahara</name>
-    <desc>10 rijdagen Marokko + Spaanse transit. Ferry Almeria-Nador. Rif, Midden-Atlas, Sahara (Merzouga), Todra en Dades, Ait Benhaddou, Marrakech, Tizi n'Tichka, Ouzoud. 2x BMW R1200RS + 1x Honda GB350 + 1x Tenere 700 World Raid. Okt 2026.</desc>
+    <desc>10 rijdagen Marokko + Spaanse transit. Ferry Almeria-Nador. Rif, Midden-Atlas, Sahara (Merzouga), Todra en Dades, Ait Benhaddou, Marrakech, Tizi n'Tichka, Ouzoud. 2x BMW R1200RS + 1x Tenere 700 World Raid. Okt 2026.</desc>
   </metadata>
 
   <!-- ============ WAYPOINTS ============ -->
-  <wpt lat="38.6873" lon="0.1440"><name>START/EIND Moraira</name><sym>Residence</sym><desc>Vertrek 10 okt, terugkomst 21 okt.</desc></wpt>
+  <wpt lat="38.6873" lon="0.1440"><name>START/EIND Moraira</name><sym>Residence</sym><desc>Vertrek 11 okt, terugkomst 22 okt.</desc></wpt>
   <wpt lat="36.8300" lon="-2.4640"><name>Haven Almeria (FERRY)</name><sym>Anchor</sym><desc>Nachtferry naar Nador (Baleria/Trasmediterranea). Kom ruim op tijd.</desc></wpt>
   <wpt lat="35.2680" lon="-2.9330"><name>Haven Nador - Beni Ansar (FERRY)</name><sym>Anchor</sym><desc>Aankomst Marokko. Reken op 1-2u grensformaliteiten + tijdelijke voertuiginvoer.</desc></wpt>
-  <wpt lat="34.2270" lon="-3.3530"><name>Guercif (NACHT 1) + lunch/tank dag 10</name><sym>Lodging</sym><desc>Praktische etappeplaats. Tank hier vol op de terugweg.</desc></wpt>
-  <wpt lat="32.6800" lon="-4.7450"><name>Midelt - Kasbah Asmaa (NACHT 2,3,9)</name><sym>Lodging</sym><desc>Kasbah met palmtuin en zwembad. Uitvalsbasis, 3 nachten.</desc></wpt>
+  <wpt lat="34.2270" lon="-3.3530"><name>Guercif (NACHT 1) + lunch/tank dag 10</name><sym>Lodging</sym><desc>Hotel Atlas Guercif (ondergrondse parking). Tank hier vol op de terugweg.</desc></wpt>
+  <wpt lat="32.6800" lon="-4.7450"><name>Midelt - Riad Villa Midelt (NACHT 2,3,9)</name><sym>Lodging</sym><desc>Riad met prive interne motorparking (veilige stalling). Uitvalsbasis, 3 nachten.</desc></wpt>
   <wpt lat="33.5228" lon="-5.1106"><name>Ifrane</name><sym>Scenic Area</sym><desc>Zwitserland van Marokko. Koffiestop dag 3.</desc></wpt>
   <wpt lat="33.4270" lon="-5.1720"><name>Cederbos Azrou (berbermakaken)</name><sym>Forest</sym><desc>Ceder- en dennenbos, kans op wilde apen. Dag 3.</desc></wpt>
   <wpt lat="33.4342" lon="-5.2214"><name>Azrou - lunch</name><sym>Restaurant</sym><desc>Marktstadje, lunchstop dag 3.</desc></wpt>
   <wpt lat="31.9314" lon="-4.4244"><name>Errachidia</name><sym>City (Small)</sym><desc>Poort naar de Ziz-vallei.</desc></wpt>
   <wpt lat="31.7000" lon="-4.2800"><name>Ziz-vallei uitzichtpunt</name><sym>Scenic Area</sym><desc>Palmenslinger tussen rode rotsen. Overgang bergen naar woestijn. Dag 4.</desc></wpt>
-  <wpt lat="31.0990" lon="-4.0130"><name>Merzouga - Erg Chebbi (NACHT 4)</name><sym>Summit</sym><desc>Zandduinen tot 150m. Duinlodge/woestijnkamp. Zonsondergang op de duinen. NIET met beladen motor het dieptezand in.</desc></wpt>
+  <wpt lat="31.0990" lon="-4.0130"><name>Merzouga - Erg Chebbi (NACHT 4)</name><sym>Summit</sym><desc>Zandduinen tot 150m. Kasbah Mohayut: parking binnen de kasbah. Zonsondergang op de duinen. NIET met beladen motor het dieptezand in.</desc></wpt>
   <wpt lat="31.2810" lon="-4.2600"><name>Rissani - soek</name><sym>Shopping Center</sym><desc>Oude karavaanstad, markt zo/di/do. Dag 5.</desc></wpt>
   <wpt lat="31.5900" lon="-5.6000"><name>Todra-kloof</name><sym>Scenic Area</sym><desc>Kloofwanden tot 300m loodrecht. Doorrijden + fotostop. Dag 5.</desc></wpt>
-  <wpt lat="31.3690" lon="-5.9910"><name>Boumalne Dades / Chez Pierre (NACHT 5)</name><sym>Lodging</sym><desc>Dades-kloof. Chez Pierre (gastronomisch) of Xaluca Dades.</desc></wpt>
+  <wpt lat="31.3690" lon="-5.9910"><name>Boumalne Dades - Xaluca Dades (NACHT 5)</name><sym>Lodging</sym><desc>Dades-kloof. Hotel Xaluca Dades: afgesloten bewaakte parking. Diner evt. bij Chez Pierre.</desc></wpt>
   <wpt lat="31.5560" lon="-5.9700"><name>Dades-haarspelden (R704)</name><sym>Summit</sym><desc>Onvergetelijke haarspeldbochten tegen de rode rotswand. Rijd erin en terug. Dag 6.</desc></wpt>
   <wpt lat="30.9200" lon="-6.8930"><name>Ouarzazate - tank + lunch</name><sym>Gas Station</sym><desc>Hollywood van Marokko. Voltanken dag 6.</desc></wpt>
-  <wpt lat="31.0472" lon="-7.1290"><name>Ait Benhaddou (NACHT 6) - UNESCO</name><sym>Lodging</sym><desc>Beroemde lemen ksar, filmdecor. Kasbah Ellouze e.a. Aankomst gouden uur.</desc></wpt>
+  <wpt lat="31.0472" lon="-7.1290"><name>Ait Benhaddou (NACHT 6) - UNESCO</name><sym>Lodging</sym><desc>Beroemde lemen ksar, filmdecor. La Fibule d'Or / Kasbah Ellouze (eigen parking). Aankomst gouden uur.</desc></wpt>
   <wpt lat="31.2870" lon="-7.2400"><name>Kasbah Telouet (optioneel)</name><sym>Building</sym><desc>Verborgen Glaoui-kasbah, zijweg vanaf Tizi n'Tichka. Dag 7.</desc></wpt>
   <wpt lat="31.2960" lon="-7.3810"><name>Tizi n'Tichka pas - 2260m</name><sym>Summit</sym><desc>Hoogste asfaltpas van de reis. Klassieke Hoge Atlas-bochten. Warm aankleden. Dag 7.</desc></wpt>
-  <wpt lat="31.6258" lon="-7.9891"><name>Marrakech - Jemaa el-Fna (NACHT 7)</name><sym>Lodging</sym><desc>Riad in de medina. Motor op bewaakt parkeerterrein (gardien), niet de steegjes in.</desc></wpt>
+  <wpt lat="31.6258" lon="-7.9891"><name>Marrakech - Jemaa el-Fna (NACHT 7)</name><sym>Lodging</sym><desc>Kenzi Rose Garden (Hivernage): eigen afgesloten garage voor de motoren.</desc></wpt>
   <wpt lat="32.0155" lon="-6.7197"><name>Ouzoud-watervallen</name><sym>Waterfall</sym><desc>Hoogste watervallen van Marokko (110m), apen, lunch. Dag 8.</desc></wpt>
-  <wpt lat="32.3373" lon="-6.3498"><name>Beni Mellal (NACHT 8)</name><sym>Lodging</sym><desc>Praktische etappeplaats aan de voet van de Midden-Atlas.</desc></wpt>
+  <wpt lat="32.3373" lon="-6.3498"><name>Beni Mellal (NACHT 8)</name><sym>Lodging</sym><desc>Hotel Chems (prive bewaakte parking), aan de voet van de Midden-Atlas.</desc></wpt>
   <wpt lat="32.9350" lon="-5.6680"><name>Khenifra - koffie/lunch</name><sym>Restaurant</sym><desc>Onderweg dag 9.</desc></wpt>
   <wpt lat="33.0470" lon="-3.9890"><name>Missour - koffiestop</name><sym>Restaurant</sym><desc>Laatste Marokkaanse koffie. Dag 10.</desc></wpt>
 
-  <!-- ============ TRANSIT (10 okt): Moraira -> Almeria + ferry ============ -->
+  <!-- ============ TRANSIT (11 okt): Moraira -> Almeria + ferry ============ -->
   <rte>
-    <name>Transit (10 okt) Moraira - Almeria + nachtferry</name>
+    <name>Transit (11 okt) Moraira - Almeria + nachtferry</name>
     <desc>Ca. 400 km, 4,5u. Kust/binnenland naar de haven. Avond/nachtferry naar Nador.</desc>
     <rtept lat="38.6873" lon="0.1440"><name>Moraira</name></rtept>
     <rtept lat="38.3452" lon="-0.4810"><name>Alicante (kust)</name></rtept>
@@ -44,9 +44,9 @@
     <rtept lat="36.8300" lon="-2.4640"><name>Haven Almeria</name></rtept>
   </rte>
 
-  <!-- ============ DAG 1 (11 okt): Nador -> Guercif ============ -->
+  <!-- ============ DAG 1 (12 okt): Nador -> Guercif ============ -->
   <rte>
-    <name>Dag 1 (11 okt) Nador - Guercif</name>
+    <name>Dag 1 (12 okt) Nador - Guercif</name>
     <desc>202 km. Grens Beni Ansar, dan Rif-uitlopers zuidwaarts. Rustige eerste dag.</desc>
     <rtept lat="35.2680" lon="-2.9330"><name>Haven Nador (Beni Ansar)</name></rtept>
     <rtept lat="34.9130" lon="-2.9420"><name>Selouane</name></rtept>
@@ -55,33 +55,33 @@
     <rtept lat="34.2270" lon="-3.3530"><name>Guercif</name></rtept>
   </rte>
 
-  <!-- ============ DAG 2 (12 okt): Guercif -> Midelt (N15) ============ -->
+  <!-- ============ DAG 2 (13 okt): Guercif -> Midelt (N15) ============ -->
   <rte>
-    <name>Dag 2 (12 okt) Guercif - Midelt (N15)</name>
+    <name>Dag 2 (13 okt) Guercif - Midelt (N15)</name>
     <desc>238 km. Favoriete rijweg N15: vloeiend, rustig, klimmend berglandschap.</desc>
     <rtept lat="34.2270" lon="-3.3530"><name>Guercif</name></rtept>
     <rtept lat="33.6870" lon="-3.9880"><name>N15 hoogvlakte</name></rtept>
     <rtept lat="33.0470" lon="-3.9890"><name>Missour</name></rtept>
     <rtept lat="32.8300" lon="-4.3000"><name>N15 richting Midelt</name></rtept>
-    <rtept lat="32.6800" lon="-4.7450"><name>Midelt - Kasbah Asmaa</name></rtept>
+    <rtept lat="32.6800" lon="-4.7450"><name>Midelt - Riad Villa Midelt</name></rtept>
   </rte>
 
-  <!-- ============ DAG 3 (13 okt): Midelt -> Ifrane -> Azrou -> Midelt (lus) ============ -->
+  <!-- ============ DAG 3 (14 okt): Midelt -> Ifrane -> Azrou -> Midelt (lus) ============ -->
   <rte>
-    <name>Dag 3 (13 okt) Midelt - Ifrane - Azrou - Midelt (lus)</name>
-    <desc>285 km lus zonder bagage. Cederbos, apen, Ifrane. Terug naar Kasbah Asmaa.</desc>
+    <name>Dag 3 (14 okt) Midelt - Ifrane - Azrou - Midelt (lus)</name>
+    <desc>285 km lus zonder bagage. Cederbos, apen, Ifrane. Terug naar Riad Villa Midelt.</desc>
     <rtept lat="32.6800" lon="-4.7450"><name>Midelt</name></rtept>
     <rtept lat="32.9350" lon="-5.6680"><name>Zeida/Timahdite-richting</name></rtept>
     <rtept lat="33.4342" lon="-5.2214"><name>Azrou</name></rtept>
     <rtept lat="33.4270" lon="-5.1720"><name>Cederbos (berbermakaken)</name></rtept>
     <rtept lat="33.5228" lon="-5.1106"><name>Ifrane</name></rtept>
     <rtept lat="33.4342" lon="-5.2214"><name>Azrou (lunch)</name></rtept>
-    <rtept lat="32.6800" lon="-4.7450"><name>Midelt - Kasbah Asmaa</name></rtept>
+    <rtept lat="32.6800" lon="-4.7450"><name>Midelt - Riad Villa Midelt</name></rtept>
   </rte>
 
-  <!-- ============ DAG 4 (14 okt): Midelt -> Ziz -> Merzouga ============ -->
+  <!-- ============ DAG 4 (15 okt): Midelt -> Ziz -> Merzouga ============ -->
   <rte>
-    <name>Dag 4 (14 okt) Midelt - Ziz-vallei - Merzouga</name>
+    <name>Dag 4 (15 okt) Midelt - Ziz-vallei - Merzouga</name>
     <desc>285 km. N13 door de Ziz-vallei de Sahara in. Aankomst Erg Chebbi voor zonsondergang. Voltanken!</desc>
     <rtept lat="32.6800" lon="-4.7450"><name>Midelt</name></rtept>
     <rtept lat="32.2200" lon="-4.4300"><name>Tunnel du Legionnaire (N13)</name></rtept>
@@ -91,21 +91,21 @@
     <rtept lat="31.0990" lon="-4.0130"><name>Merzouga - Erg Chebbi</name></rtept>
   </rte>
 
-  <!-- ============ DAG 5 (15 okt): Merzouga -> Todra -> Dades ============ -->
+  <!-- ============ DAG 5 (16 okt): Merzouga -> Todra -> Dades ============ -->
   <rte>
-    <name>Dag 5 (15 okt) Merzouga - Todra-kloof - Dades</name>
+    <name>Dag 5 (16 okt) Merzouga - Todra-kloof - Dades</name>
     <desc>275 km. Rissani-soek, Todra-kloof, overnachten in de Dades-kloof.</desc>
     <rtept lat="31.0990" lon="-4.0130"><name>Merzouga</name></rtept>
     <rtept lat="31.2810" lon="-4.2600"><name>Rissani - soek</name></rtept>
     <rtept lat="31.5147" lon="-5.5326"><name>Tinghir</name></rtept>
     <rtept lat="31.5900" lon="-5.6000"><name>Todra-kloof</name></rtept>
     <rtept lat="31.5147" lon="-5.5326"><name>Tinghir (terug)</name></rtept>
-    <rtept lat="31.3690" lon="-5.9910"><name>Boumalne Dades / Chez Pierre</name></rtept>
+    <rtept lat="31.3690" lon="-5.9910"><name>Boumalne Dades - Xaluca</name></rtept>
   </rte>
 
-  <!-- ============ DAG 6 (16 okt): Dades (R704) -> Ouarzazate -> Ait Benhaddou ============ -->
+  <!-- ============ DAG 6 (17 okt): Dades (R704) -> Ouarzazate -> Ait Benhaddou ============ -->
   <rte>
-    <name>Dag 6 (16 okt) Dades-haarspelden - Ouarzazate - Ait Benhaddou</name>
+    <name>Dag 6 (17 okt) Dades-haarspelden - Ouarzazate - Ait Benhaddou</name>
     <desc>215 km. R704-haarspelden in en terug, dan via Ouarzazate naar de UNESCO-ksar.</desc>
     <rtept lat="31.3690" lon="-5.9910"><name>Boumalne Dades</name></rtept>
     <rtept lat="31.5560" lon="-5.9700"><name>Dades-haarspelden (R704)</name></rtept>
@@ -115,9 +115,9 @@
     <rtept lat="31.0472" lon="-7.1290"><name>Ait Benhaddou</name></rtept>
   </rte>
 
-  <!-- ============ DAG 7 (17 okt): Ait Benhaddou -> Tizi n'Tichka -> Marrakech ============ -->
+  <!-- ============ DAG 7 (18 okt): Ait Benhaddou -> Tizi n'Tichka -> Marrakech ============ -->
   <rte>
-    <name>Dag 7 (17 okt) Ait Benhaddou - Tizi n'Tichka - Marrakech</name>
+    <name>Dag 7 (18 okt) Ait Benhaddou - Tizi n'Tichka - Marrakech</name>
     <desc>195 km. Hoogste pas van de reis (2260m). Warm aankleden. Defensief rijden in Marrakech.</desc>
     <rtept lat="31.0472" lon="-7.1290"><name>Ait Benhaddou</name></rtept>
     <rtept lat="31.2870" lon="-7.2400"><name>Kasbah Telouet (optioneel)</name></rtept>
@@ -126,9 +126,9 @@
     <rtept lat="31.6258" lon="-7.9891"><name>Marrakech - medina</name></rtept>
   </rte>
 
-  <!-- ============ DAG 8 (18 okt): Marrakech -> Ouzoud -> Beni Mellal ============ -->
+  <!-- ============ DAG 8 (19 okt): Marrakech -> Ouzoud -> Beni Mellal ============ -->
   <rte>
-    <name>Dag 8 (18 okt) Marrakech - Ouzoud - Beni Mellal</name>
+    <name>Dag 8 (19 okt) Marrakech - Ouzoud - Beni Mellal</name>
     <desc>205 km. Hoogste watervallen van Marokko, dan naar Beni Mellal.</desc>
     <rtept lat="31.6258" lon="-7.9891"><name>Marrakech</name></rtept>
     <rtept lat="31.9010" lon="-7.2200"><name>Demnate-richting</name></rtept>
@@ -137,20 +137,20 @@
     <rtept lat="32.3373" lon="-6.3498"><name>Beni Mellal</name></rtept>
   </rte>
 
-  <!-- ============ DAG 9 (19 okt): Beni Mellal -> Midelt ============ -->
+  <!-- ============ DAG 9 (20 okt): Beni Mellal -> Midelt ============ -->
   <rte>
-    <name>Dag 9 (19 okt) Beni Mellal - Khenifra - Midelt</name>
-    <desc>285 km. Bosrijke Midden-Atlas-wegen terug naar Kasbah Asmaa.</desc>
+    <name>Dag 9 (20 okt) Beni Mellal - Khenifra - Midelt</name>
+    <desc>285 km. Bosrijke Midden-Atlas-wegen terug naar Riad Villa Midelt.</desc>
     <rtept lat="32.3373" lon="-6.3498"><name>Beni Mellal</name></rtept>
     <rtept lat="32.5980" lon="-6.2680"><name>Kasba Tadla</name></rtept>
     <rtept lat="32.9350" lon="-5.6680"><name>Khenifra - lunch</name></rtept>
     <rtept lat="32.7860" lon="-5.1050"><name>Midden-Atlas hoogvlakte</name></rtept>
-    <rtept lat="32.6800" lon="-4.7450"><name>Midelt - Kasbah Asmaa</name></rtept>
+    <rtept lat="32.6800" lon="-4.7450"><name>Midelt - Riad Villa Midelt</name></rtept>
   </rte>
 
-  <!-- ============ DAG 10 (20 okt): Midelt -> Nador + ferry ============ -->
+  <!-- ============ DAG 10 (21 okt): Midelt -> Nador + ferry ============ -->
   <rte>
-    <name>Dag 10 (20 okt) Midelt - Missour - Guercif - Nador + ferry</name>
+    <name>Dag 10 (21 okt) Midelt - Missour - Guercif - Nador + ferry</name>
     <desc>335 km, N15/N2. Vroege start 07:30. Tank vol in Guercif. Min. 3u voor vertrek bij terminal.</desc>
     <rtept lat="32.6800" lon="-4.7450"><name>Midelt</name></rtept>
     <rtept lat="33.0470" lon="-3.9890"><name>Missour - koffie</name></rtept>
@@ -160,9 +160,9 @@
     <rtept lat="35.2680" lon="-2.9330"><name>Haven Nador (Beni Ansar) - FERRY</name></rtept>
   </rte>
 
-  <!-- ============ TRANSIT (21 okt): Almeria -> Moraira ============ -->
+  <!-- ============ TRANSIT (22 okt): Almeria -> Moraira ============ -->
   <rte>
-    <name>Transit (21 okt) Almeria - Moraira</name>
+    <name>Transit (22 okt) Almeria - Moraira</name>
     <desc>Ca. 400 km, 4,5u. Ontspannen laatste etappe langs de kust naar huis.</desc>
     <rtept lat="36.8300" lon="-2.4640"><name>Haven Almeria</name></rtept>
     <rtept lat="37.1773" lon="-1.8210"><name>Aguilas</name></rtept>
