@@ -50,7 +50,6 @@
     <desc>202 km. Border Beni Ansar, then Rif foothills southward. Relaxed first day.</desc>
     <rtept lat="35.2680" lon="-2.9330"><name>Nador port (Beni Ansar)</name></rtept>
     <rtept lat="34.9130" lon="-2.9420"><name>Selouane</name></rtept>
-    <rtept lat="34.6180" lon="-3.0630"><name>Driouch direction</name></rtept>
     <rtept lat="34.4127" lon="-2.8942"><name>Taourirt</name></rtept>
     <rtept lat="34.2270" lon="-3.3530"><name>Guercif</name></rtept>
   </rte>
@@ -60,9 +59,8 @@
     <name>Day 2 (13 Oct) Guercif - Midelt (N15)</name>
     <desc>238 km. Favourite road N15: flowing, quiet, climbing mountain landscape.</desc>
     <rtept lat="34.2270" lon="-3.3530"><name>Guercif</name></rtept>
-    <rtept lat="33.6870" lon="-3.9880"><name>N15 plateau</name></rtept>
+    <rtept lat="33.3417" lon="-3.6903"><name>Outat El Haj (N15)</name></rtept>
     <rtept lat="33.0470" lon="-3.9890"><name>Missour</name></rtept>
-    <rtept lat="32.8300" lon="-4.3000"><name>N15 towards Midelt</name></rtept>
     <rtept lat="32.6800" lon="-4.7450"><name>Midelt - Riad Villa Midelt</name></rtept>
   </rte>
 
@@ -71,9 +69,8 @@
     <name>Day 3 (14 Oct) Midelt - Ifrane - Azrou - Midelt (loop)</name>
     <desc>285 km loop without luggage. Cedar forest, monkeys, Ifrane. Back to Riad Villa Midelt.</desc>
     <rtept lat="32.6800" lon="-4.7450"><name>Midelt</name></rtept>
-    <rtept lat="32.9350" lon="-5.6680"><name>Zeida/Timahdite direction</name></rtept>
+    <rtept lat="33.2350" lon="-5.0600"><name>Timahdite (N13)</name></rtept>
     <rtept lat="33.4342" lon="-5.2214"><name>Azrou</name></rtept>
-    <rtept lat="33.4270" lon="-5.1720"><name>Cedar forest (Barbary macaques)</name></rtept>
     <rtept lat="33.5228" lon="-5.1106"><name>Ifrane</name></rtept>
     <rtept lat="33.4342" lon="-5.2214"><name>Azrou (lunch)</name></rtept>
     <rtept lat="32.6800" lon="-4.7450"><name>Midelt - Riad Villa Midelt</name></rtept>
@@ -131,7 +128,7 @@
     <name>Day 8 (19 Oct) Marrakech - Ouzoud - Beni Mellal</name>
     <desc>205 km. Highest waterfalls in Morocco, then on to Beni Mellal.</desc>
     <rtept lat="31.6258" lon="-7.9891"><name>Marrakech</name></rtept>
-    <rtept lat="31.9010" lon="-7.2200"><name>Demnate direction</name></rtept>
+    <rtept lat="31.7270" lon="-7.0370"><name>Demnate</name></rtept>
     <rtept lat="32.0155" lon="-6.7197"><name>Ouzoud waterfalls</name></rtept>
     <rtept lat="32.2340" lon="-6.4900"><name>Afourer</name></rtept>
     <rtept lat="32.3373" lon="-6.3498"><name>Beni Mellal</name></rtept>
@@ -144,7 +141,6 @@
     <rtept lat="32.3373" lon="-6.3498"><name>Beni Mellal</name></rtept>
     <rtept lat="32.5980" lon="-6.2680"><name>Kasba Tadla</name></rtept>
     <rtept lat="32.9350" lon="-5.6680"><name>Khenifra - lunch</name></rtept>
-    <rtept lat="32.7860" lon="-5.1050"><name>Middle Atlas plateau</name></rtept>
     <rtept lat="32.6800" lon="-4.7450"><name>Midelt - Riad Villa Midelt</name></rtept>
   </rte>
 
