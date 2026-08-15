@@ -1,6 +1,6 @@
 # 🏍️🇲🇦 Morocco Motorcycle Tour 2026 — From Moraira to the Sahara
 
-A fully planned **10-day motorcycle tour of Morocco** (+ Spanish transit), from **Moraira** via the **Almería ↔ Nador** ferry. For **3 bikes — 2× BMW R1200RS + 1× Yamaha Ténéré 700 World Raid**, in **October 2026**. Great riding, characterful riads & kasbahs (all chosen for **secure motorcycle parking**), and the best of Morocco in ± 12 days door-to-door — with a **GPX file for the Garmin Zümo XT**.
+A fully planned **10-day motorcycle tour of Morocco** (+ Spanish transit), from **Moraira** via the **Almería ↔ Nador** ferry. For **3 bikes — 2× BMW R1250GS + 1× Yamaha Ténéré 700 World Raid**, in **October 2026**. Great riding, characterful riads & kasbahs (all chosen for **secure motorcycle parking**), and the best of Morocco in ± 12 days door-to-door — with a **GPX file for the Garmin Zümo XT**.
 
 > Based on a ChatGPT tour proposal (Almería→Nador, ± 2,500 km), adapted to **start/finish in Moraira** and **3 bikes**, in the Cabrio-Tour format.
 
@@ -17,7 +17,7 @@ A fully planned **10-day motorcycle tour of Morocco** (+ Spanish transit), from 
 | **Riding days in Morocco** | 10 (9 nights in Morocco) |
 | **Distance in Morocco** | ± 2,520 km |
 | **Crossing** | Almería ↔ Nador (night ferry) |
-| **Bikes** | 2× BMW R1200RS, 1× Yamaha Ténéré 700 World Raid (23 L) |
+| **Bikes** | 2× BMW R1250GS, 1× Yamaha Ténéré 700 World Raid (23 L) |
 | **Highest point** | 🏔️ Tizi n'Tichka pass — 2,260 m |
 
 ---
@@ -63,8 +63,8 @@ The rider's guide is meant to be **sent straight to the other two riders** — c
 
 ## 🏍️ Our three bikes
 
-- **2× BMW R1200RS + 1× Ténéré 700 World Raid** — road machines (the RS are sports-tourers), so the whole route is **on tarmac**; optional gravel is only for the World Raid.
-- **Fuel range:** the World Raid (23 L) does ± 400 km; the two R1200RS (± 18 L, ± 300 km) set the fuel stops → refuel together at ± 220–250 km. Fill up before days 4, 5 and 10.
+- **2× BMW R1250GS + 1× Ténéré 700 World Raid** — all adventure/dual-sport bikes; the route is mostly **tarmac**, with optional gravel sections open to the whole group (dry weather; easy on a loaded GS).
+- **Fuel range:** the World Raid (23 L, ± 400 km) and the two R1250GS (± 20 L, ± 350 km) all have good range → refuel together at ± 250–280 km. Fill up before days 4, 5 and 10.
 - **Border:** each bike needs its **own** set of documents + temporary vehicle import (see the checklist in the rider's guide).
 
 ---

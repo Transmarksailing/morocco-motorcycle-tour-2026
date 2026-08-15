@@ -2,7 +2,7 @@
 
 **10 riding days through Morocco + Spanish transit — Rif, Middle Atlas, Sahara, Todra & Dades gorges, Aït Benhaddou, Marrakech and the High Atlas**
 
-> Three bikes · 2× BMW R1200RS + 1× Ténéré 700 World Raid · ferry Almería ↔ Nador · ± 2,500 km in Morocco · fully on tarmac · characterful riads & kasbahs.
+> Three bikes · 2× BMW R1250GS + 1× Ténéré 700 World Raid · ferry Almería ↔ Nador · ± 2,500 km in Morocco · mostly tarmac, optional gravel · characterful riads & kasbahs.
 
 | | |
 |---|---|
@@ -10,10 +10,10 @@
 | **Return** | Thursday 22 October 2026 — Moraira |
 | **Riding days in Morocco** | 10 (9 nights in Morocco) |
 | **Total door-to-door** | ± 12 days |
-| **Group** | 3 bikes — 2× BMW R1200RS, 1× Yamaha Ténéré 700 World Raid (23 L) |
+| **Group** | 3 bikes — 2× BMW R1250GS, 1× Yamaha Ténéré 700 World Raid (23 L) |
 | **Crossing** | Almería ↔ Nador (night ferry, ± 6–8 h) |
 | **Highest point** | 🏔️ Tizi n'Tichka pass — **2,260 m** |
-| **Roads** | Scenic tarmac roads; optional easy gravel for the World Raid only |
+| **Roads** | Scenic tarmac by default; optional gravel/pistes open to all three (adventure bikes) |
 
 ---
 
@@ -29,11 +29,11 @@ A grand loop from Moraira: a short run down the coast to Almería, the night fer
 
 ## 🏍️ Our three bikes — group notes
 
-We're riding **two BMW R1200RS** and **one Yamaha Ténéré 700 World Raid** — three bikes, three riders. The route is deliberately planned **on tarmac**: the R1200RS is a road-focused sports-tourer, and the World Raid, with its large tank, is built for long distances. Every stage is ridden entirely on tarmac; the odd gravel section is optional and only for the World Raid.
+We're riding **two BMW R1250GS** and **one Yamaha Ténéré 700 World Raid** — three bikes, three riders, all adventure/dual-sport machines. The route follows scenic **tarmac** by default, but since all three bikes are off-road capable, the optional gravel sections are open to the whole group (dry weather only; a fully loaded GS is heavier in deep gravel). No stage requires it — every day can also be ridden entirely on tarmac.
 
-- **⛽ Fuel range & group stops.** The Ténéré 700 World Raid has the greatest range with its **23 L** tank (± 400 km). The two **R1200RS** (± 18 L) realistically manage ± 300 km and therefore **set the fuel stops**: refuel together at ± 220–250 km, and never skip a station before a desert or mountain stage (days 4, 5 and 10).
+- **⛽ Fuel range & group stops.** The Ténéré 700 World Raid (**23 L**, ± 400 km) and the two **R1250GS** (± 20 L, ± 350 km) all have good range. Refuel together at ± 250–280 km, and never skip a station before a desert or mountain stage (days 4, 5 and 10).
 - **👥 Riding in formation.** Ride in a staggered formation, with the least experienced rider second so the leader sets the pace and the last rider (sweep) keeps everyone together. Agree hand signals and a fixed regroup point (e.g. every junction/fuel stop).
-- **🛣️ Tarmac & luggage.** The two R1200RS are not made for loose gravel or pistes — so the whole group stays on the sealed road. The optional gravel sections (e.g. Cirque de Jaffar) are at most for the World Raid rider, and only in dry weather. Panniers/side cases are perfectly fine for this touring route; no soft sand.
+- **🛣️ Tarmac, gravel & luggage.** All three bikes are off-road capable, so the optional gravel sections (e.g. Cirque de Jaffar) are open to the whole group — dry weather only, and take it easy on a fully loaded GS. Every stage also has a full tarmac line if anyone prefers it. **No deep/soft sand** on laden touring bikes, though — leave the dunes to guides/quads.
 - **📄 Documents × 3.** Each bike/rider needs their **own** set of papers (see border checklist). Green card + temporary Moroccan vehicle import per vehicle.
 - **🔧 One shared set of tools + spares** is fine, but per bike carry: puncture-repair kit/pump, brake pads, chain lube (World Raid), and a set of fuses. Tyre sizes and oil differ per make.
 
@@ -122,7 +122,7 @@ A day *without luggage* — we leave the bags in Midelt and ride a beautiful loo
   📍 [Azrou](https://www.google.com/maps/search/?api=1&query=33.4342,-5.2214)
 - 🏨 **Back to Riad Villa Midelt** (night 2).
 
-> 💡 The loop can be shortened; anyone who prefers a rest can explore Midelt and its surroundings (the Cirque de Jaffar piste is for the World Raid only — gravel, dry weather; the two RS stay on tarmac).
+> 💡 The loop can be shortened; anyone who prefers a rest can explore Midelt and its surroundings (the Cirque de Jaffar piste is a nice optional gravel loop for these adventure bikes — dry weather only).
 
 ---
 
