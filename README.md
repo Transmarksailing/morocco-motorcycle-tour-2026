@@ -43,7 +43,9 @@ A fully planned **10-day motorcycle tour of Morocco** (+ Spanish transit), from 
 
 🗺️ **Interactive route map:** [`map.html`](map.html) — all 10 days colour-coded & numbered, with the overnight hotels marked (built from the GPX; open on the live site).
 
-🖼️ **Printable route map (one page):** [`morocco-route-map.pdf`](morocco-route-map.pdf) · [`morocco-route-map.png`](morocco-route-map.png) — Morocco+Spain overview with the numbered days and a colour legend, ready to print/share.
+🖼️ **Printable route map (one page):** [`morocco-route-map.pdf`](morocco-route-map.pdf) · [`morocco-route-map.png`](morocco-route-map.png) — Morocco map with the route **on the actual roads**, hotels 🏨 + sights ⭐, day legend.
+
+📍 **Kurviger waypoints:** [`Morocco_Waypoints.gpx`](Morocco_Waypoints.gpx) — import in Kurviger to see all hotels + sights; Kurviger then routes over the roads between them (waypoints only, Morocco).
 
 🏨 **Hotel & ferry booking sheet:** [`guide/HOTELS-Booking-Sheet.md`](guide/HOTELS-Booking-Sheet.md) · [web](guide/HOTELS-Booking-Sheet.html) · [PDF](guide/HOTELS-Booking-Sheet.pdf) — per night: address, phone/WhatsApp/email, price, booking link, secure-parking note + a ready-to-send enquiry (EN/FR).
 

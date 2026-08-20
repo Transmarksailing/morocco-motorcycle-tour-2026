@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Morocco Motorcycle Tour 2026 - key waypoints" xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Morocco Motorcycle Tour 2026 - key waypoints (hotels + sights)</name>
+    <desc>Import in Kurviger to see all the hotels and sights; Kurviger routes over the roads between them. Waypoints only (no route).</desc>
+  </metadata>
+
+  <!-- ===== HOTELS (overnight) ===== -->
+  <wpt lat="35.2680" lon="-2.9330"><name>Arrival - Nador (Beni Ansar ferry port)</name><sym>Anchor</sym><desc>Day 1 start. Border formalities + temporary vehicle import.</desc></wpt>
+  <wpt lat="34.2270" lon="-3.3530"><name>N1 Guercif - Hotel Atlas Guercif (TO BOOK)</name><sym>Lodging</sym><desc>Night 1 (12 Oct). Underground parking. Still to book.</desc></wpt>
+  <wpt lat="32.6800" lon="-4.7450"><name>N2/3/9 Midelt - Moonrise Villa VIP</name><sym>Lodging</sym><desc>Nights 2,3 BOOKED (13-15 Oct, conf 6269251220). Night 9 (20 Oct) still to book. 11 rue Azilal, Place Verte.</desc></wpt>
+  <wpt lat="31.0995" lon="-4.0110"><name>N4 Merzouga - Kasbah Mohayut (TO BOOK)</name><sym>Lodging</sym><desc>Night 4 (15 Oct). Parking inside the kasbah, at the dunes. Still to book.</desc></wpt>
+  <wpt lat="31.5450" lon="-5.9650"><name>N5 Dades - Riad Des Vieilles Charrues (BOOKED)</name><sym>Lodging</sym><desc>Night 5 (16 Oct, conf 6004793961). 24 km up the Dades gorge on the R704. Confirm bike parking.</desc></wpt>
+  <wpt lat="31.0700" lon="-7.1250"><name>N6 Ait Benhaddou - Riad Tamdakhte (BOOKED)</name><sym>Lodging</sym><desc>Night 6 (17 Oct, conf 6059879431). Tamdakht, 5 km from the ksar. Parking + pool.</desc></wpt>
+  <wpt lat="31.6300" lon="-7.9860"><name>N7 Marrakech - Riad Le Perroquet Bleu (BOOKED)</name><sym>Lodging</sym><desc>Night 7 (18 Oct, conf 2377594661612570824). In the MEDINA - no garage; arrange guarded parking (parking gardienne).</desc></wpt>
+  <wpt lat="32.3390" lon="-6.3610"><name>N8 Beni Mellal - Hotel Velsatis (BOOKED)</name><sym>Lodging</sym><desc>Night 8 (19 Oct, conf 5495755618). 55 Bd Mohammed V, central. Private/underground parking.</desc></wpt>
+
+  <!-- ===== SIGHTS / POINTS OF INTEREST ===== -->
+  <wpt lat="33.5228" lon="-5.1106"><name>Ifrane (Switzerland of Morocco)</name><sym>Scenic Area</sym><desc>Alpine chalets, lakes. Day 3 coffee stop.</desc></wpt>
+  <wpt lat="33.4270" lon="-5.1720"><name>Cedar forest Azrou (Barbary macaques)</name><sym>Forest</sym><desc>Wild monkeys by the road. Day 3.</desc></wpt>
+  <wpt lat="31.6870" lon="-4.2570"><name>Ziz Valley viewpoint (Aoufous, N13)</name><sym>Scenic Area</sym><desc>Green palm ribbon between red cliffs. Day 4.</desc></wpt>
+  <wpt lat="31.1000" lon="-3.9700"><name>Erg Chebbi dunes (Merzouga)</name><sym>Summit</sym><desc>Sahara dunes up to 150m. Sunset. Day 4/5.</desc></wpt>
+  <wpt lat="31.2810" lon="-4.2600"><name>Rissani souk (old caravan town)</name><sym>Shopping Center</sym><desc>Market Sun/Tue/Thu. Day 5.</desc></wpt>
+  <wpt lat="31.5900" lon="-5.6000"><name>Todra Gorge</name><sym>Scenic Area</sym><desc>Sheer walls up to 300m. Day 5.</desc></wpt>
+  <wpt lat="31.5560" lon="-5.9700"><name>Dades hairpins (R704)</name><sym>Summit</sym><desc>Unforgettable switchbacks up the red rock. Day 6.</desc></wpt>
+  <wpt lat="30.9200" lon="-6.8930"><name>Ouarzazate (Atlas Studios)</name><sym>Museum</sym><desc>Hollywood of Morocco. Fuel + lunch. Day 6.</desc></wpt>
+  <wpt lat="31.0472" lon="-7.1290"><name>Ait Benhaddou ksar (UNESCO)</name><sym>Museum</sym><desc>Famous mud-brick ksar, film set. Day 6.</desc></wpt>
+  <wpt lat="31.2870" lon="-7.2400"><name>Kasbah Telouet (optional)</name><sym>Building</sym><desc>Hidden Glaoui kasbah, side road off the N9. Day 7.</desc></wpt>
+  <wpt lat="31.2960" lon="-7.3810"><name>Tizi n'Tichka pass (2260 m)</name><sym>Summit</sym><desc>Highest tarmac pass of the trip. High Atlas. Day 7.</desc></wpt>
+  <wpt lat="31.6258" lon="-7.9891"><name>Marrakech - Jemaa el-Fna</name><sym>Museum</sym><desc>Famous square, medina. Day 7.</desc></wpt>
+  <wpt lat="32.0155" lon="-6.7197"><name>Ouzoud waterfalls</name><sym>Waterfall</sym><desc>Highest falls in Morocco (110m), monkeys. Day 8.</desc></wpt>
+</gpx>
