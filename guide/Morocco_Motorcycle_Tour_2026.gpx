@@ -12,7 +12,7 @@
   <wpt lat="36.8300" lon="-2.4640"><name>Almeria port (FERRY)</name><sym>Anchor</sym><desc>Night ferry to Nador (Balearia/Trasmediterranea). Arrive in good time.</desc></wpt>
   <wpt lat="35.2680" lon="-2.9330"><name>Nador - Beni Ansar port (FERRY)</name><sym>Anchor</sym><desc>Arrival Morocco. Allow 1-2h border formalities + temporary vehicle import.</desc></wpt>
   <wpt lat="34.2270" lon="-3.3530"><name>Guercif (NIGHT 1) + lunch/fuel day 10</name><sym>Lodging</sym><desc>Hotel Atlas Guercif (underground parking). Fill up here on the way back.</desc></wpt>
-  <wpt lat="32.6800" lon="-4.7450"><name>Midelt - Riad Villa Midelt (NIGHTS 2,3,9)</name><sym>Lodging</sym><desc>Riad with private internal motorcycle parking (secure). Base for 3 nights.</desc></wpt>
+  <wpt lat="32.6800" lon="-4.7450"><name>Midelt - Moonrise Villa VIP (NIGHTS 2,3; N9 to book)</name><sym>Lodging</sym><desc>Moonrise Villa VIP Midelt (BOOKED nights 2,3, free private parking). Night 9 still to book.</desc></wpt>
   <wpt lat="33.5228" lon="-5.1106"><name>Ifrane</name><sym>Scenic Area</sym><desc>Switzerland of Morocco. Coffee stop day 3.</desc></wpt>
   <wpt lat="33.4270" lon="-5.1720"><name>Cedar forest Azrou (Barbary macaques)</name><sym>Forest</sym><desc>Cedar and pine forest, chance of wild monkeys. Day 3.</desc></wpt>
   <wpt lat="33.4342" lon="-5.2214"><name>Azrou - lunch</name><sym>Restaurant</sym><desc>Market town, lunch stop day 3.</desc></wpt>
@@ -21,15 +21,15 @@
   <wpt lat="31.0990" lon="-4.0130"><name>Merzouga - Erg Chebbi (NIGHT 4)</name><sym>Summit</sym><desc>Sand dunes up to 150m. Kasbah Mohayut: parking inside the kasbah. Sunset on the dunes. Do NOT ride laden bikes into soft sand.</desc></wpt>
   <wpt lat="31.2810" lon="-4.2600"><name>Rissani - souk</name><sym>Shopping Center</sym><desc>Old caravan town, market Sun/Tue/Thu. Day 5.</desc></wpt>
   <wpt lat="31.5900" lon="-5.6000"><name>Todra Gorge</name><sym>Scenic Area</sym><desc>Gorge walls up to 300m sheer. Ride through + photo stop. Day 5.</desc></wpt>
-  <wpt lat="31.3690" lon="-5.9910"><name>Boumalne Dades - Xaluca (NIGHT 5)</name><sym>Lodging</sym><desc>Dades Gorge. Hotel Xaluca Dades: enclosed guarded parking. Dinner optionally at Chez Pierre.</desc></wpt>
+  <wpt lat="31.3690" lon="-5.9910"><name>Boumalne Dades - Riad Des Vieilles Charrues (NIGHT 5)</name><sym>Lodging</sym><desc>Dades Gorge. Riad Des Vieilles Charrues (BOOKED), 24 km up the R704 hairpins road. Confirm bike parking.</desc></wpt>
   <wpt lat="31.5560" lon="-5.9700"><name>Dades hairpins (R704)</name><sym>Summit</sym><desc>Unforgettable hairpin bends against the red rock wall. Ride in and back. Day 6.</desc></wpt>
   <wpt lat="30.9200" lon="-6.8930"><name>Ouarzazate - fuel + lunch</name><sym>Gas Station</sym><desc>Hollywood of Morocco. Fill up day 6.</desc></wpt>
-  <wpt lat="31.0472" lon="-7.1290"><name>Ait Benhaddou (NIGHT 6) - UNESCO</name><sym>Lodging</sym><desc>Famous mud-brick ksar, film set. La Fibule d'Or / Kasbah Ellouze (own parking). Arrive golden hour.</desc></wpt>
+  <wpt lat="31.0472" lon="-7.1290"><name>Ait Benhaddou (NIGHT 6) - UNESCO</name><sym>Lodging</sym><desc>Famous mud-brick ksar, film set. Riad Tamdakhte (BOOKED, Tamdakht 5 km, parking). Arrive golden hour.</desc></wpt>
   <wpt lat="31.2870" lon="-7.2400"><name>Kasbah Telouet (optional)</name><sym>Building</sym><desc>Hidden Glaoui kasbah, side road off Tizi n'Tichka. Day 7.</desc></wpt>
   <wpt lat="31.2960" lon="-7.3810"><name>Tizi n'Tichka pass - 2260m</name><sym>Summit</sym><desc>Highest tarmac pass of the trip. Classic High Atlas bends. Dress warmly. Day 7.</desc></wpt>
-  <wpt lat="31.6258" lon="-7.9891"><name>Marrakech - Jemaa el-Fna (NIGHT 7)</name><sym>Lodging</sym><desc>Kenzi Rose Garden (Hivernage): own enclosed garage for the bikes.</desc></wpt>
+  <wpt lat="31.6258" lon="-7.9891"><name>Marrakech - Jemaa el-Fna (NIGHT 7)</name><sym>Lodging</sym><desc>Riad Le Perroquet Bleu (BOOKED, medina): arrange guarded parking (parking gardienne), not the alleys.</desc></wpt>
   <wpt lat="32.0155" lon="-6.7197"><name>Ouzoud waterfalls</name><sym>Waterfall</sym><desc>Highest waterfalls in Morocco (110m), monkeys, lunch. Day 8.</desc></wpt>
-  <wpt lat="32.3373" lon="-6.3498"><name>Beni Mellal (NIGHT 8)</name><sym>Lodging</sym><desc>Hotel Chems (private guarded parking), at the foot of the Middle Atlas.</desc></wpt>
+  <wpt lat="32.3373" lon="-6.3498"><name>Beni Mellal (NIGHT 8)</name><sym>Lodging</sym><desc>Hotel Velsatis (BOOKED), central Beni Mellal.</desc></wpt>
   <wpt lat="32.9350" lon="-5.6680"><name>Khenifra - coffee/lunch</name><sym>Restaurant</sym><desc>En route day 9.</desc></wpt>
   <wpt lat="33.0470" lon="-3.9890"><name>Missour - coffee stop</name><sym>Restaurant</sym><desc>Last Moroccan coffee. Day 10.</desc></wpt>
 
@@ -60,19 +60,19 @@
     <rtept lat="34.2270" lon="-3.3530"><name>Guercif</name></rtept>
     <rtept lat="33.3417" lon="-3.6903"><name>Outat El Haj (N15)</name></rtept>
     <rtept lat="33.0470" lon="-3.9890"><name>Missour</name></rtept>
-    <rtept lat="32.6800" lon="-4.7450"><name>Midelt - Riad Villa Midelt</name></rtept>
+    <rtept lat="32.6800" lon="-4.7450"><name>Midelt - Moonrise Villa VIP</name></rtept>
   </rte>
 
   <!-- ============ DAY 3 (14 Oct): Midelt -> Ifrane -> Azrou -> Midelt (loop) ============ -->
   <rte>
     <name>Day 3 (14 Oct) Midelt - Ifrane - Azrou - Midelt (loop)</name>
-    <desc>285 km loop without luggage. Cedar forest, monkeys, Ifrane. Back to Riad Villa Midelt.</desc>
+    <desc>285 km loop without luggage. Cedar forest, monkeys, Ifrane. Back to Moonrise Villa VIP Midelt.</desc>
     <rtept lat="32.6800" lon="-4.7450"><name>Midelt</name></rtept>
     <rtept lat="33.2350" lon="-5.0600"><name>Timahdite (N13)</name></rtept>
     <rtept lat="33.4342" lon="-5.2214"><name>Azrou</name></rtept>
     <rtept lat="33.5228" lon="-5.1106"><name>Ifrane</name></rtept>
     <rtept lat="33.4342" lon="-5.2214"><name>Azrou (lunch)</name></rtept>
-    <rtept lat="32.6800" lon="-4.7450"><name>Midelt - Riad Villa Midelt</name></rtept>
+    <rtept lat="32.6800" lon="-4.7450"><name>Midelt - Moonrise Villa VIP</name></rtept>
   </rte>
 
   <!-- ============ DAY 4 (15 Oct): Midelt -> Ziz -> Merzouga ============ -->
@@ -96,7 +96,7 @@
     <rtept lat="31.5147" lon="-5.5326"><name>Tinghir</name></rtept>
     <rtept lat="31.5900" lon="-5.6000"><name>Todra Gorge</name></rtept>
     <rtept lat="31.5147" lon="-5.5326"><name>Tinghir (back)</name></rtept>
-    <rtept lat="31.3690" lon="-5.9910"><name>Boumalne Dades - Xaluca</name></rtept>
+    <rtept lat="31.3690" lon="-5.9910"><name>Boumalne Dades</name></rtept>
   </rte>
 
   <!-- ============ DAY 6 (17 Oct): Dades (R704) -> Ouarzazate -> Ait Benhaddou ============ -->
@@ -136,11 +136,11 @@
   <!-- ============ DAY 9 (20 Oct): Beni Mellal -> Midelt ============ -->
   <rte>
     <name>Day 9 (20 Oct) Beni Mellal - Khenifra - Midelt</name>
-    <desc>285 km. Wooded Middle Atlas roads back to Riad Villa Midelt.</desc>
+    <desc>285 km. Wooded Middle Atlas roads back to Moonrise Villa VIP Midelt.</desc>
     <rtept lat="32.3373" lon="-6.3498"><name>Beni Mellal</name></rtept>
     <rtept lat="32.5980" lon="-6.2680"><name>Kasba Tadla</name></rtept>
     <rtept lat="32.9350" lon="-5.6680"><name>Khenifra - lunch</name></rtept>
-    <rtept lat="32.6800" lon="-4.7450"><name>Midelt - Riad Villa Midelt</name></rtept>
+    <rtept lat="32.6800" lon="-4.7450"><name>Midelt - Moonrise Villa VIP</name></rtept>
   </rte>
 
   <!-- ============ DAY 10 (21 Oct): Midelt -> Nador + ferry ============ -->

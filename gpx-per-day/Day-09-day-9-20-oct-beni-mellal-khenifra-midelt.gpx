@@ -5,10 +5,10 @@
   <metadata><name>Day 9 (20 Oct) Beni Mellal - Khenifra - Midelt</name></metadata>
   <rte>
     <name>Day 9 (20 Oct) Beni Mellal - Khenifra - Midelt</name>
-    <desc>285 km. Wooded Middle Atlas roads back to Riad Villa Midelt.</desc>
+    <desc>285 km. Wooded Middle Atlas roads back to Moonrise Villa VIP Midelt.</desc>
     <rtept lat="32.3373" lon="-6.3498"><name>Beni Mellal</name></rtept>
     <rtept lat="32.5980" lon="-6.2680"><name>Kasba Tadla</name></rtept>
     <rtept lat="32.9350" lon="-5.6680"><name>Khenifra - lunch</name></rtept>
-    <rtept lat="32.6800" lon="-4.7450"><name>Midelt - Riad Villa Midelt</name></rtept>
+    <rtept lat="32.6800" lon="-4.7450"><name>Midelt - Moonrise Villa VIP</name></rtept>
   </rte>
 </gpx>

@@ -5,12 +5,12 @@
   <metadata><name>Day 3 (14 Oct) Midelt - Ifrane - Azrou - Midelt (loop)</name></metadata>
   <rte>
     <name>Day 3 (14 Oct) Midelt - Ifrane - Azrou - Midelt (loop)</name>
-    <desc>285 km loop without luggage. Cedar forest, monkeys, Ifrane. Back to Riad Villa Midelt.</desc>
+    <desc>285 km loop without luggage. Cedar forest, monkeys, Ifrane. Back to Moonrise Villa VIP Midelt.</desc>
     <rtept lat="32.6800" lon="-4.7450"><name>Midelt</name></rtept>
     <rtept lat="33.2350" lon="-5.0600"><name>Timahdite (N13)</name></rtept>
     <rtept lat="33.4342" lon="-5.2214"><name>Azrou</name></rtept>
     <rtept lat="33.5228" lon="-5.1106"><name>Ifrane</name></rtept>
     <rtept lat="33.4342" lon="-5.2214"><name>Azrou (lunch)</name></rtept>
-    <rtept lat="32.6800" lon="-4.7450"><name>Midelt - Riad Villa Midelt</name></rtept>
+    <rtept lat="32.6800" lon="-4.7450"><name>Midelt - Moonrise Villa VIP</name></rtept>
   </rte>
 </gpx>

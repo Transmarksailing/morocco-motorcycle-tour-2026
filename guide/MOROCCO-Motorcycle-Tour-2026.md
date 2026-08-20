@@ -75,6 +75,8 @@ The ferry takes ± 6–8 hours across the Mediterranean. Ideally take a **night 
 
 ## 📅 Day-by-day itinerary
 
+> 🏨 **Hotels are BOOKED** — see the [booking sheet](HOTELS-Booking-Sheet.md) for confirmation numbers + PINs. Booked: **Midelt** = Moonrise Villa VIP (nights 2, 3) · **Dades** = Riad Des Vieilles Charrues (24 km up the gorge) · **Aït Benhaddou** = Riad Tamdakhte · **Marrakech** = Riad Le Perroquet Bleu (medina — arrange guarded parking) · **Beni Mellal** = Hotel Velsatis. Still to book: Guercif (N1), Merzouga (N4), **Midelt night 9 (20 Oct)**, and the ferry.
+
 ### 🚗 Transit — Sunday 11 October: Moraira → Almería + night ferry
 **Route:** Moraira → Almería (coast/inland) · **Riding time:** ± 4.5 h · **Distance:** ± 400 km
 
