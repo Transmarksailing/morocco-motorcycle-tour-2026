@@ -47,6 +47,12 @@ A fully planned **10-day motorcycle tour of Morocco** (+ Spanish transit), from 
 
 📍 **Kurviger waypoints:** [`Morocco_Waypoints.gpx`](Morocco_Waypoints.gpx) — import in Kurviger to see all hotels + sights; Kurviger then routes over the roads between them (waypoints only, Morocco).
 
+🧭 **Complete tour as one GPX (Morocco):** [`Morocco_Tour_2026_FULL.gpx`](Morocco_Tour_2026_FULL.gpx) —
+all 10 days as **tracks that follow the actual roads** (5,726 points) + 19 hotel/sight waypoints.
+Also as [`Morocco_Tour_2026_FULL.gpx.zip`](Morocco_Tour_2026_FULL.gpx.zip) — **use the zip on an iPhone**,
+because Safari/GitHub otherwise saves the file as `.txt` and Kurviger will not import it.
+Downloaded a `.txt` anyway? Rename it to `.gpx` in the Files app (Files → long-press → Rename).
+
 🏨 **Hotel & ferry booking sheet:** [`guide/HOTELS-Booking-Sheet.md`](guide/HOTELS-Booking-Sheet.md) · [web](guide/HOTELS-Booking-Sheet.html) · [PDF](guide/HOTELS-Booking-Sheet.pdf) — per night: address, phone/WhatsApp/email, price, booking link, secure-parking note + a ready-to-send enquiry (EN/FR).
 
 ---
