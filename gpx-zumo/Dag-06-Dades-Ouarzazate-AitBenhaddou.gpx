@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Marokko Motorreis 2026"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>Dag 6 (17 okt) Dades-haarspelden - Ouarzazate - Ait Benhaddou</name><desc>205 km, ca. 4u05 rijden. R704-haarspelden heen en terug, dan via Ouarzazate naar de UNESCO-ksar.</desc></metadata>
+  <rte>
+    <name>Dag 6 (17 okt) Dades-haarspelden - Ouarzazate - Ait Benhaddou</name>
+    <desc>205 km, ca. 4u05 rijden. R704-haarspelden heen en terug, dan via Ouarzazate naar de UNESCO-ksar.</desc>
+    <rtept lat="31.372713" lon="-5.986583"><name>Boumalne Dades</name><sym>Waypoint</sym></rtept>
+    <rtept lat="31.521815" lon="-5.928896"><name>Dades-haarspelden (R704)</name><sym>Waypoint</sym></rtept>
+    <rtept lat="31.372713" lon="-5.986583"><name>Boumalne (terug)</name><sym>Waypoint</sym></rtept>
+    <rtept lat="31.060392" lon="-6.557583"><name>Skoura (palmoase)</name><sym>Waypoint</sym></rtept>
+    <rtept lat="30.920053" lon="-6.893019"><name>Ouarzazate - tank + lunch</name><sym>Waypoint</sym></rtept>
+    <rtept lat="31.044800" lon="-7.130802"><name>Ait Benhaddou</name><sym>Waypoint</sym></rtept>
+  </rte>
+</gpx>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Marokko Motorreis 2026"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>Dag 2 (13 okt) Guercif - Midelt (N15)</name><desc>262 km, ca. 4u14 rijden. Favoriete weg N15: vloeiend, rustig, klimmend berglandschap.</desc></metadata>
+  <rte>
+    <name>Dag 2 (13 okt) Guercif - Midelt (N15)</name>
+    <desc>262 km, ca. 4u14 rijden. Favoriete weg N15: vloeiend, rustig, klimmend berglandschap.</desc>
+    <rtept lat="34.227190" lon="-3.353116"><name>Guercif</name><sym>Waypoint</sym></rtept>
+    <rtept lat="33.340957" lon="-3.688991"><name>Outat El Haj (N15)</name><sym>Waypoint</sym></rtept>
+    <rtept lat="33.047297" lon="-3.989184"><name>Missour</name><sym>Waypoint</sym></rtept>
+    <rtept lat="32.680360" lon="-4.744051"><name>Midelt - Moonrise Villa VIP</name><sym>Waypoint</sym></rtept>
+  </rte>
+</gpx>

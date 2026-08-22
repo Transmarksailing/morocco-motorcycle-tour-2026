@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Marokko Motorreis 2026"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>Dag 5 (16 okt) Merzouga - Todra-kloof - Dades</name><desc>285 km, ca. 5u29 rijden. Soek van Rissani, Todra-kloof, overnachten in de Dades-kloof.</desc></metadata>
+  <rte>
+    <name>Dag 5 (16 okt) Merzouga - Todra-kloof - Dades</name>
+    <desc>285 km, ca. 5u29 rijden. Soek van Rissani, Todra-kloof, overnachten in de Dades-kloof.</desc>
+    <rtept lat="31.099075" lon="-4.013307"><name>Merzouga</name><sym>Waypoint</sym></rtept>
+    <rtept lat="31.280895" lon="-4.260142"><name>Rissani - soek</name><sym>Waypoint</sym></rtept>
+    <rtept lat="31.514466" lon="-5.532696"><name>Tinghir</name><sym>Waypoint</sym></rtept>
+    <rtept lat="31.587182" lon="-5.591811"><name>Todra-kloof</name><sym>Waypoint</sym></rtept>
+    <rtept lat="31.514466" lon="-5.532696"><name>Tinghir (terug)</name><sym>Waypoint</sym></rtept>
+    <rtept lat="31.372713" lon="-5.986583"><name>Boumalne Dades</name><sym>Waypoint</sym></rtept>
+  </rte>
+</gpx>

@@ -55,6 +55,8 @@ Downloaded a `.txt` anyway? Rename it to `.gpx` in the Files app (Files → long
 
 🏨 **Hotel & ferry booking sheet:** [`guide/HOTELS-Booking-Sheet.md`](guide/HOTELS-Booking-Sheet.md) · [web](guide/HOTELS-Booking-Sheet.html) · [PDF](guide/HOTELS-Booking-Sheet.pdf) — per night: address, phone/WhatsApp/email, price, booking link, secure-parking note + a ready-to-send enquiry (EN/FR).
 
+🚑 **Emergency & services:** [`guide/EMERGENCY-and-SERVICES.md`](guide/EMERGENCY-and-SERVICES.md) · [web](guide/EMERGENCY-and-SERVICES.html) · [PDF](guide/EMERGENCY-and-SERVICES.pdf) — hospitals, motorcycle/tyre garages and breakdown/recovery per town + national emergency numbers and tyre advice.
+
 ---
 
 ## 📂 Contents of this folder

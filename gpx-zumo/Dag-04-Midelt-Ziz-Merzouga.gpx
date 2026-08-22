@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Marokko Motorreis 2026"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>Dag 4 (15 okt) Midelt - Ziz-vallei - Merzouga</name><desc>268 km, ca. 4u44 rijden. N13 door de Ziz-vallei de Sahara in. Voor zonsondergang bij Erg Chebbi. Tanken!</desc></metadata>
+  <rte>
+    <name>Dag 4 (15 okt) Midelt - Ziz-vallei - Merzouga</name>
+    <desc>268 km, ca. 4u44 rijden. N13 door de Ziz-vallei de Sahara in. Voor zonsondergang bij Erg Chebbi. Tanken!</desc>
+    <rtept lat="32.680360" lon="-4.744051"><name>Midelt</name><sym>Waypoint</sym></rtept>
+    <rtept lat="32.257888" lon="-4.506003"><name>Rich - Tunnel du Legionnaire (N13)</name><sym>Waypoint</sym></rtept>
+    <rtept lat="31.931489" lon="-4.424293"><name>Errachidia</name><sym>Waypoint</sym></rtept>
+    <rtept lat="31.688389" lon="-4.179387"><name>Aoufous - Ziz-vallei (N13)</name><sym>Waypoint</sym></rtept>
+    <rtept lat="31.437037" lon="-4.238055"><name>Erfoud</name><sym>Waypoint</sym></rtept>
+    <rtept lat="31.099075" lon="-4.013307"><name>Merzouga - Erg Chebbi</name><sym>Waypoint</sym></rtept>
+  </rte>
+</gpx>
