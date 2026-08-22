@@ -31,4 +31,85 @@
   <wpt lat="31.2960" lon="-7.3810"><name>Tizi n'Tichka pass (2260 m)</name><sym>Summit</sym><desc>Highest tarmac pass of the trip. High Atlas. Day 7.</desc></wpt>
   <wpt lat="31.6258" lon="-7.9891"><name>Marrakech - Jemaa el-Fna</name><sym>Museum</sym><desc>Famous square, medina. Day 7.</desc></wpt>
   <wpt lat="32.0155" lon="-6.7197"><name>Ouzoud waterfalls</name><sym>Waterfall</sym><desc>Highest falls in Morocco (110m), monkeys. Day 8.</desc></wpt>
+
+  <!-- FUEL -->
+  <wpt lat="30.9203" lon="-6.9129"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.0567" lon="-6.5601"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.5153" lon="-5.5377"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="32.6808" lon="-4.7196"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="35.1461" lon="-2.9273"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.6212" lon="-7.992"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.5156" lon="-5.5017"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="33.4475" lon="-5.231"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="33.4376" lon="-5.2096"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="32.6838" lon="-4.7434"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="32.2748" lon="-4.4869"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.9222" lon="-4.4485"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.9196" lon="-4.4435"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.925" lon="-4.3846"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.9364" lon="-4.4047"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.9235" lon="-4.4334"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.9207" lon="-4.4381"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.4372" lon="-4.2324"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.4417" lon="-4.2302"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.2817" lon="-4.2713"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.4216" lon="-4.2411"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.4292" lon="-4.2441"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="30.9219" lon="-6.9163"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="34.2279" lon="-3.3467"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="32.9226" lon="-5.6701"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="33.0456" lon="-3.9931"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="33.5157" lon="-5.1181"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="32.9156" lon="-5.6717"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="33.3363" lon="-3.6944"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="34.4192" lon="-2.9063"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.6349" lon="-7.9906"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.5206" lon="-5.5332"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="32.6845" lon="-4.7435"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="34.4129" lon="-2.8931"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="32.3235" lon="-6.3807"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="34.2425" lon="-3.3395"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="34.2279" lon="-3.3475"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="32.2602" lon="-4.5001"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.6222" lon="-7.9902"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.3663" lon="-5.9681"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="34.2262" lon="-3.3508"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="32.9573" lon="-5.6647"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="32.956" lon="-5.6868"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="32.9486" lon="-5.683"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="34.4167" lon="-2.885"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="33.0424" lon="-4.0058"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="34.2371" lon="-3.3292"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="33.0437" lon="-4.0006"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.6342" lon="-8.014"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.6215" lon="-7.9917"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="34.2235" lon="-3.3598"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="32.7001" lon="-4.7574"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.7345" lon="-7.0057"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="33.4571" lon="-5.2388"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.9301" lon="-4.4524"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="32.9444" lon="-5.6611"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="34.3958" lon="-2.9011"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="34.3917" lon="-2.9029"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.9575" lon="-4.4224"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="33.4256" lon="-5.2388"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.7334" lon="-7.022"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="30.9259" lon="-6.8937"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="32.2836" lon="-4.5059"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="32.2789" lon="-4.495"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="33.4419" lon="-5.2267"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.2885" lon="-4.2909"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="30.9" lon="-6.9111"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.629" lon="-8.0034"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="32.3346" lon="-6.3577"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.74" lon="-7.0079"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.1152" lon="-4.0321"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="32.277" lon="-4.4905"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="30.9269" lon="-6.896"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.2972" lon="-4.29"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.3678" lon="-5.9813"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.3587" lon="-6.0011"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="30.9227" lon="-6.9277"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <wpt lat="31.5259" lon="-5.5135"><name>Fuel</name><sym>Gas Station</sym><desc>Petrol station (OpenStreetMap).</desc></wpt>
+  <!-- /FUEL -->
 </gpx>
