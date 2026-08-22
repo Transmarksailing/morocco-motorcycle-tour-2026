@@ -23,7 +23,7 @@ const all=[];
 DAYS.forEach(d=>{
   const line=L.polyline(d.pts,{color:d.color,weight:4,opacity:.9}).addTo(map).bindPopup("<b>"+d.label+"</b>");
   d.pts.forEach(p=>all.push(p));
-  L.polylineDecorator(line,{patterns:[{offset:25,repeat:90,symbol:L.Symbol.arrowHead({pixelSize:9,polygon:false,pathOptions:{stroke:true,color:d.color,weight:3,opacity:.9}})}]}).addTo(map);
+  L.polylineDecorator(line,{patterns:[{offset:25,repeat:85,symbol:L.Symbol.arrowHead({pixelSize:12,polygon:false,pathOptions:{stroke:true,color:'#000',weight:3,opacity:1}})}]}).addTo(map);
 });
 SIGHTS.forEach(s=>{
   L.marker([s[0],s[1]],{icon:L.divIcon({className:'',html:'<div class="pin">⭐</div>',iconSize:[17,17],iconAnchor:[8,8]})}).addTo(map)
