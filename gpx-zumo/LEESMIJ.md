@@ -31,15 +31,38 @@ Elke dag is getest: OSRM berekent alle 12 routes zonder fout.
 
 ## Belangrijk: Marokko-kaart op de Zumo
 
-De Zumo XT wordt geleverd met een **Europa**-kaart; Marokko zit daar niet in.
-Zonder Marokko-kaart kan het toestel geen route berekenen in Marokko, hoe correct
-het GPX-bestand ook is. Installeer een gratis OpenStreetMap-kaart:
+De Zumo XT wordt geleverd met een **Europa**-kaart (City Navigator); Marokko zit
+daar niet in. Zonder Marokko-kaart kan het toestel daar geen route berekenen, hoe
+correct het GPX-bestand ook is.
 
-1. Download een Marokko-kaart voor Garmin (bv. `garmin.openstreetmap.nl` of
-   Freizeitkarte) — je krijgt een `gmapsupp.img`.
-2. Zet die op een microSD in de Zumo, in de map `Garmin/` (hernoem naar
-   `gmapsupp2.img` als er al een bestand staat).
-3. Zet de kaart aan via Instellingen → Kaart → Kaarten.
+### Kaart downloaden
+
+`https://www.userbeam.de/osm/maps/africa/morocco/` — `morocco_gmapsupp.img`,
+ca. 146 MB, wekelijks bijgewerkt, **routeerbaar** met adres-zoekindex.
+Let op: `garmin.openstreetmap.nl` bestaat niet meer (verwijst door naar
+`garmin.bbbike.org`).
+
+### Op het toestel zetten
+
+Bij voorkeur op een **microSD** (4–256 GB, XT-handleiding):
+
+1. Maak op de kaart een map **`Map`** aan — de Zumo XT is een van de weinige
+   toestellen die `Map` gebruikt in plaats van `Garmin`. Werkt het niet, probeer
+   dan `Garmin`.
+2. Hernoem het bestand naar iets unieks, bv. `gmapsupp-marokko.img`, zodat het
+   nooit de Europa-kaart overschrijft.
+3. Zonder microSD kan het ook in de interne map `Garmin/` — dan is de unieke
+   naam verplicht.
+
+### Aanzetten en laten routeren
+
+- Instellingen → Kaart en voertuig → **Mijn kaarten** en vink de Marokko-kaart aan.
+- **Per gebied mag maar één routeerbare kaart actief zijn.** Europa en Marokko
+  overlappen niet, dus beide mogen aan blijven. Lukt routeren toch niet, zet in
+  Mijn kaarten tijdelijk alles uit behalve Marokko.
+- Controleer de **firmware**: tot versie 6.10 kon de XT niet routeren op kaarten
+  van derden. Bijwerken via Garmin Express.
+- Test: open een route uit `gpx-zumo/` in de Ritplanner en laat hem berekenen.
 
 Zonder die kaart werken alleen de bestanden uit `gpx-zumo-track/`: een track
 wordt getekend zoals hij is en heeft geen routeberekening nodig.
